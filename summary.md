@@ -19,6 +19,7 @@ graph LR
 # Learning 学习方式
 ## RL Reinforcement Learning 强化学习
 ## SL Supervised Learning 有监督学习
+### Self-Supervised Learning 自监督学习 
 ## USL Unsupervised Learning 无监督学习 
 
 # Finetune
@@ -32,7 +33,7 @@ graph LR
 
 
 # 模型
-## LanguageModel 语言模型
+## LLM LargeLanguageModel 语言模型
 ### Base_Language_Model 基础语言模型
 ### QA 问答模型
 
