@@ -1,128 +1,135 @@
 [
     {
-        "title": "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding",
-        "link": "/papers/2406.19389",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19389",
-        "arxiv_url": "https://arxiv.org/abs/2406.19389",
-        "arxiv_id": "2406.19389"
+        "title": "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale",
+        "link": "/papers/2406.17557",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17557",
+        "arxiv_url": "https://arxiv.org/abs/2406.17557",
+        "arxiv_id": "2406.17557"
     },
     {
-        "title": "Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs",
-        "link": "/papers/2406.18629",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18629",
-        "arxiv_url": "https://arxiv.org/abs/2406.18629",
-        "arxiv_id": "2406.18629"
+        "title": "YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals",
+        "link": "/papers/2406.16273",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16273",
+        "arxiv_url": "https://arxiv.org/abs/2406.16273",
+        "arxiv_id": "2406.16273"
     },
     {
-        "title": "MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data",
-        "link": "/papers/2406.18790",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18790",
-        "arxiv_url": "https://arxiv.org/abs/2406.18790",
-        "arxiv_id": "2406.18790"
+        "title": "Unlocking Continual Learning Abilities in Language Models",
+        "link": "/papers/2406.17245",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17245",
+        "arxiv_url": "https://arxiv.org/abs/2406.17245",
+        "arxiv_id": "2406.17245"
     },
     {
-        "title": "Simulating Classroom Education with LLM-Empowered Agents",
-        "link": "/papers/2406.19226",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19226",
-        "arxiv_url": "https://arxiv.org/abs/2406.19226",
-        "arxiv_id": "2406.19226"
+        "title": "Aligning Diffusion Models with Noise-Conditioned Perception",
+        "link": "/papers/2406.17636",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17636",
+        "arxiv_url": "https://arxiv.org/abs/2406.17636",
+        "arxiv_id": "2406.17636"
     },
     {
-        "title": "SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation",
-        "link": "/papers/2406.19215",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19215",
-        "arxiv_url": "https://arxiv.org/abs/2406.19215",
-        "arxiv_id": "2406.19215"
+        "title": "DiffusionPDE: Generative PDE-Solving Under Partial Observation",
+        "link": "/papers/2406.17763",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17763",
+        "arxiv_url": "https://arxiv.org/abs/2406.17763",
+        "arxiv_id": "2406.17763"
     },
     {
-        "title": "Aligning Teacher with Student Preferences for Tailored Training Data Generation",
-        "link": "/papers/2406.19227",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19227",
-        "arxiv_url": "https://arxiv.org/abs/2406.19227",
-        "arxiv_id": "2406.19227"
+        "title": "LongIns: A Challenging Long-context Instruction-based Exam for LLMs",
+        "link": "/papers/2406.17588",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17588",
+        "arxiv_url": "https://arxiv.org/abs/2406.17588",
+        "arxiv_id": "2406.17588"
     },
     {
-        "title": "Can LLMs Learn by Teaching? A Preliminary Study",
-        "link": "/papers/2406.14629",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.14629",
-        "arxiv_url": "https://arxiv.org/abs/2406.14629",
-        "arxiv_id": "2406.14629"
+        "title": "MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning",
+        "link": "/papers/2406.17770",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17770",
+        "arxiv_url": "https://arxiv.org/abs/2406.17770",
+        "arxiv_id": "2406.17770"
     },
     {
-        "title": "MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression",
-        "link": "/papers/2406.14909",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.14909",
-        "arxiv_url": "https://arxiv.org/abs/2406.14909",
-        "arxiv_id": "2406.14909"
+        "title": "APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets",
+        "link": "/papers/2406.18518",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18518",
+        "arxiv_url": "https://arxiv.org/abs/2406.18518",
+        "arxiv_id": "2406.18518"
     },
     {
-        "title": "Dataset Size Recovery from LoRA Weights",
-        "link": "/papers/2406.19395",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19395",
-        "arxiv_url": "https://arxiv.org/abs/2406.19395",
-        "arxiv_id": "2406.19395"
+        "title": "MotionBooth: Motion-Aware Customized Text-to-Video Generation",
+        "link": "/papers/2406.17758",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17758",
+        "arxiv_url": "https://arxiv.org/abs/2406.17758",
+        "arxiv_id": "2406.17758"
     },
     {
-        "title": "Is Programming by Example solved by LLMs?",
-        "link": "/papers/2406.08316",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.08316",
-        "arxiv_url": "https://arxiv.org/abs/2406.08316",
-        "arxiv_id": "2406.08316"
+        "title": "Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA",
+        "link": "/papers/2406.17419",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17419",
+        "arxiv_url": "https://arxiv.org/abs/2406.17419",
+        "arxiv_id": "2406.17419"
     },
     {
-        "title": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
-        "link": "/papers/2406.19314",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19314",
-        "arxiv_url": "https://arxiv.org/abs/2406.19314",
-        "arxiv_id": "2406.19314"
+        "title": "On the Transformations across Reward Model, Parameter Update, and In-Context Prompt",
+        "link": "/papers/2406.16377",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16377",
+        "arxiv_url": "https://arxiv.org/abs/2406.16377",
+        "arxiv_id": "2406.16377"
     },
     {
-        "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
-        "link": "/papers/2406.19263",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19263",
-        "arxiv_url": "https://arxiv.org/abs/2406.19263",
-        "arxiv_id": "2406.19263"
+        "title": "Segment Any Text: A Universal Approach for Robust, Efficient and Adaptable Sentence Segmentation",
+        "link": "/papers/2406.16678",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16678",
+        "arxiv_url": "https://arxiv.org/abs/2406.16678",
+        "arxiv_id": "2406.16678"
     },
     {
-        "title": "Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation",
-        "link": "/papers/2406.18676",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18676",
-        "arxiv_url": "https://arxiv.org/abs/2406.18676",
-        "arxiv_id": "2406.18676"
+        "title": "FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models",
+        "link": "/papers/2406.16863",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16863",
+        "arxiv_url": "https://arxiv.org/abs/2406.16863",
+        "arxiv_id": "2406.16863"
     },
     {
-        "title": "AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models",
-        "link": "/papers/2406.10900",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.10900",
-        "arxiv_url": "https://arxiv.org/abs/2406.10900",
-        "arxiv_id": "2406.10900"
+        "title": "DialSim: A Real-Time Simulator for Evaluating Long-Term Dialogue Understanding of Conversational Agents",
+        "link": "/papers/2406.13144",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.13144",
+        "arxiv_url": "https://arxiv.org/abs/2406.13144",
+        "arxiv_id": "2406.13144"
     },
     {
-        "title": "T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings",
-        "link": "/papers/2406.19223",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19223",
-        "arxiv_url": "https://arxiv.org/abs/2406.19223",
-        "arxiv_id": "2406.19223"
+        "title": "Image Conductor: Precision Control for Interactive Video Synthesis",
+        "link": "/papers/2406.15339",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.15339",
+        "arxiv_url": "https://arxiv.org/abs/2406.15339",
+        "arxiv_id": "2406.15339"
     },
     {
-        "title": "ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs",
-        "link": "/papers/2406.18120",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18120",
-        "arxiv_url": "https://arxiv.org/abs/2406.18120",
-        "arxiv_id": "2406.18120"
+        "title": "Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients",
+        "link": "/papers/2406.17660",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17660",
+        "arxiv_url": "https://arxiv.org/abs/2406.17660",
+        "arxiv_id": "2406.17660"
     },
     {
-        "title": "Benchmarking Mental State Representations in Language Models",
-        "link": "/papers/2406.17513",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17513",
-        "arxiv_url": "https://arxiv.org/abs/2406.17513",
-        "arxiv_id": "2406.17513"
+        "title": "Large Language Models Assume People are More Rational than We Really are",
+        "link": "/papers/2406.17055",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17055",
+        "arxiv_url": "https://arxiv.org/abs/2406.17055",
+        "arxiv_id": "2406.17055"
     },
     {
-        "title": "ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models",
-        "link": "/papers/2406.18125",
-        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18125",
-        "arxiv_url": "https://arxiv.org/abs/2406.18125",
-        "arxiv_id": "2406.18125"
+        "title": "Cross-Modality Safety Alignment",
+        "link": "/papers/2406.15279",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.15279",
+        "arxiv_url": "https://arxiv.org/abs/2406.15279",
+        "arxiv_id": "2406.15279"
+    },
+    {
+        "title": "Multi-property Steering of Large Language Models with Dynamic Activation Composition",
+        "link": "/papers/2406.17563",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17563",
+        "arxiv_url": "https://arxiv.org/abs/2406.17563",
+        "arxiv_id": "2406.17563"
     }
 ]
