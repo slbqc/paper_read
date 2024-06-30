@@ -1,0 +1,128 @@
+[
+    {
+        "title": "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding",
+        "link": "/papers/2406.19389",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19389",
+        "arxiv_url": "https://arxiv.org/abs/2406.19389",
+        "arxiv_id": "2406.19389"
+    },
+    {
+        "title": "Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs",
+        "link": "/papers/2406.18629",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18629",
+        "arxiv_url": "https://arxiv.org/abs/2406.18629",
+        "arxiv_id": "2406.18629"
+    },
+    {
+        "title": "MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data",
+        "link": "/papers/2406.18790",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18790",
+        "arxiv_url": "https://arxiv.org/abs/2406.18790",
+        "arxiv_id": "2406.18790"
+    },
+    {
+        "title": "Simulating Classroom Education with LLM-Empowered Agents",
+        "link": "/papers/2406.19226",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19226",
+        "arxiv_url": "https://arxiv.org/abs/2406.19226",
+        "arxiv_id": "2406.19226"
+    },
+    {
+        "title": "SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation",
+        "link": "/papers/2406.19215",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19215",
+        "arxiv_url": "https://arxiv.org/abs/2406.19215",
+        "arxiv_id": "2406.19215"
+    },
+    {
+        "title": "Aligning Teacher with Student Preferences for Tailored Training Data Generation",
+        "link": "/papers/2406.19227",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19227",
+        "arxiv_url": "https://arxiv.org/abs/2406.19227",
+        "arxiv_id": "2406.19227"
+    },
+    {
+        "title": "Can LLMs Learn by Teaching? A Preliminary Study",
+        "link": "/papers/2406.14629",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.14629",
+        "arxiv_url": "https://arxiv.org/abs/2406.14629",
+        "arxiv_id": "2406.14629"
+    },
+    {
+        "title": "MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression",
+        "link": "/papers/2406.14909",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.14909",
+        "arxiv_url": "https://arxiv.org/abs/2406.14909",
+        "arxiv_id": "2406.14909"
+    },
+    {
+        "title": "Dataset Size Recovery from LoRA Weights",
+        "link": "/papers/2406.19395",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19395",
+        "arxiv_url": "https://arxiv.org/abs/2406.19395",
+        "arxiv_id": "2406.19395"
+    },
+    {
+        "title": "Is Programming by Example solved by LLMs?",
+        "link": "/papers/2406.08316",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.08316",
+        "arxiv_url": "https://arxiv.org/abs/2406.08316",
+        "arxiv_id": "2406.08316"
+    },
+    {
+        "title": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
+        "link": "/papers/2406.19314",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19314",
+        "arxiv_url": "https://arxiv.org/abs/2406.19314",
+        "arxiv_id": "2406.19314"
+    },
+    {
+        "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
+        "link": "/papers/2406.19263",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19263",
+        "arxiv_url": "https://arxiv.org/abs/2406.19263",
+        "arxiv_id": "2406.19263"
+    },
+    {
+        "title": "Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation",
+        "link": "/papers/2406.18676",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18676",
+        "arxiv_url": "https://arxiv.org/abs/2406.18676",
+        "arxiv_id": "2406.18676"
+    },
+    {
+        "title": "AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models",
+        "link": "/papers/2406.10900",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.10900",
+        "arxiv_url": "https://arxiv.org/abs/2406.10900",
+        "arxiv_id": "2406.10900"
+    },
+    {
+        "title": "T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings",
+        "link": "/papers/2406.19223",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19223",
+        "arxiv_url": "https://arxiv.org/abs/2406.19223",
+        "arxiv_id": "2406.19223"
+    },
+    {
+        "title": "ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs",
+        "link": "/papers/2406.18120",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18120",
+        "arxiv_url": "https://arxiv.org/abs/2406.18120",
+        "arxiv_id": "2406.18120"
+    },
+    {
+        "title": "Benchmarking Mental State Representations in Language Models",
+        "link": "/papers/2406.17513",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17513",
+        "arxiv_url": "https://arxiv.org/abs/2406.17513",
+        "arxiv_id": "2406.17513"
+    },
+    {
+        "title": "ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models",
+        "link": "/papers/2406.18125",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18125",
+        "arxiv_url": "https://arxiv.org/abs/2406.18125",
+        "arxiv_id": "2406.18125"
+    }
+]
