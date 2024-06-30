@@ -1,0 +1,177 @@
+[
+    {
+        "title": "DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation",
+        "link": "/papers/2406.16855",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16855",
+        "arxiv_url": "https://arxiv.org/abs/2406.16855",
+        "arxiv_id": "2406.16855"
+    },
+    {
+        "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",
+        "link": "/papers/2406.16860",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16860",
+        "arxiv_url": "https://arxiv.org/abs/2406.16860",
+        "arxiv_id": "2406.16860"
+    },
+    {
+        "title": "BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions",
+        "link": "/papers/2406.15877",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.15877",
+        "arxiv_url": "https://arxiv.org/abs/2406.15877",
+        "arxiv_id": "2406.15877"
+    },
+    {
+        "title": "Evaluating D-MERIT of Partial-annotation on Information Retrieval",
+        "link": "/papers/2406.16048",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16048",
+        "arxiv_url": "https://arxiv.org/abs/2406.16048",
+        "arxiv_id": "2406.16048"
+    },
+    {
+        "title": "Long Context Transfer from Language to Vision",
+        "link": "/papers/2406.16852",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16852",
+        "arxiv_url": "https://arxiv.org/abs/2406.16852",
+        "arxiv_id": "2406.16852"
+    },
+    {
+        "title": "Video-Infinity: Distributed Long Video Generation",
+        "link": "/papers/2406.16260",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16260",
+        "arxiv_url": "https://arxiv.org/abs/2406.16260",
+        "arxiv_id": "2406.16260"
+    },
+    {
+        "title": "VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models",
+        "link": "/papers/2406.16338",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16338",
+        "arxiv_url": "https://arxiv.org/abs/2406.16338",
+        "arxiv_id": "2406.16338"
+    },
+    {
+        "title": "Scaling Laws for Linear Complexity Language Models",
+        "link": "/papers/2406.16690",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16690",
+        "arxiv_url": "https://arxiv.org/abs/2406.16690",
+        "arxiv_id": "2406.16690"
+    },
+    {
+        "title": "WARP: On the Benefits of Weight Averaged Rewarded Policies",
+        "link": "/papers/2406.16768",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16768",
+        "arxiv_url": "https://arxiv.org/abs/2406.16768",
+        "arxiv_id": "2406.16768"
+    },
+    {
+        "title": "Efficient Continual Pre-training by Mitigating the Stability Gap",
+        "link": "/papers/2406.14833",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.14833",
+        "arxiv_url": "https://arxiv.org/abs/2406.14833",
+        "arxiv_id": "2406.14833"
+    },
+    {
+        "title": "Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters",
+        "link": "/papers/2406.16758",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16758",
+        "arxiv_url": "https://arxiv.org/abs/2406.16758",
+        "arxiv_id": "2406.16758"
+    },
+    {
+        "title": "Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers",
+        "link": "/papers/2406.16747",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16747",
+        "arxiv_url": "https://arxiv.org/abs/2406.16747",
+        "arxiv_id": "2406.16747"
+    },
+    {
+        "title": "Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models",
+        "link": "/papers/2406.15718",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.15718",
+        "arxiv_url": "https://arxiv.org/abs/2406.15718",
+        "arxiv_id": "2406.15718"
+    },
+    {
+        "title": "Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs",
+        "link": "/papers/2406.15927",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.15927",
+        "arxiv_url": "https://arxiv.org/abs/2406.15927",
+        "arxiv_id": "2406.15927"
+    },
+    {
+        "title": "Preference Tuning For Toxicity Mitigation Generalizes Across Languages",
+        "link": "/papers/2406.16235",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16235",
+        "arxiv_url": "https://arxiv.org/abs/2406.16235",
+        "arxiv_id": "2406.16235"
+    },
+    {
+        "title": "Confidence Regulation Neurons in Language Models",
+        "link": "/papers/2406.16254",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16254",
+        "arxiv_url": "https://arxiv.org/abs/2406.16254",
+        "arxiv_id": "2406.16254"
+    },
+    {
+        "title": "AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models",
+        "link": "/papers/2406.16714",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16714",
+        "arxiv_url": "https://arxiv.org/abs/2406.16714",
+        "arxiv_id": "2406.16714"
+    },
+    {
+        "title": "How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics",
+        "link": "/papers/2406.14051",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.14051",
+        "arxiv_url": "https://arxiv.org/abs/2406.14051",
+        "arxiv_id": "2406.14051"
+    },
+    {
+        "title": "ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians",
+        "link": "/papers/2406.16815",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16815",
+        "arxiv_url": "https://arxiv.org/abs/2406.16815",
+        "arxiv_id": "2406.16815"
+    },
+    {
+        "title": "Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization",
+        "link": "/papers/2406.16008",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16008",
+        "arxiv_url": "https://arxiv.org/abs/2406.16008",
+        "arxiv_id": "2406.16008"
+    },
+    {
+        "title": "IRASim: Learning Interactive Real-Robot Action Simulators",
+        "link": "/papers/2406.14540",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.14540",
+        "arxiv_url": "https://arxiv.org/abs/2406.14540",
+        "arxiv_id": "2406.14540"
+    },
+    {
+        "title": "Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations",
+        "link": "/papers/2406.13632",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.13632",
+        "arxiv_url": "https://arxiv.org/abs/2406.13632",
+        "arxiv_id": "2406.13632"
+    },
+    {
+        "title": "video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models",
+        "link": "/papers/2406.15704",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.15704",
+        "arxiv_url": "https://arxiv.org/abs/2406.15704",
+        "arxiv_id": "2406.15704"
+    },
+    {
+        "title": "Repulsive Score Distillation for Diverse Sampling of Diffusion Models",
+        "link": "/papers/2406.16683",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16683",
+        "arxiv_url": "https://arxiv.org/abs/2406.16683",
+        "arxiv_id": "2406.16683"
+    },
+    {
+        "title": "OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?",
+        "link": "/papers/2406.16772",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16772",
+        "arxiv_url": "https://arxiv.org/abs/2406.16772",
+        "arxiv_id": "2406.16772"
+    }
+]
