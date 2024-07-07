@@ -1,0 +1,65 @@
+[
+    {
+        "title": "InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output",
+        "link": "/papers/2407.03320",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03320",
+        "arxiv_url": "https://arxiv.org/abs/2407.03320",
+        "arxiv_id": "2407.03320"
+    },
+    {
+        "title": "TabReD: A Benchmark of Tabular Machine Learning in-the-Wild",
+        "link": "/papers/2406.19380",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19380",
+        "arxiv_url": "https://arxiv.org/abs/2406.19380",
+        "arxiv_id": "2406.19380"
+    },
+    {
+        "title": "TokenPacker: Efficient Visual Projector for Multimodal LLM",
+        "link": "/papers/2407.02392",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02392",
+        "arxiv_url": "https://arxiv.org/abs/2407.02392",
+        "arxiv_id": "2407.02392"
+    },
+    {
+        "title": "No Training, No Problem: Rethinking Classifier-Free Guidance for Diffusion Models",
+        "link": "/papers/2407.02687",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02687",
+        "arxiv_url": "https://arxiv.org/abs/2407.02687",
+        "arxiv_id": "2407.02687"
+    },
+    {
+        "title": "PicoAudio: Enabling Precise Timestamp and Frequency Controllability of Audio Events in Text-to-audio Generation",
+        "link": "/papers/2407.02869",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02869",
+        "arxiv_url": "https://arxiv.org/abs/2407.02869",
+        "arxiv_id": "2407.02869"
+    },
+    {
+        "title": "DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents",
+        "link": "/papers/2407.03300",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03300",
+        "arxiv_url": "https://arxiv.org/abs/2407.03300",
+        "arxiv_id": "2407.03300"
+    },
+    {
+        "title": "Investigating Decoder-only Large Language Models for Speech-to-text Translation",
+        "link": "/papers/2407.03169",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03169",
+        "arxiv_url": "https://arxiv.org/abs/2407.03169",
+        "arxiv_id": "2407.03169"
+    },
+    {
+        "title": "Eliminating Position Bias of Language Models: A Mechanistic Approach",
+        "link": "/papers/2407.01100",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01100",
+        "arxiv_url": "https://arxiv.org/abs/2407.01100",
+        "arxiv_id": "2407.01100"
+    },
+    {
+        "title": "A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses",
+        "link": "/papers/2407.02551",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02551",
+        "arxiv_url": "https://arxiv.org/abs/2407.02551",
+        "arxiv_id": "2407.02551"
+    }
+]
