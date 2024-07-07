@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems",
+        "link": "/papers/2407.01370",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01370",
+        "arxiv_url": "https://arxiv.org/abs/2407.01370",
+        "arxiv_id": "2407.01370"
+    },
+    {
+        "title": "OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation",
+        "link": "/papers/2407.02371",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02371",
+        "arxiv_url": "https://arxiv.org/abs/2407.02371",
+        "arxiv_id": "2407.02371"
+    },
+    {
+        "title": "Agentless: Demystifying LLM-based Software Engineering Agents",
+        "link": "/papers/2407.01489",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01489",
+        "arxiv_url": "https://arxiv.org/abs/2407.01489",
+        "arxiv_id": "2407.01489"
+    },
+    {
+        "title": "MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention",
+        "link": "/papers/2407.02490",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02490",
+        "arxiv_url": "https://arxiv.org/abs/2407.02490",
+        "arxiv_id": "2407.02490"
+    },
+    {
+        "title": "Understanding Alignment in Multimodal LLMs: A Comprehensive Study",
+        "link": "/papers/2407.02477",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02477",
+        "arxiv_url": "https://arxiv.org/abs/2407.02477",
+        "arxiv_id": "2407.02477"
+    },
+    {
+        "title": "To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models",
+        "link": "/papers/2407.01920",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01920",
+        "arxiv_url": "https://arxiv.org/abs/2407.01920",
+        "arxiv_id": "2407.01920"
+    },
+    {
+        "title": "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency",
+        "link": "/papers/2407.02398",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02398",
+        "arxiv_url": "https://arxiv.org/abs/2407.02398",
+        "arxiv_id": "2407.02398"
+    },
+    {
+        "title": "Magic Insert: Style-Aware Drag-and-Drop",
+        "link": "/papers/2407.02489",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02489",
+        "arxiv_url": "https://arxiv.org/abs/2407.02489",
+        "arxiv_id": "2407.02489"
+    },
+    {
+        "title": "Revealing Fine-Grained Values and Opinions in Large Language Models",
+        "link": "/papers/2406.19238",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19238",
+        "arxiv_url": "https://arxiv.org/abs/2406.19238",
+        "arxiv_id": "2406.19238"
+    },
+    {
+        "title": "What Matters in Detecting AI-Generated Videos like Sora?",
+        "link": "/papers/2406.19568",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19568",
+        "arxiv_url": "https://arxiv.org/abs/2406.19568",
+        "arxiv_id": "2406.19568"
+    },
+    {
+        "title": "FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds",
+        "link": "/papers/2407.01494",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01494",
+        "arxiv_url": "https://arxiv.org/abs/2407.01494",
+        "arxiv_id": "2407.01494"
+    },
+    {
+        "title": "\u03bc-Bench: A Vision-Language Benchmark for Microscopy Understanding",
+        "link": "/papers/2407.01791",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01791",
+        "arxiv_url": "https://arxiv.org/abs/2407.01791",
+        "arxiv_id": "2407.01791"
+    }
+]
