@@ -1,0 +1,191 @@
+[
+    {
+        "title": "We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?",
+        "link": "/papers/2407.01284",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01284",
+        "arxiv_url": "https://arxiv.org/abs/2407.01284",
+        "arxiv_id": "2407.01284"
+    },
+    {
+        "title": "ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning",
+        "link": "/papers/2406.19741",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19741",
+        "arxiv_url": "https://arxiv.org/abs/2406.19741",
+        "arxiv_id": "2406.19741"
+    },
+    {
+        "title": "MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation",
+        "link": "/papers/2407.00468",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00468",
+        "arxiv_url": "https://arxiv.org/abs/2407.00468",
+        "arxiv_id": "2407.00468"
+    },
+    {
+        "title": "LiteSearch: Efficacious Tree Search for LLM",
+        "link": "/papers/2407.00320",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00320",
+        "arxiv_url": "https://arxiv.org/abs/2407.00320",
+        "arxiv_id": "2407.00320"
+    },
+    {
+        "title": "Wavelets Are All You Need for Autoregressive Image Generation",
+        "link": "/papers/2406.19997",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19997",
+        "arxiv_url": "https://arxiv.org/abs/2406.19997",
+        "arxiv_id": "2406.19997"
+    },
+    {
+        "title": "ColPali: Efficient Document Retrieval with Vision Language Models",
+        "link": "/papers/2407.01449",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01449",
+        "arxiv_url": "https://arxiv.org/abs/2407.01449",
+        "arxiv_id": "2407.01449"
+    },
+    {
+        "title": "RegMix: Data Mixture as Regression for Language Model Pre-training",
+        "link": "/papers/2407.01492",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01492",
+        "arxiv_url": "https://arxiv.org/abs/2407.01492",
+        "arxiv_id": "2407.01492"
+    },
+    {
+        "title": "DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models",
+        "link": "/papers/2407.01519",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01519",
+        "arxiv_url": "https://arxiv.org/abs/2407.01519",
+        "arxiv_id": "2407.01519"
+    },
+    {
+        "title": "Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning",
+        "link": "/papers/2407.00782",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00782",
+        "arxiv_url": "https://arxiv.org/abs/2407.00782",
+        "arxiv_id": "2407.00782"
+    },
+    {
+        "title": "Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP",
+        "link": "/papers/2407.00402",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00402",
+        "arxiv_url": "https://arxiv.org/abs/2407.00402",
+        "arxiv_id": "2407.00402"
+    },
+    {
+        "title": "InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation",
+        "link": "/papers/2407.00788",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00788",
+        "arxiv_url": "https://arxiv.org/abs/2407.00788",
+        "arxiv_id": "2407.00788"
+    },
+    {
+        "title": "E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS",
+        "link": "/papers/2406.18009",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18009",
+        "arxiv_url": "https://arxiv.org/abs/2406.18009",
+        "arxiv_id": "2406.18009"
+    },
+    {
+        "title": "RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network",
+        "link": "/papers/2406.18284",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18284",
+        "arxiv_url": "https://arxiv.org/abs/2406.18284",
+        "arxiv_id": "2406.18284"
+    },
+    {
+        "title": "MIRAI: Evaluating LLM Agents for Event Forecasting",
+        "link": "/papers/2407.01231",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01231",
+        "arxiv_url": "https://arxiv.org/abs/2407.01231",
+        "arxiv_id": "2407.01231"
+    },
+    {
+        "title": "OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents",
+        "link": "/papers/2407.00114",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00114",
+        "arxiv_url": "https://arxiv.org/abs/2407.00114",
+        "arxiv_id": "2407.00114"
+    },
+    {
+        "title": "Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language",
+        "link": "/papers/2406.20085",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.20085",
+        "arxiv_url": "https://arxiv.org/abs/2406.20085",
+        "arxiv_id": "2406.20085"
+    },
+    {
+        "title": "Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs",
+        "link": "/papers/2407.00653",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00653",
+        "arxiv_url": "https://arxiv.org/abs/2407.00653",
+        "arxiv_id": "2407.00653"
+    },
+    {
+        "title": "Towards Robust Speech Representation Learning for Thousands of Languages",
+        "link": "/papers/2407.00837",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00837",
+        "arxiv_url": "https://arxiv.org/abs/2407.00837",
+        "arxiv_id": "2407.00837"
+    },
+    {
+        "title": "T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge",
+        "link": "/papers/2407.00088",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00088",
+        "arxiv_url": "https://arxiv.org/abs/2407.00088",
+        "arxiv_id": "2407.00088"
+    },
+    {
+        "title": "SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix",
+        "link": "/papers/2407.00367",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00367",
+        "arxiv_url": "https://arxiv.org/abs/2407.00367",
+        "arxiv_id": "2407.00367"
+    },
+    {
+        "title": "Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER",
+        "link": "/papers/2407.01272",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01272",
+        "arxiv_url": "https://arxiv.org/abs/2407.01272",
+        "arxiv_id": "2407.01272"
+    },
+    {
+        "title": "UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI",
+        "link": "/papers/2407.00106",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00106",
+        "arxiv_url": "https://arxiv.org/abs/2407.00106",
+        "arxiv_id": "2407.00106"
+    },
+    {
+        "title": "Accurate Prediction of Ligand-Protein Interaction Affinities with Fine-Tuned Small Language Models",
+        "link": "/papers/2407.00111",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00111",
+        "arxiv_url": "https://arxiv.org/abs/2407.00111",
+        "arxiv_id": "2407.00111"
+    },
+    {
+        "title": "DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging",
+        "link": "/papers/2407.01470",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01470",
+        "arxiv_url": "https://arxiv.org/abs/2407.01470",
+        "arxiv_id": "2407.01470"
+    },
+    {
+        "title": "The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models",
+        "link": "/papers/2406.19999",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19999",
+        "arxiv_url": "https://arxiv.org/abs/2406.19999",
+        "arxiv_id": "2406.19999"
+    },
+    {
+        "title": "Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs",
+        "link": "/papers/2406.20086",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.20086",
+        "arxiv_url": "https://arxiv.org/abs/2406.20086",
+        "arxiv_id": "2406.20086"
+    },
+    {
+        "title": "ProgressGym: Alignment with a Millennium of Moral Progress",
+        "link": "/papers/2406.20087",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.20087",
+        "arxiv_url": "https://arxiv.org/abs/2406.20087",
+        "arxiv_id": "2406.20087"
+    }
+]

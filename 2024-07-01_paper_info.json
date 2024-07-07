@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Scaling Synthetic Data Creation with 1,000,000,000 Personas",
+        "link": "/papers/2406.20094",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.20094",
+        "arxiv_url": "https://arxiv.org/abs/2406.20094",
+        "arxiv_id": "2406.20094"
+    },
+    {
+        "title": "HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale",
+        "link": "/papers/2406.19280",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19280",
+        "arxiv_url": "https://arxiv.org/abs/2406.19280",
+        "arxiv_id": "2406.19280"
+    },
+    {
+        "title": "LLaRA: Supercharging Robot Learning Data for Vision-Language Policy",
+        "link": "/papers/2406.20095",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.20095",
+        "arxiv_url": "https://arxiv.org/abs/2406.20095",
+        "arxiv_id": "2406.20095"
+    },
+    {
+        "title": "Direct Preference Knowledge Distillation for Large Language Models",
+        "link": "/papers/2406.19774",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19774",
+        "arxiv_url": "https://arxiv.org/abs/2406.19774",
+        "arxiv_id": "2406.19774"
+    },
+    {
+        "title": "GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality",
+        "link": "/papers/2406.18462",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.18462",
+        "arxiv_url": "https://arxiv.org/abs/2406.18462",
+        "arxiv_id": "2406.18462"
+    },
+    {
+        "title": "EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model",
+        "link": "/papers/2406.20076",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.20076",
+        "arxiv_url": "https://arxiv.org/abs/2406.20076",
+        "arxiv_id": "2406.20076"
+    },
+    {
+        "title": "AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation",
+        "link": "/papers/2406.19251",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19251",
+        "arxiv_url": "https://arxiv.org/abs/2406.19251",
+        "arxiv_id": "2406.19251"
+    },
+    {
+        "title": "Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning",
+        "link": "/papers/2407.00617",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.00617",
+        "arxiv_url": "https://arxiv.org/abs/2407.00617",
+        "arxiv_id": "2407.00617"
+    },
+    {
+        "title": "Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity",
+        "link": "/papers/2406.17720",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.17720",
+        "arxiv_url": "https://arxiv.org/abs/2406.17720",
+        "arxiv_id": "2406.17720"
+    },
+    {
+        "title": "Efficient World Models with Context-Aware Tokenization",
+        "link": "/papers/2406.19320",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.19320",
+        "arxiv_url": "https://arxiv.org/abs/2406.19320",
+        "arxiv_id": "2406.19320"
+    },
+    {
+        "title": "RaTEScore: A Metric for Radiology Report Generation",
+        "link": "/papers/2406.16845",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.16845",
+        "arxiv_url": "https://arxiv.org/abs/2406.16845",
+        "arxiv_id": "2406.16845"
+    }
+]
