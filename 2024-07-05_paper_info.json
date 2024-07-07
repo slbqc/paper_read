@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
+        "link": "/papers/2407.01392",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01392",
+        "arxiv_url": "https://arxiv.org/abs/2407.01392",
+        "arxiv_id": "2407.01392"
+    },
+    {
+        "title": "Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models",
+        "link": "/papers/2407.01906",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.01906",
+        "arxiv_url": "https://arxiv.org/abs/2407.01906",
+        "arxiv_id": "2407.01906"
+    },
+    {
+        "title": "Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages",
+        "link": "/papers/2407.03321",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03321",
+        "arxiv_url": "https://arxiv.org/abs/2407.03321",
+        "arxiv_id": "2407.03321"
+    }
+]
