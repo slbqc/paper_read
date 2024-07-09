@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Unveiling Encoder-Free Vision-Language Models",
+        "link": "/papers/2406.11832",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.11832",
+        "arxiv_url": "https://arxiv.org/abs/2406.11832",
+        "arxiv_id": "2406.11832"
+    },
+    {
+        "title": "FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs",
+        "link": "/papers/2407.04051",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04051",
+        "arxiv_url": "https://arxiv.org/abs/2407.04051",
+        "arxiv_id": "2407.04051"
+    },
+    {
+        "title": "AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents",
+        "link": "/papers/2407.04363",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04363",
+        "arxiv_url": "https://arxiv.org/abs/2407.04363",
+        "arxiv_id": "2407.04363"
+    },
+    {
+        "title": "RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models",
+        "link": "/papers/2407.05131",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05131",
+        "arxiv_url": "https://arxiv.org/abs/2407.05131",
+        "arxiv_id": "2407.05131"
+    },
+    {
+        "title": "ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild",
+        "link": "/papers/2407.04172",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04172",
+        "arxiv_url": "https://arxiv.org/abs/2407.04172",
+        "arxiv_id": "2407.04172"
+    },
+    {
+        "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+        "link": "/papers/2407.04620",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04620",
+        "arxiv_url": "https://arxiv.org/abs/2407.04620",
+        "arxiv_id": "2407.04620"
+    },
+    {
+        "title": "DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning",
+        "link": "/papers/2407.04078",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04078",
+        "arxiv_url": "https://arxiv.org/abs/2407.04078",
+        "arxiv_id": "2407.04078"
+    },
+    {
+        "title": "Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge",
+        "link": "/papers/2407.03958",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03958",
+        "arxiv_url": "https://arxiv.org/abs/2407.03958",
+        "arxiv_id": "2407.03958"
+    },
+    {
+        "title": "On scalable oversight with weak LLMs judging strong LLMs",
+        "link": "/papers/2407.04622",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04622",
+        "arxiv_url": "https://arxiv.org/abs/2407.04622",
+        "arxiv_id": "2407.04622"
+    },
+    {
+        "title": "Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams",
+        "link": "/papers/2406.08085",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.08085",
+        "arxiv_url": "https://arxiv.org/abs/2406.08085",
+        "arxiv_id": "2406.08085"
+    },
+    {
+        "title": "Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks",
+        "link": "/papers/2407.02855",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02855",
+        "arxiv_url": "https://arxiv.org/abs/2407.02855",
+        "arxiv_id": "2407.02855"
+    },
+    {
+        "title": "HEMM: Holistic Evaluation of Multimodal Foundation Models",
+        "link": "/papers/2407.03418",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03418",
+        "arxiv_url": "https://arxiv.org/abs/2407.03418",
+        "arxiv_id": "2407.03418"
+    },
+    {
+        "title": "LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs",
+        "link": "/papers/2407.03963",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03963",
+        "arxiv_url": "https://arxiv.org/abs/2407.03963",
+        "arxiv_id": "2407.03963"
+    },
+    {
+        "title": "CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images",
+        "link": "/papers/2407.03923",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03923",
+        "arxiv_url": "https://arxiv.org/abs/2407.03923",
+        "arxiv_id": "2407.03923"
+    },
+    {
+        "title": "Granular Privacy Control for Geolocation with Vision Language Models",
+        "link": "/papers/2407.04952",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04952",
+        "arxiv_url": "https://arxiv.org/abs/2407.04952",
+        "arxiv_id": "2407.04952"
+    }
+]
