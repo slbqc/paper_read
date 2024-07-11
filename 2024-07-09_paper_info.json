@@ -1,0 +1,121 @@
+[
+    {
+        "title": "MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?",
+        "link": "/papers/2407.04842",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04842",
+        "arxiv_url": "https://arxiv.org/abs/2407.04842",
+        "arxiv_id": "2407.04842"
+    },
+    {
+        "title": "LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation Capabilities Beyond 100 Languages",
+        "link": "/papers/2407.05975",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05975",
+        "arxiv_url": "https://arxiv.org/abs/2407.05975",
+        "arxiv_id": "2407.05975"
+    },
+    {
+        "title": "Learning Action and Reasoning-Centric Image Editing from Videos and Simulations",
+        "link": "/papers/2407.03471",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03471",
+        "arxiv_url": "https://arxiv.org/abs/2407.03471",
+        "arxiv_id": "2407.03471"
+    },
+    {
+        "title": "Associative Recurrent Memory Transformer",
+        "link": "/papers/2407.04841",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04841",
+        "arxiv_url": "https://arxiv.org/abs/2407.04841",
+        "arxiv_id": "2407.04841"
+    },
+    {
+        "title": "ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation",
+        "link": "/papers/2407.06135",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06135",
+        "arxiv_url": "https://arxiv.org/abs/2407.06135",
+        "arxiv_id": "2407.06135"
+    },
+    {
+        "title": "Evaluating Language Model Context Windows: A \"Working Memory\" Test and Inference-time Correction",
+        "link": "/papers/2407.03651",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03651",
+        "arxiv_url": "https://arxiv.org/abs/2407.03651",
+        "arxiv_id": "2407.03651"
+    },
+    {
+        "title": "Compositional Video Generation as Flow Equalization",
+        "link": "/papers/2407.06182",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06182",
+        "arxiv_url": "https://arxiv.org/abs/2407.06182",
+        "arxiv_id": "2407.06182"
+    },
+    {
+        "title": "PAS: Data-Efficient Plug-and-Play Prompt Augmentation System",
+        "link": "/papers/2407.06027",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06027",
+        "arxiv_url": "https://arxiv.org/abs/2407.06027",
+        "arxiv_id": "2407.06027"
+    },
+    {
+        "title": "InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct",
+        "link": "/papers/2407.05700",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05700",
+        "arxiv_url": "https://arxiv.org/abs/2407.05700",
+        "arxiv_id": "2407.05700"
+    },
+    {
+        "title": "Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images",
+        "link": "/papers/2407.06191",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06191",
+        "arxiv_url": "https://arxiv.org/abs/2407.06191",
+        "arxiv_id": "2407.06191"
+    },
+    {
+        "title": "UltraEdit: Instruction-based Fine-Grained Image Editing at Scale",
+        "link": "/papers/2407.05282",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05282",
+        "arxiv_url": "https://arxiv.org/abs/2407.05282",
+        "arxiv_id": "2407.05282"
+    },
+    {
+        "title": "Training Task Experts through Retrieval Based Distillation",
+        "link": "/papers/2407.05463",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05463",
+        "arxiv_url": "https://arxiv.org/abs/2407.05463",
+        "arxiv_id": "2407.05463"
+    },
+    {
+        "title": "Multi-Object Hallucination in Vision-Language Models",
+        "link": "/papers/2407.06192",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06192",
+        "arxiv_url": "https://arxiv.org/abs/2407.06192",
+        "arxiv_id": "2407.06192"
+    },
+    {
+        "title": "Understanding Visual Feature Reliance through the Lens of Complexity",
+        "link": "/papers/2407.06076",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06076",
+        "arxiv_url": "https://arxiv.org/abs/2407.06076",
+        "arxiv_id": "2407.06076"
+    },
+    {
+        "title": "PartCraft: Crafting Creative Objects by Parts",
+        "link": "/papers/2407.04604",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04604",
+        "arxiv_url": "https://arxiv.org/abs/2407.04604",
+        "arxiv_id": "2407.04604"
+    },
+    {
+        "title": "LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking",
+        "link": "/papers/2407.04020",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04020",
+        "arxiv_url": "https://arxiv.org/abs/2407.04020",
+        "arxiv_id": "2407.04020"
+    },
+    {
+        "title": "ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models",
+        "link": "/papers/2407.04693",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.04693",
+        "arxiv_url": "https://arxiv.org/abs/2407.04693",
+        "arxiv_id": "2407.04693"
+    }
+]
