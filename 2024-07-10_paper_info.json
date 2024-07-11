@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Vision language models are blind",
+        "link": "/papers/2407.06581",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06581",
+        "arxiv_url": "https://arxiv.org/abs/2407.06581",
+        "arxiv_id": "2407.06581"
+    },
+    {
+        "title": "Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision",
+        "link": "/papers/2407.06189",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06189",
+        "arxiv_url": "https://arxiv.org/abs/2407.06189",
+        "arxiv_id": "2407.06189"
+    },
+    {
+        "title": "Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence",
+        "link": "/papers/2407.07061",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07061",
+        "arxiv_url": "https://arxiv.org/abs/2407.07061",
+        "arxiv_id": "2407.07061"
+    },
+    {
+        "title": "RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models",
+        "link": "/papers/2407.06938",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06938",
+        "arxiv_url": "https://arxiv.org/abs/2407.06938",
+        "arxiv_id": "2407.06938"
+    },
+    {
+        "title": "AgentInstruct: Toward Generative Teaching with Agentic Flows",
+        "link": "/papers/2407.03502",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03502",
+        "arxiv_url": "https://arxiv.org/abs/2407.03502",
+        "arxiv_id": "2407.03502"
+    },
+    {
+        "title": "Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities",
+        "link": "/papers/2407.07080",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07080",
+        "arxiv_url": "https://arxiv.org/abs/2407.07080",
+        "arxiv_id": "2407.07080"
+    },
+    {
+        "title": "MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions",
+        "link": "/papers/2407.06358",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06358",
+        "arxiv_url": "https://arxiv.org/abs/2407.06358",
+        "arxiv_id": "2407.06358"
+    },
+    {
+        "title": "Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions",
+        "link": "/papers/2407.06723",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06723",
+        "arxiv_url": "https://arxiv.org/abs/2407.06723",
+        "arxiv_id": "2407.06723"
+    },
+    {
+        "title": "Knowledge Composition using Task Vectors with Learned Anisotropic Scaling",
+        "link": "/papers/2407.02880",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.02880",
+        "arxiv_url": "https://arxiv.org/abs/2407.02880",
+        "arxiv_id": "2407.02880"
+    },
+    {
+        "title": "Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps",
+        "link": "/papers/2407.07071",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07071",
+        "arxiv_url": "https://arxiv.org/abs/2407.07071",
+        "arxiv_id": "2407.07071"
+    },
+    {
+        "title": "VIMI: Grounding Video Generation through Multi-modal Instruction",
+        "link": "/papers/2407.06304",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06304",
+        "arxiv_url": "https://arxiv.org/abs/2407.06304",
+        "arxiv_id": "2407.06304"
+    },
+    {
+        "title": "TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts",
+        "link": "/papers/2407.03203",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03203",
+        "arxiv_url": "https://arxiv.org/abs/2407.03203",
+        "arxiv_id": "2407.03203"
+    },
+    {
+        "title": "BM25S: Orders of magnitude faster lexical search via eager sparse scoring",
+        "link": "/papers/2407.03618",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.03618",
+        "arxiv_url": "https://arxiv.org/abs/2407.03618",
+        "arxiv_id": "2407.03618"
+    },
+    {
+        "title": "From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty",
+        "link": "/papers/2407.06071",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06071",
+        "arxiv_url": "https://arxiv.org/abs/2407.06071",
+        "arxiv_id": "2407.06071"
+    },
+    {
+        "title": "How do you know that? Teaching Generative Language Models to Reference Answers to Biomedical Questions",
+        "link": "/papers/2407.05015",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05015",
+        "arxiv_url": "https://arxiv.org/abs/2407.05015",
+        "arxiv_id": "2407.05015"
+    },
+    {
+        "title": "LETS-C: Leveraging Language Embedding for Time Series Classification",
+        "link": "/papers/2407.06533",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06533",
+        "arxiv_url": "https://arxiv.org/abs/2407.06533",
+        "arxiv_id": "2407.06533"
+    }
+]
