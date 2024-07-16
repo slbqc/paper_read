@@ -1,0 +1,100 @@
+[
+    {
+        "title": "PaliGemma: A versatile 3B VLM for transfer",
+        "link": "/papers/2407.07726",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07726",
+        "arxiv_url": "https://arxiv.org/abs/2407.07726",
+        "arxiv_id": "2407.07726"
+    },
+    {
+        "title": "Inference Performance Optimization for Large Language Models on CPUs",
+        "link": "/papers/2407.07304",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07304",
+        "arxiv_url": "https://arxiv.org/abs/2407.07304",
+        "arxiv_id": "2407.07304"
+    },
+    {
+        "title": "LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models",
+        "link": "/papers/2407.07895",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07895",
+        "arxiv_url": "https://arxiv.org/abs/2407.07895",
+        "arxiv_id": "2407.07895"
+    },
+    {
+        "title": "Controlling Space and Time with Diffusion Models",
+        "link": "/papers/2407.07860",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07860",
+        "arxiv_url": "https://arxiv.org/abs/2407.07860",
+        "arxiv_id": "2407.07860"
+    },
+    {
+        "title": "Video-to-Audio Generation with Hidden Alignment",
+        "link": "/papers/2407.07464",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07464",
+        "arxiv_url": "https://arxiv.org/abs/2407.07464",
+        "arxiv_id": "2407.07464"
+    },
+    {
+        "title": "Still-Moving: Customized Video Generation without Customized Video Data",
+        "link": "/papers/2407.08674",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08674",
+        "arxiv_url": "https://arxiv.org/abs/2407.08674",
+        "arxiv_id": "2407.08674"
+    },
+    {
+        "title": "VEnhancer: Generative Space-Time Enhancement for Video Generation",
+        "link": "/papers/2407.07667",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07667",
+        "arxiv_url": "https://arxiv.org/abs/2407.07667",
+        "arxiv_id": "2407.07667"
+    },
+    {
+        "title": "Do Vision and Language Models Share Concepts? A Vector Space Alignment Study",
+        "link": "/papers/2302.06555",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2302.06555",
+        "arxiv_url": "https://arxiv.org/abs/2302.06555",
+        "arxiv_id": "2302.06555"
+    },
+    {
+        "title": "On Leakage of Code Generation Evaluation Datasets",
+        "link": "/papers/2407.07565",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07565",
+        "arxiv_url": "https://arxiv.org/abs/2407.07565",
+        "arxiv_id": "2407.07565"
+    },
+    {
+        "title": "CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging",
+        "link": "/papers/2407.07315",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07315",
+        "arxiv_url": "https://arxiv.org/abs/2407.07315",
+        "arxiv_id": "2407.07315"
+    },
+    {
+        "title": "This&That: Language-Gesture Controlled Video Generation for Robot Planning",
+        "link": "/papers/2407.05530",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05530",
+        "arxiv_url": "https://arxiv.org/abs/2407.05530",
+        "arxiv_id": "2407.05530"
+    },
+    {
+        "title": "An accurate detection is not all you need to combat label noise in web-noisy datasets",
+        "link": "/papers/2407.05528",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.05528",
+        "arxiv_url": "https://arxiv.org/abs/2407.05528",
+        "arxiv_id": "2407.05528"
+    },
+    {
+        "title": "CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation",
+        "link": "/papers/2407.06188",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06188",
+        "arxiv_url": "https://arxiv.org/abs/2407.06188",
+        "arxiv_id": "2407.06188"
+    },
+    {
+        "title": "BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark",
+        "link": "/papers/2407.07788",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07788",
+        "arxiv_url": "https://arxiv.org/abs/2407.07788",
+        "arxiv_id": "2407.07788"
+    }
+]
