@@ -1,5 +1,5 @@
 
-# paper: Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On
+# Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On
 1. **论文标题**  
    - Skywork-Math: 大型语言模型数学推理能力的数据扩展法则—故事还在继续
 
@@ -24,7 +24,7 @@
 
 8. **关键图表与数据**  
    - Skywork-Math模型在MATH和GSM8K基准上的Top1准确率，以及与同级别模型比较的关键性能指标，如Skywork-Math 7B在MATH上超过早期GPT-4版本的表现。
-# paper: Video Diffusion Alignment via Reward Gradients
+# Video Diffusion Alignment via Reward Gradients
 1. **论文标题**  
    - 视频扩散对齐：通过奖励梯度进行优化
 
@@ -48,7 +48,7 @@
 
 8. **关键图表与数据**  
    - 图7展示了训练效率的对比，其中VADER在样本效率和计算效率上均优于DDPO和DPO。表1突出了VADER在文本到视频(T2V)和图像到视频(I2V)模型上的泛化能力，其在训练和测试集上的表现均优于基线方法。
-# paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model
+# Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model
 1. **论文标题**  
    - 多模态自我指导：使用语言模型合成抽象图像与视觉推理指令
 
@@ -73,7 +73,7 @@
 
 8. **关键图表与数据**  
    - 研究提供了一系列图表类型和问题类型的统计数据，以及不同复杂度的道路地图示例，展示了合成数据集的多样性和质量。此外，通过对比LMMs和人类在多种视觉推理任务上的表现，揭示了模型在抽象图像理解上的局限性。
-# paper: MAVIS: Mathematical Visual Instruction Tuning
+# MAVIS: Mathematical Visual Instruction Tuning
 **论文标题**
    - MAVIS: 数学视觉指导调优
 
@@ -98,7 +98,7 @@
 
 **关键图表与数据**
    - 表1展示了MAVIS-Caption数据集的统计信息，包括不同数学主题下的图示描述对数量、平均长度和词汇量。表2列出了MAVIS-Instruct数据集中问题的分布情况，涵盖了多种题型和来源。图1比较了CLIP和CLIP-Math在注意力机制上的差异，以及GPT-4V和MAVIS-7B在图示描述任务上的表现。表3显示了在MathVerse基准测试上不同模型的性能对比，MAVIS-7B在多个指标上取得了最优成绩。
-# paper: Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
+# Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
 1. **论文标题**  
    - Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
 
@@ -132,7 +132,7 @@
 
 8. **关键图表与数据**  
    - 图2展示了每250次训练迭代捕获的相邻投影矩阵之间的余弦相似性，用于说明梯度子空间的变化动态。
-# paper: Self-Recognition in Language Models
+#  Self-Recognition in Language Models
 1. **论文标题**
    - 自我识别在语言模型中的表现
 
@@ -157,7 +157,7 @@
 
 8. **关键图表与数据**
    - 论文中包含图表和数据，展示了不同模型在回答特定问题时的准确率和一致性，以及在限制回答长度下的位置偏见变化。例如，一个表格显示了在不同干预措施下，如限制回答长度为100或250个单词时，各模型的自识别准确率和位置偏见的具体数值。
-# paper: Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist
+# Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist
 1. **论文标题**  
    - 你的模型真的是一个好的数学推理者吗？通过检查列表评估数学推理能力
 
@@ -181,7 +181,7 @@
 
 8. **关键图表与数据**  
    - 论文中包含关键图表，例如MATHCHECK-GEO的可视化热图，展示了模型在不同任务上的性能相关性。此外，还提供了数据统计表，概述了MATHCHECK-GSM和MATHCHECK-GEO的数据分布，以及各组别中的具体任务指标。
-# paper: DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
+# DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
 1. **论文标题**  
    - DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
 
@@ -206,7 +206,7 @@
 
 8. **关键图表与数据**  
    - 图表展示了DenseFusion-1M数据集的示例，其中包含各种视觉细节和知识，以及与其他先进注释引擎的比较，突显了该数据集的全面性和准确性。实验结果显示，在不同数据规模下，DenseFusion-1M相较于ShareGPT4V等方法在数据效率上具有明显优势，尤其是在处理高分辨率输入时。
-# paper: SEED-Story: Multimodal Long Story Generation with Large Language Model
+#  SEED-Story: Multimodal Long Story Generation with Large Language Model
 1. **论文标题**  
    - SEED-Story: 多模态长故事生成与大规模语言模型
 
@@ -230,7 +230,7 @@
 
 8. **关键图表与数据**  
    - 论文中展示了SEED-Story生成的多模态故事示例，包括从同一初始图像开始的两个叙事分支，一个提到“戴黄帽子的男人”，另一个则不提及，显示了模型生成故事的灵活性和多样性。此外，通过GPT4评分评估，在风格一致性、故事吸引力和文本图像一致性三个方面的得分分别为8.61、6.27和8.24。
-# paper: MambaVision: A Hybrid Mamba-Transformer Vision Backbone
+# MambaVision: A Hybrid Mamba-Transformer Vision Backbone
 **论文标题**
 MambaVision: 一种混合Mamba-Transformer视觉主干网络
 
@@ -254,7 +254,7 @@ MambaVision作为首个专为视觉任务设计的Mamba-Transformer混合架构�
 
 **关键图表与数据**
 图1展示了ImageNet-1K上Top-1准确率与图像吞吐量的对比，MambaVision优于其他模型；图2描绘了MambaVision的层次化架构，包括不同阶段的组件和模块；表1汇总了ImageNet-1K分类结果，MambaVision-B在准确率和吞吐量上超越了ConvNeXt-B和Swin-B等模型。
-# paper: Autoregressive Speech Synthesis without Vector Quantization
+# Autoregressive Speech Synthesis without Vector Quantization
 **论文标题**
    - 自回归语音合成无需向量量化
 
@@ -283,7 +283,7 @@ MambaVision作为首个专为视觉任务设计的Mamba-Transformer混合架构�
 **关键图表与数据**
    - 表1展示了MELLE在零样本语音合成任务上的客观性能比较，其中MELLE在WER指标上超过了所有基线系统，特别是在持续和跨句任务中表现突出。
    - 图1概述了MELLE的工作流程，强调了其单阶段解码器模型结构和潜采样模块的关键作用。
-# paper: The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective
+# The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective
 1. **论文标题**  
    - 大型语言模型与多模态数据的协同作用：从协同开发视角的综述
    
@@ -307,7 +307,7 @@ MambaVision作为首个专为视觉任务设计的Mamba-Transformer混合架构�
    
 8. **关键图表与数据**  
    - 虽然摘要没有直接提及具体图表，但论文中包含了一些关键图表，如图3和图6，分别展示了多模态数据如何帮助构建大规模MLLM以及模型在数据科学任务中的应用组织。这些图表对于理解研究结果至关重要。
-# paper: Gradient Boosting Reinforcement Learning
+# Gradient Boosting Reinforcement Learning
 **论文标题**
 Gradient Boosting Reinforcement Learning
 
@@ -338,7 +338,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 **关键图表与数据**
 研究中包含了训练奖励随环境步骤变化的学习曲线，展示了GBRL与神经网络对应实现之间的直观比较。这些图表显示了不同环境下，如足球学院环境、Atari游戏环境和MiniGrid环境，GBRL在最后100个episode的平均奖励，以及与神经网络版本的对比。例如，在Atari游戏“Pong”中，GBRL版本的PPO算法获得了19.96±1.93的平均奖励，而神经网络版本则为15.40±6.55。这些数据表明GBRL在多个测试任务中取得了竞争性的表现。
-# paper: Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data
+# Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data
 1. **论文标题**  
    - Map It Anywhere(MIA): 使用大规模公共数据赋能鸟瞰图映射
 
@@ -362,7 +362,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 图1概述了MIA数据引擎如何从FPV图像中预测通用的BEV地图，图2展示了MIA数据引擎自动策划FPV和BEV数据的过程。表中的实验结果表明，Mapper在多个评估指标上优于TIIM和SkyEye等方法。
-# paper: GTA: A Benchmark for General Tool Agents
+# GTA: A Benchmark for General Tool Agents
 1. **论文标题**  
    - GTA: 通用工具代理的基准测试
 
@@ -387,7 +387,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 通过对比不同模型的工具调用次数和成功率，以及模型预测与真实答案之间的皮尔逊相关系数，展示了模型在工具选择和任务执行上的表现差异。
-# paper: Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models
+# Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models
 1. **论文标题**  
    - Live2Diff: 基于视频扩散模型中的单向注意力机制实现直播流翻译
 
@@ -414,7 +414,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 实验对比了Live2Diff与三种先前的方法，在结构一致性、时间平滑度和延迟方面的性能。Live2Diff在深度均方误差指标上表现最佳，在时间平滑度上排名第二，同时用户研究中，所有质量方面胜率均超过50%，证实了方法的优越性。
-# paper: Towards Building Specialized Generalist AI with System 1 and System 2 Fusion
+# Towards Building Specialized Generalist AI with System 1 and System 2 Fusion
 1. **论文标题**  
    - 通过系统1和系统2融合构建专业通才人工智能:迈向专业通才AI
 
@@ -444,7 +444,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 图1展示了专业通才智能(SGI)是向AGI迈进的重要里程碑，其实施路径包括专业性和通用性两个维度。
-# paper: Generalizable Implicit Motion Modeling for Video Frame Interpolation
+# Generalizable Implicit Motion Modeling for Video Frame Interpolation
 1. **论文标题**  
    - 通用隐式运动建模在视频帧插值中的应用
    
@@ -474,7 +474,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
    
 8. **关键图表与数据**  
    - 表4总结了GIMM和GIMM-VFI的训练设置，包括优化器、学习率、批量大小、权重衰减等超参数。图9展示了GIMM运动建模的定性结果，验证了GIMM设计的有效性。
-# paper: WildGaussians: 3D Gaussian Splatting in the Wild
+# WildGaussians: 3D Gaussian Splatting in the Wild
 1. **论文标题**  
    - WildGaussians: 3D Gaussian Splatting in the Wild
 
@@ -502,7 +502,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 图6显示了t-SNE投影揭示的图像嵌入空间中按外观分组的情况，如夜景图像聚类在一起。图7演示了从一个视图向另一个视图的外观平滑过渡，证明了嵌入空间的连续性质。表1比较了在不同遮挡水平下NeRF On-the-go数据集上NeRF、3DGS和WildGaussians的性能，WildGaussians在所有指标上均表现出色。
-# paper: OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects
+# OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects
 1. **论文标题**  
    - OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects
 
@@ -527,7 +527,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 论文中的关键图表展示了OmniNOCS数据集的创建过程、NOCSformer模型架构以及与现有方法对比的性能结果。数据集涵盖了室内和室外场景，包含97个类别的380k张图像，是现有NOCS数据集规模的十倍以上。
-# paper: Scaling Up Personalized Aesthetic Assessment via Task Vector Customization
+#  Scaling Up Personalized Aesthetic Assessment via Task Vector Customization
 1. **论文标题**  
    - 通过任务向量定制扩展个性化图像审美评估的规模
 
@@ -552,7 +552,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 表格9至12展示了模型在不同数据库上的性能，如GIAA和IQA任务上的PLCC和SROCC值，证明了统一架构的有效性。图8至13显示了在不同数据库上个人10-shot和100-shot个性化性能，平均SROCC值体现了模型的个性化能力。
-# paper: Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On
+# Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On
 1. **论文标题**  
    - Skywork-Math: 大型语言模型数学推理能力的数据扩展法则—故事还在继续
 
@@ -577,7 +577,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 提供了Skywork-Math模型在MATH和GSM8K基准上的Top1准确率，以及数据集中的查询-响应对示例，展示了模型解决数学问题的能力。
-# paper: Video Diffusion Alignment via Reward Gradients
+# Video Diffusion Alignment via Reward Gradients
 1. **论文标题**  
    - 视频扩散对齐：通过奖励梯度进行优化
 
@@ -601,7 +601,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 图7展示了VADER在样本和计算效率方面的优势，特别是在与DPO和DDPO的对比中，VADER能够在更少的GPU小时内达到收敛。表1提供了在训练和测试集上的奖励得分，显示VADER在所有指标上都取得了最佳成绩。
-# paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model
+# Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model
 1. **论文标题**  
    - 多模态自我指导：使用语言模型合成抽象图像与视觉推理指令
 
@@ -626,7 +626,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 表格A1展示了不同LMMs在八个推理任务上的表现，包括图表、表格、道路地图等，人类的平均正确率为82.1%，而即使是GPT-4o和Claude-3.5-Sonnet这样的先进模型，平均正确率也分别只有64.7%和59.9%。此外，还提供了基于不同类型图表和问题的统计数据，以及道路地图的复杂度分类示例。
-# paper: MAVIS: Mathematical Visual Instruction Tuning
+# MAVIS: Mathematical Visual Instruction Tuning
 **论文标题**
    - MAVIS: 数学视觉指导调优
 
@@ -651,7 +651,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 **关键图表与数据**
    - MAVIS-Caption的统计显示，总描述数为588K，平均长度为62.85词，涵盖平面几何、解析几何和函数三大类。MAVIS-Instruct中，834K问题总数，615K为选择题，218K为自由回答题，问题平均长度为44.6词，答案平均长度为62.82词。模型MAVIS-7B在MathVerse基准上取得了显著优于其他模型的成绩。
-# paper: Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
+# Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
 1. **论文标题**  
    - Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
 
@@ -685,7 +685,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 图2展示了每250次训练迭代捕获的相邻投影矩阵之间的余弦相似性，揭示了梯度子空间的变化规律。
-# paper: Self-Recognition in Language Models
+# Self-Recognition in Language Models
 1. **论文标题**
    - 自我识别在语言模型中的表现
 
@@ -710,7 +710,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**
    - 提供了不同模型在处理相同问题时的回答对比，以及回答长度对位置偏置和自我识别准确性影响的数据分析。例如，当回答长度限制在100或250词时，位置偏见略有增强，而自我识别能力随答案长度变化而变化。
-# paper: Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist
+# Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist
 1. **论文标题**  
    - 你的模型真的擅长数学推理吗？利用检查清单评估数学推理能力
 
@@ -735,7 +735,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 论文展示了MATHCHECK-GEO的可视化热图，以及MATHCHECK-GSM和MATHCHECK-GEO的数据统计表，包括各部分的问题数量和分类。此外，还提供了GPT4-turbo改写问题的通过率数据，显示改写的有效性和效率。
-# paper: DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
+# DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
 1. **论文标题**  
    - DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
 
@@ -760,7 +760,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 图2展示了DenseFusion-1M数据集中包含丰富视觉细节和知识的示例图像描述。表2对比了DenseFusion-1M预训练模型与当前领先MLLMs在10个视觉语言评估基准上的性能，证明了其在多个任务上的优越性。
-# paper: SEED-Story: Multimodal Long Story Generation with Large Language Model
+# SEED-Story: Multimodal Long Story Generation with Large Language Model
 1. **论文标题**  
    - SEED-Story: 多模态长故事生成与大规模语言模型
 
@@ -784,7 +784,7 @@ GBRL为RL领域带来了新的工具，展示了在RL范式下使用GBT的可行
 
 8. **关键图表与数据**  
    - 图1展示了SEED-Story模型生成的多模态长故事示例，包括连贯的叙事文本和角色与风格一致的图像。表4提供了GPT4对SEED-Story在不同方面的评分评价结果，如故事图像风格一致性、故事吸引力和文本图像连贯性。图7提供了SEED-Story生成的多模态故事实例，显示了从同一初始图像生成的两个叙事分支。
-# paper: MambaVision: A Hybrid Mamba-Transformer Vision Backbone
+# MambaVision: A Hybrid Mamba-Transformer Vision Backbone
 **论文标题**
 MambaVision: 一种混合Mamba-Transformer视觉主干网络
 
@@ -808,7 +808,7 @@ MambaVision作为首个专为视觉任务设计的Mamba-Transformer混合主干�
 
 **关键图表与数据**
 MambaVision在ImageNet-1K数据集上的Top-1准确度与图像吞吐量之间形成了新的最优折衷曲线，具体数值和比较结果在论文图表1中展示。此外，MambaVision在下游任务上的表现也在MS COCO和ADE20K数据集上得到了验证。
-# paper: Autoregressive Speech Synthesis without Vector Quantization
+# Autoregressive Speech Synthesis without Vector Quantization
 **论文标题**
    - 自回归语音合成无需向量量化
 
@@ -838,7 +838,7 @@ MambaVision在ImageNet-1K数据集上的Top-1准确度与图像吞吐量之间�
 **关键图表与数据**
    - 表1展示了MELLE在零样本语音合成任务上的客观性能对比，以及不同减缩因子下模型的表现。
    - 图1概述了MELLE的工作流程，包括文本提示、梅尔频谱图提取和潜在采样模块。
-# paper: The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective
+# The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective
 1. **论文标题**  
    - 大型语言模型与多模态大型语言模型的数据协同：从协同开发视角的综述
    
@@ -862,7 +862,7 @@ MambaVision在ImageNet-1K数据集上的Top-1准确度与图像吞吐量之间�
    
 8. **关键图表与数据**  
    - 虽然具体图表和数据未在摘要中列出，但论文关联了一个定期维护的项目，其中包含关于MLLMs数据的重要资源和信息，可访问https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md获取。
-# paper: Gradient Boosting Reinforcement Learning
+# Gradient Boosting Reinforcement Learning
 **论文标题**
 Gradient Boosting Reinforcement Learning
 
@@ -893,7 +893,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
 
 **关键图表与数据**
 论文提供了多个图表，展示不同环境下代理训练奖励随时间变化的趋势，包括经典控制、Box2D、足球学院、Atari和MiniGrid环境。这些图表显示了GBRL和神经网络基线在学习过程中的表现差异，证实了GBRL的有效性和竞争力。例如，在Atari游戏中，GBRL的PPO版本在某些游戏中的平均最终100集的得分与神经网络版本相当或更优，如在Pong中达到15.40±6.55，而神经网络版本为18.50±1.60。在MiniGrid环境中，GBRL的AWR版本在Fetch-5x5-N2任务中达到0.95±0.01的平均最终100集奖励，显著优于神经网络的0.90±0.26。这些结果强调了GBRL在处理复杂环境中的能力。
-# paper: Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data
+# Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data
 1. **论文标题**  
    - Map It Anywhere(MIA): 使用大规模公共数据赋能鸟瞰图映射
 
@@ -917,7 +917,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
 
 8. **关键图表与数据**  
    - 论文中的关键图表包括MIA数据引擎的工作流程概述图，展示了FPV图像处理和BEV地图检索的自动策展过程。此外，还包括了模型在KITTI360-BEV、MIA-OOD和NuScenes数据集上的性能对比表，证明了MIA数据集训练模型的优越泛化能力。
-# paper: GTA: A Benchmark for General Tool Agents
+# GTA: A Benchmark for General Tool Agents
 1. **论文标题**  
    - GTA: 通用工具代理的基准测试
 
@@ -942,7 +942,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
 
 8. **关键图表与数据**  
    - 关键数据包括229个真实世界任务和工具链，以及多个评估指标，如AnsAcc、F1分数等，用于衡量模型的工具选择和执行性能。图5展示了AnsAcc与其他四个指标之间的皮尔逊相关系数，图6则展示了各模型成功和失败的工具调用次数。
-# paper: Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models
+# Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models
 1. **论文标题**  
    - **Live2Diff: 基于视频扩散模型的直播流翻译中的单向注意力机制**
 
@@ -967,7 +967,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
 
 8. **关键图表与数据**  
    - 表1提供了结构一致性和时间平滑性的量化比较，展示了LIVE2DIFF在深度均方误差上的最低值和接近最优的时间平滑性得分。此外，用户研究的胜率进一步支持了该方法在视频质量和处理速度上的优越性。
-# paper: Towards Building Specialized Generalist AI with System 1 and System 2 Fusion
+# Towards Building Specialized Generalist AI with System 1 and System 2 Fusion
 1. **论文标题**  
    - 通过系统1和系统2融合构建专业通才人工智能:迈向专业通才AI
 
@@ -997,7 +997,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
 
 8. **关键图表与数据**  
    - 图1展示了专业通才智能(SGI)是向人工通用智能(AGI)迈进的重要里程碑，其实施路径涵盖了专业性和一般性两个维度。
-# paper: Generalizable Implicit Motion Modeling for Video Frame Interpolation
+# Generalizable Implicit Motion Modeling for Video Frame Interpolation
 1. **论文标题**  
    - 通用隐式运动建模在视频帧插值中的应用
    
@@ -1027,7 +1027,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
    
 8. **关键图表与数据**  
    - 图9展示了GIMM运动建模的额外定性结果，可视化了GIMM及其变体在消融研究中的建模运动，证实了GIMM设计的有效性，尤其是在处理前向映射替换或潜变量精炼跳过时，头部运动随所有时间步长的噪声显著恶化。此外，表4总结了GIMM和GIMM-VFI的训练设置，包括优化器、学习率、批大小等超参数。
-# paper: WildGaussians: 3D Gaussian Splatting in the Wild
+#  WildGaussians: 3D Gaussian Splatting in the Wild
 1. **论文标题**  
    - WildGaussians: 在野外环境下的三维高斯喷溅技术
    
@@ -1052,7 +1052,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
    
 8. **关键图表与数据**  
    - 图表显示了WildGaussians在NeRF On-the-go数据集上的表现，包括Brandenburg Gate、Sacre Coeur和Trevi Fountain场景的PSNR、SSIM和LPIPS指标，均优于基线方法。例如，在Brandenburg Gate场景中，WildGaussians的PSNR达到了25.49 dB，SSIM为0.879，LPIPS为0.224，显著优于其他方法。
-# paper: OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects
+# OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects
 1. **论文标题**  
    - OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects
 
@@ -1077,7 +1077,7 @@ GBRL为强化学习领域提供了一种新的工具，证明了在特定领域�
 
 8. **关键图表与数据**  
    - 关键图表包括OmniNOCS数据集的创建过程示意图(Figure 2)，以及对NOCSformer性能进行比较的实验结果。数据方面，OmniNOCS数据集涵盖了97个类别的38万张图像，比现有NOCS数据集大一个数量级。
-# paper: Scaling Up Personalized Aesthetic Assessment via Task Vector Customization
+# Scaling Up Personalized Aesthetic Assessment via Task Vector Customization
 1. **论文标题**  
    - 通过任务向量定制扩展个性化图像审美评估的规模
 
