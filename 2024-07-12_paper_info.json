@@ -1,0 +1,149 @@
+[
+    {
+        "title": "Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On",
+        "link": "/papers/2407.08348",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08348",
+        "arxiv_url": "https://arxiv.org/abs/2407.08348",
+        "arxiv_id": "2407.08348"
+    },
+    {
+        "title": "Video Diffusion Alignment via Reward Gradients",
+        "link": "/papers/2407.08737",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08737",
+        "arxiv_url": "https://arxiv.org/abs/2407.08737",
+        "arxiv_id": "2407.08737"
+    },
+    {
+        "title": "Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model",
+        "link": "/papers/2407.07053",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07053",
+        "arxiv_url": "https://arxiv.org/abs/2407.07053",
+        "arxiv_id": "2407.07053"
+    },
+    {
+        "title": "MAVIS: Mathematical Visual Instruction Tuning",
+        "link": "/papers/2407.08739",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08739",
+        "arxiv_url": "https://arxiv.org/abs/2407.08739",
+        "arxiv_id": "2407.08739"
+    },
+    {
+        "title": "Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients",
+        "link": "/papers/2407.08296",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08296",
+        "arxiv_url": "https://arxiv.org/abs/2407.08296",
+        "arxiv_id": "2407.08296"
+    },
+    {
+        "title": "Self-Recognition in Language Models",
+        "link": "/papers/2407.06946",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06946",
+        "arxiv_url": "https://arxiv.org/abs/2407.06946",
+        "arxiv_id": "2407.06946"
+    },
+    {
+        "title": "Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist",
+        "link": "/papers/2407.08733",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08733",
+        "arxiv_url": "https://arxiv.org/abs/2407.08733",
+        "arxiv_id": "2407.08733"
+    },
+    {
+        "title": "DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception",
+        "link": "/papers/2407.08303",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08303",
+        "arxiv_url": "https://arxiv.org/abs/2407.08303",
+        "arxiv_id": "2407.08303"
+    },
+    {
+        "title": "SEED-Story: Multimodal Long Story Generation with Large Language Model",
+        "link": "/papers/2407.08683",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08683",
+        "arxiv_url": "https://arxiv.org/abs/2407.08683",
+        "arxiv_id": "2407.08683"
+    },
+    {
+        "title": "MambaVision: A Hybrid Mamba-Transformer Vision Backbone",
+        "link": "/papers/2407.08083",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08083",
+        "arxiv_url": "https://arxiv.org/abs/2407.08083",
+        "arxiv_id": "2407.08083"
+    },
+    {
+        "title": "Autoregressive Speech Synthesis without Vector Quantization",
+        "link": "/papers/2407.08551",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08551",
+        "arxiv_url": "https://arxiv.org/abs/2407.08551",
+        "arxiv_id": "2407.08551"
+    },
+    {
+        "title": "The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective",
+        "link": "/papers/2407.08583",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08583",
+        "arxiv_url": "https://arxiv.org/abs/2407.08583",
+        "arxiv_id": "2407.08583"
+    },
+    {
+        "title": "Gradient Boosting Reinforcement Learning",
+        "link": "/papers/2407.08250",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08250",
+        "arxiv_url": "https://arxiv.org/abs/2407.08250",
+        "arxiv_id": "2407.08250"
+    },
+    {
+        "title": "Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data",
+        "link": "/papers/2407.08726",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08726",
+        "arxiv_url": "https://arxiv.org/abs/2407.08726",
+        "arxiv_id": "2407.08726"
+    },
+    {
+        "title": "GTA: A Benchmark for General Tool Agents",
+        "link": "/papers/2407.08713",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08713",
+        "arxiv_url": "https://arxiv.org/abs/2407.08713",
+        "arxiv_id": "2407.08713"
+    },
+    {
+        "title": "Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models",
+        "link": "/papers/2407.08701",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08701",
+        "arxiv_url": "https://arxiv.org/abs/2407.08701",
+        "arxiv_id": "2407.08701"
+    },
+    {
+        "title": "Towards Building Specialized Generalist AI with System 1 and System 2 Fusion",
+        "link": "/papers/2407.08642",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08642",
+        "arxiv_url": "https://arxiv.org/abs/2407.08642",
+        "arxiv_id": "2407.08642"
+    },
+    {
+        "title": "Generalizable Implicit Motion Modeling for Video Frame Interpolation",
+        "link": "/papers/2407.08680",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08680",
+        "arxiv_url": "https://arxiv.org/abs/2407.08680",
+        "arxiv_id": "2407.08680"
+    },
+    {
+        "title": "WildGaussians: 3D Gaussian Splatting in the Wild",
+        "link": "/papers/2407.08447",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08447",
+        "arxiv_url": "https://arxiv.org/abs/2407.08447",
+        "arxiv_id": "2407.08447"
+    },
+    {
+        "title": "OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects",
+        "link": "/papers/2407.08711",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08711",
+        "arxiv_url": "https://arxiv.org/abs/2407.08711",
+        "arxiv_id": "2407.08711"
+    },
+    {
+        "title": "Scaling Up Personalized Aesthetic Assessment via Task Vector Customization",
+        "link": "/papers/2407.07176",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07176",
+        "arxiv_url": "https://arxiv.org/abs/2407.07176",
+        "arxiv_id": "2407.07176"
+    }
+]
