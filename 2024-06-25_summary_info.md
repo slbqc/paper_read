@@ -1,5 +1,5 @@
 
-# paper: DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation
+#   DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation
 1. **论文标题**  
    - DREAMBENCH++: 针对个性化图像生成的人类倾向性基准
 
@@ -24,7 +24,7 @@
 
 8. **关键图表与数据**  
    - 图1概述了DREAMBENCH++的工作流程，图3展示了如何通过内部思考引导GPT-4o进行自动化评价的全过程。实验结果显示，如动漫风格的浣熊侦探插图在文本跟随方面得到高分，而概念保存则表现一般，揭示了评价系统在细节上的洞察力。
-# paper: Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+#   Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
 1. **论文标题**  
    - **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
 
@@ -49,7 +49,7 @@
 
 8. **关键图表与数据**  
    - 通过相关矩阵分析不同视觉后端在MLLMs基准测试上的关联性，揭示了模型间表现的相关性和分组趋势。表10汇总了所有基准测试的结果，展示了不同模型架构在各种任务上的性能。
-# paper: BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions
+#   BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions
 1. **论文标题**  
    - 大代码基准：通过多样化的函数调用和复杂指令评估代码生成
 
@@ -75,7 +75,7 @@
 
 8. **关键图表与数据**  
    - 图表和数据分析揭示了BigCodeBench在字符数量、代码行数、环路复杂度和库调用方面的显著优势，这些指标反映了编程任务的深度和广度。例如，与HumanEval相比，BigCodeBench的解决方案更长，环路复杂度相似，但工具使用的多样性远超其他基准测试集。
-# paper: Evaluating D-MERIT of Partial-annotation on Information Retrieval
+#   Evaluating D-MERIT of Partial-annotation on Information Retrieval
 1. **论文标题**  
    - 评价信息检索中部分注释数据集的D-MERIT
 
@@ -100,7 +100,7 @@
 
 8. **关键图表与数据**  
    - 数据集中平均每个查询有50.44条证据，每组成员平均贡献约2条证据，其中61.8%的证据来自成员自身文章之外的文章。通过对比不同证据选择策略（如随机、最流行、基于长度），研究揭示了偏置选择对评估结果的影响。
-# paper: Long Context Transfer from Language to Vision
+#   Long Context Transfer from Language to Vision
 1. **论文标题**  
    - 长上下文从语言到视觉的迁移：通过扩展语言模型上下文处理超长视频
 
@@ -125,7 +125,7 @@
 
 8. **关键图表与数据**  
    - 通过表8展示了V-NIAH基准中设计的5个视频问答问题示例，每个问题都作为“针”插入到长达数小时的视频中，以测试模型定位和检索长距离视觉信息的能力。在处理3000帧的视觉输入时，研究采用了基于困惑度的评估方法，以解决内存限制和计算瓶颈问题。
-# paper: Video-Infinity: Distributed Long Video Generation
+#   Video-Infinity: Distributed Long Video Generation
 ### **论文标题**
 Video-Infinity: 分布式长视频生成
 
@@ -159,7 +159,7 @@ Video-Infinity: 分布式长视频生成
 ### **关键图表与数据**
 - 在8×Nvidia 6000 Ada的配置下，Video-Infinity能够在5分钟内生成长达2300帧的视频，这相当于95秒的时长，且整体处理时间仅为312秒。
 - 与Streaming T2V相比，在1024帧视频的生成上，Video-Infinity的速度提高了超过100倍。
-# paper: VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models
+#   VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models
 1. **论文标题**  
    - *VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models*
 
@@ -187,7 +187,7 @@ Video-Infinity: 分布式长视频生成
 
 8. **关键图表与数据**  
    - 图5展示了幻觉检测与事实检测的结果对比，表明大多数模型更擅长检测事实而非幻觉，强调了在这一领域提升模型能力的巨大潜力。
-# paper: Scaling Laws for Linear Complexity Language Models
+#   Scaling Laws for Linear Complexity Language Models
 ### **论文标题**
 《线性复杂度语言模型的扩展定律》
 
@@ -215,7 +215,7 @@ Video-Infinity: 分布式长视频生成
 
 ### **关键图表与数据**
 研究中包含的关键图表展示了模型大小、计算预算、训练令牌数量与损失之间的关系，用以推导最优模型规模和数据集规模。具体数值和系数揭示了模型性能随计算资源变化的趋势。例如，对于特定的计算预算，LLaMA、TNL和HGRN2模型的损失分别遵循不同的幂律函数，这表明了模型效率和计算成本之间的定量关系。
-# paper: WARP: On the Benefits of Weight Averaged Rewarded Policies
+#   WARP: On the Benefits of Weight Averaged Rewarded Policies
 1. **论文标题**  
    - WARP: On the Benefits of Weight Averaged Rewarded Policies
 
@@ -240,7 +240,7 @@ Video-Infinity: 分布式长视频生成
 
 8. **关键图表与数据**  
    - 图表展示了不同方法下KL和奖励的变化曲线，以及在不同迭代次数和参数设置下的模型性能对比。数据表明，WARP在多个指标上持续改进，尤其是在多轮迭代后，展现出比基线模型更优的结果。例如，第五次迭代的WARP在奖励方面达到了0.45，优于基线模型和其他迭代。
-# paper: Efficient Continual Pre-training by Mitigating the Stability Gap
+#   Efficient Continual Pre-training by Mitigating the Stability Gap
 1. **论文标题**  
    - 高效持续预训练：通过缓解稳定性差距提升效果
 
@@ -265,7 +265,7 @@ Video-Infinity: 分布式长视频生成
 
 8. **关键图表与数据**  
    - 表格数据显示，研究中的模型在医疗分类、关系抽取、自然语言推理和总结任务上明显胜过GPT-4。具体来说，Llama-3-physician-8B在指令微调设置下的医疗任务中，如HOC、DDI-2013、BioNLI和MIMIC-CXR，分别达到了78.9%、33.6%、76.2%和37.7%的宏F1得分。此外，该模型在问题回答任务上的表现也显著优于其他开源基线。
-# paper: Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters
+#   Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters
 1. **论文标题**  
    - 面向快速多语言LLM推理：推测解码与专门起草者
 
@@ -292,7 +292,7 @@ Video-Infinity: 分布式长视频生成
 
 8. **关键图表与数据**  
    - 表1展示了不同方法在Vicuna 7B v1.3模型上的加速比较，以及在不同温度设置下的性能。图2则提供了在WMT16德英数据集上，使用贪婪设置(T=0.0)时，各种推测解码方法在不同硬件上的加速对比。
-# paper: Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers
+#   Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers
 1. **论文标题**  
    - 更快更省：高效稀疏注意力机制为长序列变换器提速
 
@@ -317,7 +317,7 @@ Video-Infinity: 分布式长视频生成
 
 8. **关键图表与数据**  
    - 图1展示了SPARSEK操作在注意力模块中的工作流程，以及SPARSEK注意力模块如何将选择和注意力融合在一个内核中以提高效率。算法1至3详细说明了SPARSEK Attention的计算过程和优化策略。
-# paper: Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models
+#   Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models
 1. **论文标题**  
    - 超越回合制游戏：通过双工模型实现真正的实时对话
 
@@ -342,7 +342,7 @@ Video-Infinity: 分布式长视频生成
 
 8. **关键图表与数据**  
    - 表格展示了MiniCPM和MiniCPM-duplex在C-Eval、CMMLU、MMLU、BBH等多个基准测试中的性能对比，以及在HumanEval、MBPP、GSM8K、MATH等任务上的表现。此外，人工评价结果显示，双工模型在响应速度、类人性、事实性、忠实度和整体满意度方面均优于基础模型。
-# paper: Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs
+#   Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs
 **论文标题**
    - 《语义熵探针：大型语言模型中鲁棒且低成本的幻觉检测》
 
@@ -371,7 +371,7 @@ Video-Infinity: 分布式长视频生成
 
 **关键图表与数据**
    - 图表展示了SEPs在不同模型、不同层以及不同任务上的性能，表明SEPs在预测语义熵方面的效果优于预测准确率的探针，特别是在分布外设置下。
-# paper: Preference Tuning For Toxicity Mitigation Generalizes Across Languages
+#   Preference Tuning For Toxicity Mitigation Generalizes Across Languages
 **论文标题**
 偏好调优以缓解毒性：在多语言情境下的零样本跨语言推广
 
@@ -407,7 +407,7 @@ Video-Infinity: 分布式长视频生成
 **关键图表与数据**
 - 表10和表11列出了所有36个毒性值向量及其投影，详细记录了这些向量促进的前30个词汇及其潜在的毒性主题，展示出其跨语言的特性。
 - 图14和图15分别显示了BLOOM-7.1B和Llama2-7B预期最大毒性变化百分比与双语文本检索准确率之间的相关性，Pearson-r值分别为0.66和0.78，证明了DPO调优效果的可预测性。
-# paper: Confidence Regulation Neurons in Language Models
+#   Confidence Regulation Neurons in Language Models
 **论文标题**
 信心调节神经元在语言模型中的作用
 
@@ -448,7 +448,7 @@ Video-Infinity: 分布式长视频生成
 **关键图表与数据**
 - 图表展示了在重复序列检测任务中，熵神经元和频率神经元的激活值、熵和损失的变化。
 - 数据点显示，在消融特定频率神经元后，损失的变化趋势与初始损失的高低相关。
-# paper: AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models
+#   AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models
 **论文标题**
    - AUTODETECT: 面向大规模语言模型自动化弱点检测的统一框架
 
@@ -474,7 +474,7 @@ Video-Infinity: 分布式长视频生成
 
 **关键图表与数据**
    - 公开代码和数据可在https://github.com/thu-coai/AutoDetect获取，包括用于评估和改进模型的具体测试案例和相关评分。
-# paper: How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics
+#   How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics
 **论文标题**
 评价大型语言模型在对话游戏自我博弈中的表现：模型特征的作用
 
@@ -499,7 +499,7 @@ Nidhir Bhavsar, Jonathan Jordan, Sherzod Hakimov, David Schlangen
 
 **关键图表与数据**
 表4对比了基于同一基础模型训练的不同模型的性能，揭示了指令微调数据的差异对性能的显著影响。表3展示了模型量化对Clemscore的影响，其中4位量化对小型模型的clembench性能影响更大。图1展示了诱导代理玩“禁忌”游戏的零样本提示模板，说明了如何从LLM中诱导游戏代理。
-# paper: ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians
+#   ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians
 1. **论文标题**  
    - ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians
 
@@ -524,7 +524,7 @@ Nidhir Bhavsar, Jonathan Jordan, Sherzod Hakimov, David Schlangen
 
 8. **关键图表与数据**  
    - 图2概述了ClotheDreamer框架，展示如何根据文本指令初始化DCGS并学习解耦身体部件与衣物之间的关系。通过不同渲染的双向SDS指导以及对宽松衣物的新剪枝策略，证实了框架的有效性。
-# paper: Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization
+#   Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization
 **论文标题**
    - "Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization"
 
@@ -562,7 +562,7 @@ Nidhir Bhavsar, Jonathan Jordan, Sherzod Hakimov, David Schlangen
 
 **关键图表与数据**
    - 图1展示了模型注意力分布的U形特征，以及如何通过“found-in-the-middle”机制校正这一偏置，以使注意力更加忠实地反映信息的相关性。
-# paper: IRASim: Learning Interactive Real-Robot Action Simulators
+#   IRASim: Learning Interactive Real-Robot Action Simulators
 1. **论文标题**  
    - **IRASim: 学习交互式真实机器人动作模拟器**
 
@@ -587,7 +587,7 @@ Nidhir Bhavsar, Jonathan Jordan, Sherzod Hakimov, David Schlangen
 
 8. **关键图表与数据**  
    - 图表展示了使用键盘和控制器控制虚拟机器人的示例，突出了IRASim预测结果与基线方法的差异。附加结果比较了不同方法在长轨迹视频生成上的表现，以及不同模型大小对IRASim性能的影响。数据集统计显示了训练、验证和测试集的划分详情，以及每个数据集的原始分辨率和预处理后的分辨率。
-# paper: Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations
+#   Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations
 ### **论文标题**
 Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations
 
@@ -616,7 +616,7 @@ In-Context Learning, Large Language Models, Long Context QA, Few-shot Learning, 
 
 ### **关键图表与数据**
 实验结果显示，对于不同模型，DOUBLEDIPPER平均提高了23%的性能，特别是在长上下文QA数据集上。表7展示了支持段落预测的性能（F1值），证明了DOUBLEDIPPER对所有开源模型有显著性能提升。
-# paper: video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models
+#   video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models
 1. **论文标题**  
    - *video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models*
 
@@ -641,7 +641,7 @@ In-Context Learning, Large Language Models, Long Context QA, Few-shot Learning, 
 
 8. **关键图表与数据**  
    - 图表显示了不同窗口大小对模型性能的影响，特别是在视频问答和音频-视觉语音识别(AVSR)任务上。实验表明，当窗口大小减小时，即分辨率提高时，错误率(ER)下降，而准确率和余弦相似性指标则有所提升，这证明了多分辨率结构的有效性。
-# paper: Repulsive Score Distillation for Diverse Sampling of Diffusion Models
+#   Repulsive Score Distillation for Diverse Sampling of Diffusion Models
 **论文标题**
 Repulsive Score Distillation for Diverse Sampling of Diffusion Models
 
@@ -673,7 +673,7 @@ RSD通过在扩散模型的蒸馏过程中引入排斥机制，有效地解决�
 - 图5展示了使用提示“一盘堆满巧克力曲奇饼干”的情况下，RSD相比SVGD方法生成的更多样化的样本。
 - 图18对比了RSD（Augmented RED-diff）与非增强的RED-diff在隐空间中解模糊的效果，证实了RSD在减少模糊方面的优势。
 - 图11的折衷图显示，随着排斥权重的增加，RSD能够持续降低样本的分散程度，同时保持较高的美学得分和FID值，且多样性显著提高。
-# paper: OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?
+#   OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?
 ### **论文标题**
 OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?
 

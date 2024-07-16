@@ -1,5 +1,5 @@
 
-# paper: Scaling Synthetic Data Creation with 1,000,000,000 Personas
+#   Scaling Synthetic Data Creation with 1,000,000,000 Personas
 1. **论文标题**  
    - _规模化合成数据创建与10亿个人物角色_
 
@@ -24,7 +24,7 @@
 
 8. **关键图表与数据**  
    - 图表显示了不同数学问题的创建示例，包括基于人物角色的几何问题和奥林匹克级别问题。表1和表2分别报告了在合成测试集和MATH基准上的评估结果，其中使用合成数据微调的Qwen2-7B模型达到了64.9%的准确率，与gpt-4-turbo-preview性能相当。
-# paper: HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale
+#   HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale
 1. **论文标题**  
    - HuatuoGPT-Vision: 向大规模多模态语言模型注入医学视觉知识
 
@@ -48,7 +48,7 @@
 
 8. **关键图表与数据**  
    - 图5展示了专家评分结果，对比了Native-Captions-60K、LLM-Reformatted-60K、GPT4v-Distill-60K和MLLM-Reformatted-60K四种描述方式在准确性、相关性、完整性和实用性方面的得分，其中MLLM-Reformatted在所有指标上表现最优。图6则展示了不同数据集在增强医学多模态能力上的效果比较，证明了PubMedVision的优越性。
-# paper: LLaRA: Supercharging Robot Learning Data for Vision-Language Policy
+#   LLaRA: Supercharging Robot Learning Data for Vision-Language Policy
 **论文标题**
    - 大型语言模型驱动的机器人学习数据加速器：视觉语言策略
 
@@ -73,7 +73,7 @@
 
 **关键图表与数据**
    - 图5展示了在三种VIMA子集上不同专家集数量下的性能表现，突显了LLaRA框架随着训练数据量增加而提升的性能。表14给出了VIMA-8k数据集上各方法的详细比较，显示了LLaRA框架在所有测试级别上的优势。
-# paper: Direct Preference Knowledge Distillation for Large Language Models
+#   Direct Preference Knowledge Distillation for Large Language Models
 1. **论文标题**  
    - 直接偏好知识蒸馏在大规模语言模型中的应用
 
@@ -98,7 +98,7 @@
 
 8. **关键图表与数据**  
    - 表5显示了不同生成长度范围下RougeL的确切值，其中DPKD在所有长度范围内都表现出色，尤其在中间长度范围内有显著领先。这些数据支持了DPKD方法的有效性，即使随着生成文本长度的增加，其性能仍然保持稳定。
-# paper: GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality
+#   GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality
 **论文标题**
    - 高斯梦想者Pro：基于文本生成可操作的高质量3D高斯体
 
@@ -123,7 +123,7 @@
 
 **关键图表与数据**
    - 图4提供了GaussianDreamerPro与现有方法的定性比较，展示了不同场景下的生成效果。图5展示了生成资产在动画和模拟中的应用实例。图6汇总了用户研究的结果，显示GaussianDreamerPro在质量评价中占据了主导地位。
-# paper: EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model
+#   EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model
 **论文标题**
 EVF-SAM: 早期视觉语言融合用于文本提示的任意分割模型
 
@@ -147,4 +147,4 @@ Yuxuan Zhang, Tianheng Cheng, Rui Hu, Lei Liu, Heng Liu, Longjin Ran, Xiaoxin Ch
 
 **关键图表与数据**
 图1展示了EVF-SAM在各种基准测试中针对引用表达式分割的竞争性表现，平均精度高于其他模型如LISA、PixelLM、UniRef++-L、GLaMM、UNINEXT-H、PSALM等。
-# paper: AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation
+#   AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation

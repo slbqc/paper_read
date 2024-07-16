@@ -1,5 +1,5 @@
 
-# paper: Unveiling Encoder-Free Vision-Language Models
+#   Unveiling Encoder-Free Vision-Language Models
 **论文标题**
    - Unveiling Encoder-Free Vision-Language Models
 
@@ -24,7 +24,7 @@
 
 **关键图表与数据**
    - 表6显示了模型的FLOPs和推理延迟，EVE在消除深度预训练的视觉编码器后，图像编码过程显著加速，实现了比其同类产品快一个数量级的速度提升。图7展示了在GQA和SEED数据集上，随着训练步骤增加，EVE相对于基于编码器的基线LLaVA-1.5的性能提升。
-# paper: FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs
+#   FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs
 1. **论文标题**  
    - FunAudioLLM: 增强人类与大型语言模型自然语音交互的基础模型
 
@@ -48,7 +48,7 @@
 
 8. **关键图表与数据**  
    - 有关模型性能的关键数据和图表，如不同语言下语音识别的准确率、情感识别的精度以及语音生成的质量对比，均在论文中有所呈现。此外，论文还提供了模型在各种应用场景下的效果示例，以直观展示其在实际任务中的表现。所有相关代码和模型已在Modelscope、Huggingface上开源，并在GitHub上提供了训练、推理和微调代码。
-# paper: AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
+#   AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
 1. **论文标题**  
    - **AriGraph: 学习基于情景记忆的知识图谱世界模型以增强LLM代理**
 
@@ -73,7 +73,7 @@
 
 8. **关键图表与数据**  
    - 包括展示了不同难度水平下烹饪任务成功率的图表，以及描述Treasure Hunt、Cleaning和Cooking等环境的图形，这些数据支持了AriGraph在处理复杂任务上的优越性。
-# paper: RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models
+#   RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models
 1. **论文标题**  
    - RELIABLE MULTIMODAL RAG FOR FACTUALITY IN MEDICAL VISION LANGUAGE MODELS
 
@@ -98,7 +98,7 @@
 
 8. **关键图表与数据**  
    - 实验中，图2展示了RULE框架的两个主要组成部分，即事实风险控制和知识检索平衡调整。表1提供了Med-LVLM在检索情况下因过度依赖检索上下文而产生的错误比例，强调了解决这一问题的必要性。
-# paper: ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild
+#   ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild
 **论文标题**
 ChartGemma: 为野外观测图表推理的视觉指令调优
 
@@ -123,7 +123,7 @@ ChartGemma展示了其在图表理解任务中的优越性能，能够生成更�
 
 **关键图表与数据**
 研究中提及的关键数据包括122,857张图表图像构成的数据集，以及图4中展示的人类评价得分比较，显示ChartGemma在信息丰富性、事实正确性和结构上的评分更高。
-# paper: Learning to (Learn at Test Time): RNNs with Expressive Hidden States
+#   Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 ### **论文标题**
 Learning to(Learn at Test Time): RNNs with Expressive Hidden States
 
@@ -152,7 +152,7 @@ TTT层提供了一个新的视角来构建序列模型，通过使隐藏状态�
 - 图1展示了所有序列建模层如何被表达为根据更新规则转换的隐藏状态，突出了TTT层的创新之处。
 - 图18和图19提供了不同上下文长度和模型大小下的完整实验结果，表明TTT层在长上下文中的优势。
 - 图20比较了前向传播和生成的吞吐量，显示TTT-Linear在8k上下文下的速度优势。
-# paper: DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning
+#   DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning
 1. **论文标题**  
    - DotaMath: 分解思维结合代码辅助与自我修正的数学推理
 
@@ -177,7 +177,7 @@ TTT层提供了一个新的视角来构建序列模型，通过使隐藏状态�
 
 8. **关键图表与数据**  
    - DotaMath模型在多步成功案例中的表现，如解决美国和印度州份数量的计算问题，以及单步成功的数学问题示例，展示了其在实际数学任务上的适用性和有效性。
-# paper: Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge
+#   Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge
 ### **论文标题**
 STARK: 社交长期多模态对话与人物常识知识
 
@@ -204,7 +204,7 @@ Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan H
 
 ### **关键图表与数据**
 论文中提供了STARK数据集的概述图，展示了从基本人口统计信息到生成长期多模态对话的流程，包括用户外观、社会人物特征、个人叙事、预存设备图像集合、时间事件序列和多模态对话等重要组成部分。此外，还给出了具体的人物示例和对话总结模板，用于指导如何构建和总结对话。
-# paper: On scalable oversight with weak LLMs judging strong LLMs
+#   On scalable oversight with weak LLMs judging strong LLMs
 1. **论文标题**
    - 可扩展监督：弱大语言模型评估强语言模型
 
@@ -228,7 +228,7 @@ Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan H
 
 8. **关键图表与数据**
    - 论文详细列出了实验设计和任务特性比较表，其中包括QuALITY、BoolQ、GPQA-Extractive等数据集的特点对比，以及各种监督协议下的模型表现数据。这些数据对于理解辩论、咨询和直接问答在不同任务上的优劣至关重要。
-# paper: Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams
+#   Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams
 1. **论文标题**  
    - Flash-VStream: 基于内存的实时长视频流理解
 
@@ -252,7 +252,7 @@ Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan H
 
 8. **关键图表与数据**  
    - 图2和表1展示了Flash-VStream在VRAM消耗和推理延迟方面的优势，以及在零样本实时视频问答任务上的卓越性能。表3证明了模型在四个传统离线视频问答基准上的泛化能力。
-# paper: Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks
+#   Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks
 1. **论文标题**  
    - 安全性遗忘：一种出乎意料的有效且通用的防御越狱攻击方案
 
@@ -277,7 +277,7 @@ Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan H
 
 8. **关键图表与数据**  
    - 关键数据点包括：在Vicuna-7B上的ASR从82.6%降至7.7%，以及Llama2-7B-Chat的ASR为21.9%。分析揭示了有害响应间的内在关联，如相似的内容模式、共享步骤和动作，以及在LLM中的表示学习相似性，这些是安全性遗忘能够泛化的基础。
-# paper: HEMM: Holistic Evaluation of Multimodal Foundation Models
+#   HEMM: Holistic Evaluation of Multimodal Foundation Models
 1. **论文标题**  
    - HEMM: 综合评估多模态基础模型
 
@@ -301,7 +301,7 @@ Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan H
 
 8. **关键图表与数据**  
    - 实验显示，在多媒体和情感计算领域，模型平均得分显著高于其他应用案例，而在医疗、HCI和科学领域得分最低。具体而言，DECIMER、INATURALIST、ENRICO、PATHVQA和MEMECAP等要求外部知识、细粒度对齐和复杂推理的数据集对模型构成了较大挑战。
-# paper: LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs
+#   LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs
 **论文标题**
 LLM-jp: 跨组织项目致力于完全开放的日本大型语言模型的研究与开发
 
@@ -325,7 +325,7 @@ LLM-jp项目的初步成果展示了跨组织合作在开发高质量日本语�
 
 **关键图表与数据**
 表14展示了安全评估结果，对比了未经过AnswerCarefully数据集微调和微调后的模型在违规率和可接受响应率上的表现。表12提供了LLM-jp模型在Japanese MT-Bench上的评估结果，显示了模型在不同任务上的平均得分。表13列出了截至2023年11月日本LLMs的排名情况，表明了LLM-jp v1.0模型的表现与顶级模型之间的差距。
-# paper: CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images
+#   CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images
 ### 论文标题
 CRiM-GS: 连续刚体运动感知的高斯溅射从运动模糊图像中重建3D场景
 
@@ -354,7 +354,7 @@ CRiM-GS不仅在量化指标上表现卓越，而且在感知质量方面也取�
 
 ### 关键图表与数据
 关键图表展示了合成与真实世界场景下的定性比较，以及在PSNR、SSIM和LPIPS等指标上的性能对比，证实了CRiM-GS方法在处理运动模糊图像重建方面的优势。
-# paper: Granular Privacy Control for Geolocation with Vision Language Models
+#   Granular Privacy Control for Geolocation with Vision Language Models
 1. **论文标题**  
    - 颗粒度隐私控制：使用视觉语言模型进行地理定位
 

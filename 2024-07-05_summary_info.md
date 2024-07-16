@@ -1,5 +1,5 @@
 
-# paper: Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion
+#   Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion
 **论文标题**
 Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion
 
@@ -32,7 +32,7 @@ Diffusion Forcing作为一种概率序列模型，既具有next-token预测模�
 
 **关键图表与数据**
 论文的关键图表包括图2，概述了Diffusion Forcing的方法，显示了与next-token预测模型和全序列扩散模型相比，如何将序列的时间轴和扩散的噪声轴交织在一起，统一了两者的优势。实验部分提供了不同领域内的定量和定性结果，验证了CDF在长序列生成稳定性、子序列组合以及高奖励生成方面的独特优势。
-# paper: Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models
+#   Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models
 ### **论文标题**
    - 《让专家专精其领域：针对稀疏架构大型语言模型的专家特化微调》
 
@@ -61,7 +61,7 @@ Diffusion Forcing作为一种概率序列模型，既具有next-token预测模�
 ### **关键图表与数据**
    - 图2和图3展示了专家路由在相同任务中的集中度和跨任务活跃专家的显著变化，证明了MoE模型中专家的专业化。
    - 表3显示ESFT相比FFT在参数量和GPU内存使用方面的优势，表9和表10则提供了不同微调方法在混合数据下的性能对比，突出ESFT在特定任务上的优越表现。
-# paper: Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages
+#   Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages
 1. **论文标题**  
    - Planetarium: 一种严谨的基准测试，用于将文本转换为结构化规划语言
 

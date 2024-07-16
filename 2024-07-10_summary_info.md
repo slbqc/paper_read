@@ -1,5 +1,5 @@
 
-# paper: Vision language models are blind
+#   Vision language models are blind
 **论文标题**
 视觉语言模型是盲目的
 
@@ -24,7 +24,7 @@ Auburn University, AL, USA & University of Alberta, Canada
 
 **关键图表与数据**
 实验结果展示了不同距离下VLMs在判断圆重叠或接触时的准确率变化，以及在特定字体和提示下的预测一致性。数据显示，VLMs在处理复杂视觉信息时的局限性，特别是在处理简单几何关系和文字细微差异方面。
-# paper: Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision
+#   Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision
 1. **论文标题**  
    - VIDEO-STAR: 自训练使能视频指令调优与任意监督结合
 
@@ -49,7 +49,7 @@ Auburn University, AL, USA & University of Alberta, Canada
 
 8. **关键图表与数据**  
    - 图表展示了Video-STaR在不同视频场景下的成功标签推理，包括家庭互动行为的理解、盒子处理动作的解释以及复杂跳水序列的精确评分。此外，定性分析显示模型在生成答案和解释动作方面的能力，尤其是在Kinetics700数据集中的表现。
-# paper: Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
+#   Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
 1. **论文标题**  
    - 互联网代理：构建异构代理协作智能的网络
 
@@ -73,7 +73,7 @@ Auburn University, AL, USA & University of Alberta, Canada
 
 8. **关键图表与数据**  
    - 重要图表展示了不同状态之间的转换关系，与言语行为理论中的言语行为类别相对应。通过实例分析，指出重复沟通模式导致高通信成本，手动去除重复后，通信成本减少了近50%。
-# paper: RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models
+#   RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models
 1. **论文标题**  
    - 高保真3D头像生成：使用扩散模型的RodinHD
 
@@ -98,7 +98,7 @@ Auburn University, AL, USA & University of Alberta, Canada
 
 8. **关键图表与数据**  
    - 实验展示了从单张肖像图片生成的3D头像示例，包括条件生成和无条件生成的结果，证明了模型在保持细节和纹理方面的能力。模型配置和扩散参数被详细列出，包括通道数、多分辨率设置、嵌入维度和自注意力机制的使用。此外，还探讨了三平面分辨率和通道数量对细节保留的影响。
-# paper: AgentInstruct: Toward Generative Teaching with Agentic Flows
+#   AgentInstruct: Toward Generative Teaching with Agentic Flows
 ### **论文标题**
 AgentInstruct: 通过代理流实现生成式教学
 
@@ -123,7 +123,7 @@ Orca-3模型在摘要生成、幻觉检测、指令遵循、情感理解和多�
 
 ### **关键图表与数据**
 Orca-3模型在AGIEval上的得分提高了40.2%，在MMLU上提高了19%，在GSM8K上提高了54%，在BBH上提高了38%，在AlpacaEval上提高了45%。此外，在FoFo基准测试中，Orca-3-7B模型的表现也优于GPT-4和Gemini Pro等模型。
-# paper: Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities
+#   Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities
 1. **论文标题**  
    - 《适应希伯来语的LLM：揭示具有增强词汇和指令能力的DictaLM 2.0》
 
@@ -148,7 +148,7 @@ Orca-3模型在AGIEval上的得分提高了40.2%，在MMLU上提高了19%，在G
 
 8. **关键图表与数据**  
    - 表2展示了不同模型在总结任务上的评价结果，包括相关性、连贯性、一致性、流利度等指标。DictaLM2.0-Instruct在经过DPO训练后，这些指标都有所提高。图5显示了人类评估中对模型翻译质量的偏好。
-# paper: MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions
+#   MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions
 1. **论文标题**  
    - MiraData: 一个具有长时长和结构化字幕的大型视频数据集
 
@@ -173,7 +173,7 @@ Orca-3模型在AGIEval上的得分提高了40.2%，在MMLU上提高了19%，在G
 
 8. **关键图表与数据**  
    - 图表1展示了视频采集和注释流程，包括视频分割、拼接、选择和字幕标注的过程。数据对比显示，MiraData在平均文本长度和视频长度上远超以往的数据集，平均文本长度达到318词，平均视频长度为72.1秒。
-# paper: Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions
+#   Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions
 1. **论文标题**  
    - 图像描述的图基注释：通过互联区域描述增强视觉描述
 
@@ -198,7 +198,7 @@ Orca-3模型在AGIEval上的得分提高了40.2%，在MMLU上提高了19%，在G
 
 8. **关键图表与数据**  
    - 研究展示了GBC10M数据集中的节点描述示例，以及利用这些注释进行模型训练后获得的性能提升量化指标。尽管具体数值未直接给出，但实验结果证明了GBC在提高视觉语言模型理解力方面的有效性。
-# paper: Knowledge Composition using Task Vectors with Learned Anisotropic Scaling
+#   Knowledge Composition using Task Vectors with Learned Anisotropic Scaling
 ### **论文标题**
 Knowledge Composition using Task Vectors with Learned Anisotropic Scaling
 
@@ -237,7 +237,7 @@ Knowledge Composition using Task Vectors with Learned Anisotropic Scaling
 ### **关键图表与数据**
 - 图4展示了不同数据集对之间预测变化的解耦误差，证实了方法能有效降低任务向量组合时的干扰。
 - 表2比较了aTLAS与先前方法在多个数据集上的性能，显示了实质性的改进。
-# paper: Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps
+#   Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps
 1. **论文标题**  
    - Lookback Lens: 使用仅注意力图检测并缓解大型语言模型中的上下文幻觉
 
@@ -264,7 +264,7 @@ Knowledge Composition using Task Vectors with Learned Anisotropic Scaling
 
 8. **关键图表与数据**  
    - 关键数据点包括从CNN/DM数据集采样的1000个示例和从自然问题数据集提取的2655个示例，用于创建训练Lookback Lens的幻觉检测数据集。实验结果展示了Lookback Lens在检测和减轻幻觉方面的性能指标，如在XSum任务中幻觉减少的具体百分比。
-# paper: VIMI: Grounding Video Generation through Multi-modal Instruction
+#   VIMI: Grounding Video Generation through Multi-modal Instruction
 **论文标题**
 VIMI: 通过多模态指令实现视频生成的视觉定位
 
@@ -294,7 +294,7 @@ VIMI: 通过多模态指令实现视频生成的视觉定位
 
 **关键图表与数据**
 - 图7展示了多模态指令调优的消融实验，比较了VIMI与未进行指令调优变体的性能，突出了VIMI在语义对齐和身份保留方面的优势。
-# paper: TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts
+#   TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts
 1. **论文标题**  
    - **TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts**
 
@@ -319,7 +319,7 @@ VIMI: 通过多模态指令实现视频生成的视觉定位
 
 8. **关键图表与数据**  
    - 通过具体案例研究展示，如求解方程组和证明不等式的Lean4形式证明，证明了TheoremLlama能够生成正确且复杂的Lean4证明。这些案例也证实了通过自然语言指导和NL-FL引导方法，LLMs可以有效地学习并应用Lean4的证明技巧。
-# paper: BM25S: Orders of magnitude faster lexical search via eager sparse scoring
+#   BM25S: Orders of magnitude faster lexical search via eager sparse scoring
 1. **论文标题**  
    - BM25S: 通过急切稀疏评分实现数量级更快的词汇搜索
 
@@ -349,7 +349,7 @@ VIMI: 通过多模态指令实现视频生成的视觉定位
 
 8. **关键图表与数据**  
    - 论文提供了不同BM25变体实施的比较表格，展示了各实现的平均性能分数，以及在特定测试集上的表现差异。此外，还展示了BM25S在处理查询每秒速率方面的显著提升，特别是在资源有限的设备上。
-# paper: From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty
+#   From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty
 1. **论文标题**  
    - 从循环到幻觉：语言模型在不确定性下的回退行为
 
@@ -379,7 +379,7 @@ VIMI: 通过多模态指令实现视频生成的视觉定位
 
 8. **关键图表与数据**  
    - 图9展示了Pythia模型在TRIVIAFACTS数据集上添加句尾冒号后的回退行为，显示了参数量更大的模型生成正确事实和幻觉的数量增加，而重复事实的数量减少。图17同样呈现了模型规模增加时，高级回退行为的提升，具体表现为正确事实和幻觉生成的增多，同时重复事实的生成减少。
-# paper: How do you know that? Teaching Generative Language Models to Reference Answers to Biomedical Questions
+#   How do you know that? Teaching Generative Language Models to Reference Answers to Biomedical Questions
 1. **论文标题**  
    - 如何知道答案正确？教授生成式语言模型回答生物医学问题时引用资料
 
@@ -404,7 +404,7 @@ VIMI: 通过多模态指令实现视频生成的视觉定位
 
 8. **关键图表与数据**  
    - 表3和表4显示了不同模型在引用最相关和无关摘要方面的性能对比，以及在10个样本文档上的召回率评估，其中M1和M2表现出色。此外，表1展示了IR组件和PubMed搜索引擎在BioASQ数据集上的性能对比，突出混合搜索策略的有效性。
-# paper: LETS-C: Leveraging Language Embedding for Time Series Classification
+#   LETS-C: Leveraging Language Embedding for Time Series Classification
 ### **论文标题**
 LETS-C: 利用语言嵌入进行时间序列分类
 

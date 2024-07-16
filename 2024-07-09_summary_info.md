@@ -1,5 +1,5 @@
 
-# paper: MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?
+#   MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?
 **论文标题**
 MJ-BENCH: 是您的多模态奖励模型真的能为文本到图像生成做出良好的评判吗？
 
@@ -29,7 +29,7 @@ MJ-BENCH系统地评估了不同规模和类型的多模态奖励模型在偏好
 - 表10概述了MJ-BENCH数据集中不同类别的场景、子集数量和描述，例如对象识别、属性验证、动作一致性等。
 - 表2展示了基于六种微调的SD-v1.5模型的人工评估结果，比较了不同多模态评判者的反馈效果。
 - 表5比较了多模态评判者在不同数值范围和Likert范围下的性能，突出了闭源模型如GPT-4o在一致性视角下显著优于其他模型。
-# paper: LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation Capabilities Beyond 100 Languages
+#   LLaMAX: Scaling Linguistic Horizons of LLM by Enhancing Translation Capabilities Beyond 100 Languages
 1. **论文标题**  
    - LLaMAX: 扩展LLM的多语言视野，通过增强翻译能力支持100多种语言
 
@@ -54,7 +54,7 @@ MJ-BENCH系统地评估了不同规模和类型的多模态奖励模型在偏好
 
 8. **关键图表与数据**  
    - 图1展示了不同模型在阿拉伯语为中心的翻译方向上的表现，表明大多数模型在该领域存在显著差距。图7对比了LLaMAX与GPT-4在七种语言互译上的性能差距。表4列出了在Flores-101数据集上，LLaMAX与不同架构模型的对比结果，包括编码器-解码器和仅解码器模型，显示了LLaMAX在多种语言翻译中的优势。
-# paper: Learning Action and Reasoning-Centric Image Editing from Videos and Simulations
+#   Learning Action and Reasoning-Centric Image Editing from Videos and Simulations
 1. **论文标题**  
    - 学习行动与推理为核心的图像编辑：来自视频和模拟的数据
 
@@ -79,7 +79,7 @@ MJ-BENCH系统地评估了不同规模和类型的多模态奖励模型在偏好
 
 8. **关键图表与数据**  
    - 论文中的图表展示了之前编辑技能的失败案例，特别是在动作、移动和推理方面，与使用AURORA数据集改进后的效果对比，证明了模型在更具有挑战性的动作编辑上的显著提升。
-# paper: Associative Recurrent Memory Transformer
+#   Associative Recurrent Memory Transformer
 **论文标题**
    - 关联递归记忆转换器：一种用于长序列建模的新架构
 
@@ -104,7 +104,7 @@ MJ-BENCH系统地评估了不同规模和类型的多模态奖励模型在偏好
 
 **关键图表与数据**
    - 论文中提供了详细的实验结果和对比分析，其中包括ARMT与其他模型在不同任务上的性能比较。此外，还公开了训练和评估代码，便于研究社区复现和进一步探索。具体的关键数据点包括在BABILong基准上达到的79.9%准确率，这是衡量ARMT处理超长序列能力的重要指标。
-# paper: ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation
+#   ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation
 1. **论文标题**  
    - ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation
 
@@ -129,7 +129,7 @@ MJ-BENCH系统地评估了不同规模和类型的多模态奖励模型在偏好
 
 8. **关键图表与数据**  
    - 图1展示了一个示例，ANOLE如何生成高质量和连贯的交错图像-文本序列，以演示烹饪鸡蛋的过程。提供了一个丰富的资源集合，包括数据资源和教程，便于不同水平的研究人员上手和实验。
-# paper: Evaluating Language Model Context Windows: A "Working Memory" Test and Inference-time Correction
+#   Evaluating Language Model Context Windows: A "Working Memory" Test and Inference-time Correction
 ### **论文标题**
 Evaluating Language Model Context Windows: A “Working Memory” Test and Inference-time Correction
 
@@ -155,7 +155,7 @@ Snorkel AI & University of Wisconsin-Madison
 
 ### **关键图表与数据**
 实验结果表明，不同的模型在利用其长上下文窗口方面效果不一，即使上下文长度足以包含整个文档，但并非所有模型都能有效利用。中位投票法在GPT-4-Turbo和GPT-3.5-Turbo-16k模型上分别提高了17.3和24.2个百分点的性能，验证了其有效性。
-# paper: Compositional Video Generation as Flow Equalization
+#   Compositional Video Generation as Flow Equalization
 1. **论文标题**  
    - *组合视频生成作为流均衡：解决文本到视频转换中的概念主导问题*
 
@@ -180,7 +180,7 @@ Snorkel AI & University of Wisconsin-Madison
 
 8. **关键图表与数据**  
    - 图表显示Vico在不同场景下的表现，如“蜘蛛熊猫”案例中，Vico能更好地维持对象间的动态关系和空间时间一致性，避免了其他方法常见的问题，如概念遗漏、空间混乱、语义泄漏和运动混合。表2和表3展示了Vico在用户研究和零样本视频分割任务上的优秀性能。
-# paper: PAS: Data-Efficient Plug-and-Play Prompt Augmentation System
+#   PAS: Data-Efficient Plug-and-Play Prompt Augmentation System
 **论文标题**
    - PAS: 数据高效型即插即用提示增强系统
 
@@ -205,7 +205,7 @@ Snorkel AI & University of Wisconsin-Madison
 
 **关键图表与数据**
    - 图表显示PAS在不同任务类别下的人类评价结果，如分析判断、主观建议等，均优于非PAS方法，平均分数提升明显。此外，通过算法1展示了PAS数据生成管道，以及图3(b)和图7中关于数据分布和生成过程的总结。
-# paper: InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct
+#   InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct
 1. **论文标题**  
    - **InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct**
 
@@ -230,7 +230,7 @@ Snorkel AI & University of Wisconsin-Madison
 
 8. **关键图表与数据**  
    - 表7展示了自改进实验的结果，CodeLlama-Python-7B模型通过1轮和2轮的微调，在HumanEval(+)和MBPP(+)基准上分别达到了54.3%和54.9%的Pass@1成绩，显著超越了原始模型的表现。
-# paper: Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images
+#   Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images
 1. **论文标题**  
    - Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images
 
@@ -260,7 +260,7 @@ Snorkel AI & University of Wisconsin-Madison
 8. **关键图表与数据**  
    - 图9展示了一系列测试集示例，包括撕裂的帽子、漂浮的盆景树等，直观呈现了模型的生成能力。
    - 图10比较了Tailor3D与Dreamcomposer的性能，强调了Tailor3D在背面细节处理方面的优势。
-# paper: UltraEdit: Instruction-based Fine-Grained Image Editing at Scale
+#   UltraEdit: Instruction-based Fine-Grained Image Editing at Scale
 1. **论文标题**  
    - UltraEdit: Instruction-based Fine-Grained Image Editing at Scale
 
@@ -289,7 +289,7 @@ Snorkel AI & University of Wisconsin-Madison
 
 8. **关键图表与数据**  
    - 图表显示了不同模型在MagicBrush和Emu测试基准上的定性比较，以及TrueSkill评分系统下的量化评价结果。数据表明，使用ULTRAEDIT训练的模型在CLIPdir、CLIPimg、CLIPout等指标上有显著提升，同时在L1和DINO指标上保持了较低水平，显示出更好的内容保留能力和上下文敏感度。
-# paper: Training Task Experts through Retrieval Based Distillation
+#   Training Task Experts through Retrieval Based Distillation
 1. **论文标题**  
    - 论文标题：通过基于检索的知识蒸馏训练任务专家模型
 
@@ -313,7 +313,7 @@ Snorkel AI & University of Wisconsin-Madison
 
 8. **关键图表与数据**  
    - 表格3展示了数据独特性百分比、平均唯一词元和双词元的数量，证明ReBase显著增加了数据集的多样性。表格4和5展示了不同数据过滤和数据量对模型性能的影响，以及过滤对整体表现的影响。图4给出了ReBase转换后的数据与直接合成数据的定性比较，突出其多样性优势。
-# paper: Multi-Object Hallucination in Vision-Language Models
+#   Multi-Object Hallucination in Vision-Language Models
 1. **论文标题**  
    - 多对象幻觉在视觉语言模型中的研究
    
@@ -337,7 +337,7 @@ Snorkel AI & University of Wisconsin-Madison
    
 8. **关键图表与数据**  
    - 提供了包含不同物体类别和位置的实例对比，展示了模型预测与真实情况的差异，以及模型如何在多物体环境下产生幻觉。
-# paper: Understanding Visual Feature Reliance through the Lens of Complexity
+#   Understanding Visual Feature Reliance through the Lens of Complexity
 1. **论文标题**
    - 通过复杂度视角理解视觉特征依赖性
 
@@ -372,7 +372,7 @@ Snorkel AI & University of Wisconsin-Madison
 8. **关键图表与数据**
    - 图1A展示了简单与复杂特征的对比，通过ResNet50的过完备字典提取的三个特征示例，其中z1响应颜色，而z2和z3对更复杂刺激作出反应。
    - 图1B描绘了特征跨层演进，展示了penultimate层的特征（z1, z2, z3）如何通过ResNet50不同块的输出进行线性探查时变化。
-# paper: PartCraft: Crafting Creative Objects by Parts
+#   PartCraft: Crafting Creative Objects by Parts
 **论文标题**
 PartCraft: Crafting Creative Objects by Parts
 
@@ -397,7 +397,7 @@ PartCraft提供了一种生成AI控制的新途径，它允许用户通过选择
 
 **关键图表与数据**
 论文中的关键图表包括图1展示的创意鸟类生成示例，图6中的量化部分组成对比，以及图13至图16中额外的生成图像例子，尤其是图16中利用Sims4-Faces数据集进行面部部分转换的结果。这些图表直观地展现了PartCraft在部分识别、组合和创新生成方面的效果。
-# paper: LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking
+#   LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking
 1. **论文标题**  
    - 大型语言模型是实体链接的良好上下文增强器 (LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking)
 
@@ -422,7 +422,7 @@ PartCraft提供了一种生成AI控制的新途径，它允许用户通过选择
 
 8. **关键图表与数据**  
    - 表4显示了在四个选定数据集上，LLMAEL应用不同LLM和集成技术后，实体消歧准确率得分。在单一模型部分，LLMAEL与三种独立LLM集成后的EL模型性能显著提升。多模型部分展示了所有四个输出集成的结果。每个数据集的最佳值以粗体表示。
-# paper: ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models
+#   ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models
 **论文标题**
 ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models
 

@@ -1,5 +1,5 @@
 
-# paper: Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems
+#   Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems
 1. **论文标题**  
    - Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems
 
@@ -28,7 +28,7 @@
 
 8. **关键图表与数据**  
    - 论文中报告了所有系统在SummHay基准上的精度、召回率以及F1分数(引用得分)，揭示了不同系统在精确性和全面性之间的平衡情况。例如，Claude 3 Sonnet的引用精度为67.3%，召回率为42.2%，F1分数为51.7%。而人类表现的F1分数达到了76.7%。
-# paper: OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation
+#   OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation
 1. **论文标题**  
    - 大规模高质量文本到视频生成数据集OpenVid-1M
 
@@ -58,7 +58,7 @@
 8. **关键图表与数据**  
    - 表格展示了与其他SOTA模型的量化比较，突出了OpenVid-1M和MVDiT的优越性。
    - 图表直观呈现了模型在不同任务上的表现，如视频清晰度和对文本提示的理解能力。
-# paper: Agentless: Demystifying LLM-based Software Engineering Agents
+#   Agentless: Demystifying LLM-based Software Engineering Agents
 1. **论文标题**  
    - 《AGENTLESS: 大型语言模型驱动软件工程代理的迷思》
 
@@ -83,7 +83,7 @@
 
 8. **关键图表与数据**  
    - 图5展示了SWE-bench Lite问题的分类和细分，包括描述质量、解决方案在描述中的存在、位置信息等维度的分布情况。图6比较了不同方法在SWE-bench Lite-S不同问题类别上的解决率，显示了有无示例代码、解决方案步骤和位置信息对解决问题的影响。
-# paper: MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
+#   MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
 1. **论文标题**  
    - MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
 
@@ -109,7 +109,7 @@
 
 8. **关键图表与数据**  
    - 图13展示了使用Flan-UL2在Summarization数据集上T5风格编码器注意力的稀疏模式。表8比较了不同方法在EN.SUM任务上的生成性能，基于LLaMA-3-8B-262K模型；表9则展示了Retrieve.KV任务上各种方法的表现。这些图表和数据点证实了MInference在保持高精度的同时，实现了显著的性能提升。
-# paper: Understanding Alignment in Multimodal LLMs: A Comprehensive Study
+#   Understanding Alignment in Multimodal LLMs: A Comprehensive Study
 1. **论文标题**  
    - 《理解多模态LLM中的对齐：一项全面研究》
 
@@ -134,7 +134,7 @@
 
 8. **关键图表与数据**  
    - 图表显示了偏好数据集大小对模型性能的影响，其中BDHS在某些指标上表现出色，例如在LLaVA-in-the-Wild和MMHALBench上的厅想率。实验还展示了不同迭代下BDHS变体的响应生成过程，揭示了指导自由响应生成的特性。
-# paper: To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models
+#   To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models
 **论文标题**
    - 大型语言模型中的实用知识遗忘：走向精确的知识卸载
 
@@ -159,7 +159,7 @@
 
 **关键图表与数据**
    - 表4展示了在用户隐私领域卸载Qwen-1.5-7B-Chat模型的整体结果，MemFlex方法在卸载成功率达到89.36%，保留成功率78.17%，平均性能83.76%，优于其他方法。表5比较了所有基线和MemFlex方法在LLaMA模型上的训练时间和GPU VRAM使用情况，MemFlex在效率上同样领先。
-# paper: Consistency Flow Matching: Defining Straight Flows with Velocity Consistency
+#   Consistency Flow Matching: Defining Straight Flows with Velocity Consistency
 **论文标题**
    - 一致性流匹配：通过速度一致性定义直线流
 
@@ -185,9 +185,9 @@
 **关键图表与数据**
    - 图2展示了与传统流匹配、一致性模型和一致性轨迹模型相比，Consistency-FM在训练和采样过程中如何通过定义直线流来减轻离散化错误和近似误差。
    - 表格数据显示了在不同数据集上Consistency-FM与现有模型的比较，特别是在NFE(函数评估次数)和FID分数(生成图像质量度量)上的表现。
-# paper: Magic Insert: Style-Aware Drag-and-Drop
+#   Magic Insert: Style-Aware Drag-and-Drop
 # faild to  read !!!!
-# paper: Revealing Fine-Grained Values and Opinions in Large Language Models
+#   Revealing Fine-Grained Values and Opinions in Large Language Models
 **论文标题**
 揭示大型语言模型中的细粒度价值观与意见
 
@@ -213,7 +213,7 @@ Dustin Wright*, Arnav Arora*, Nadav Borenstein, Srishti Yadav, Serge Belongie, I
 
 **关键图表与数据**
 研究提供了模型响应的气泡图、标准偏差图和稳健性图，显示了不同模型在处理封闭式和开放式问题时的一致性水平，以及在PCT命题上的变异性。这些图表揭示了模型响应的波动程度，以及不同模型间在相同命题上的相似性和差异性。
-# paper: What Matters in Detecting AI-Generated Videos like Sora?
+#   What Matters in Detecting AI-Generated Videos like Sora?
 1. **论文标题**  
    - 《检测像Sora这样的AI生成视频的关键因素是什么？》
 
@@ -238,7 +238,7 @@ Dustin Wright*, Arnav Arora*, Nadav Borenstein, Srishti Yadav, Serge Belongie, I
 
 8. **关键图表与数据**  
    - 关键图表包括使用Grad-CAM技术展示的分类器决策依据的可视化结果，以及模型在不同生成模型上检测AI生成视频的准确性数据，如Table 2和Table 3所示，其中“Ours”表示模型在检测Sora生成的视频时超过80%的准确率，即使在训练过程中没有接触过Sora视频。
-# paper: FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds
+#   FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds
 1. **论文标题**  
    - FoleyCrafter: 为无声视频添加生动同步音效
    
@@ -263,7 +263,7 @@ Dustin Wright*, Arnav Arora*, Nadav Borenstein, Srishti Yadav, Serge Belongie, I
 
 8. **关键图表与数据**  
    - 表1展示了FoleyCrafter在VGGSound和AVSync15数据集上的性能，包括Mean KL Divergence、CLIP相似度和Frechet距离指标，显示其在语义对齐和音频质量方面领先于其他模型。表2比较了不同方法在时间同步方面的表现，FoleyCrafter在起始检测准确率和平均精度上取得最佳成绩。
-# paper: μ-Bench: A Vision-Language Benchmark for Microscopy Understanding
+#   μ-Bench: A Vision-Language Benchmark for Microscopy Understanding
 1. **论文标题**  
    - µ-BENCH: VISION-LANGUAGE BENCHMARK FOR MICROSCOPY UNDERSTANDING
 

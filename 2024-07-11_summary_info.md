@@ -1,5 +1,5 @@
 
-# paper: PaliGemma: A versatile 3B VLM for transfer
+#   PaliGemma: A versatile 3B VLM for transfer
 1. **论文标题**  
    - PaliGemma: A versatile 3B VLM for transfer
 
@@ -23,7 +23,7 @@
 
 8. **关键图表与数据**  
    - 图12展示了不同数量转移样本对相对遗憾的影响，表明即使使用有限的数据集，模型也能接近全数据集的表现。图16则揭示了预训练时间对任务性能的积极影响，除了图像分布显著不同的远程传感任务。
-# paper: Inference Performance Optimization for Large Language Models on CPUs
+#   Inference Performance Optimization for Large Language Models on CPUs
 **论文标题**
 优化大型语言模型在CPU上的推理性能
 
@@ -47,7 +47,7 @@
 
 **关键图表与数据**
 关键图表包括SlimAttention与FlashAttention的性能对比表，以及在去除首个令牌后Llama2-7B模型的吞吐量结果。数据显示，在各种输入长度下，SlimAttention的平均成本时间均低于FlashAttention，且随着输入长度增加，优势更加明显。吞吐量测试表明，所提方案能有效提高模型处理速度，特别是在高负载条件下。
-# paper: LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models
+#   LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models
 1. **论文标题**  
    - LLaVA-NeXT-Interleave: 针对大型多模态模型处理多图、视频和3D场景的能力提升
 
@@ -72,7 +72,7 @@
 
 8. **关键图表与数据**  
    - 图表1对比了三种交错场景下模型的表现，包括多图、多帧视频和多视角3D。表8展示了模型分析多图像趣味部分的能力；表9显示了从图像到视频的任务转移实例；表10至12提供了模型在现实世界应用中的示例，包括多图绘画风格识别、PPT总结与问答，以及多文档VQA。这些结果强调了模型的通用性和潜在的广泛应用前景。
-# paper: Controlling Space and Time with Diffusion Models
+#   Controlling Space and Time with Diffusion Models
 1. **论文标题**  
    - 控制空间与时间的扩散模型
 
@@ -96,7 +96,7 @@
 
 8. **关键图表与数据**  
    - 图1展示了4DiM在不同相机和时间轨迹上的零样本合成效果，包括360度旋转和圆周平移。图2说明了4DiM基础模型的架构，包括注意力块的选择和条件机制。表6提供了经过筛选后的数据过滤对模型性能提升的重要性的定量分析，展示了参考图像指标(LPIPS、PSNR、SSIM)如何更偏好内容对齐。
-# paper: Video-to-Audio Generation with Hidden Alignment
+#   Video-to-Audio Generation with Hidden Alignment
 1. **论文标题**
    - 视频到音频生成中的隐藏对齐
    
@@ -120,7 +120,7 @@
    
 8. **关键图表与数据**
    - 关键图表展示了VTA生成的示例，即给定无声视频时，模型生成的语义相关且时间对齐的音频，准确对应视频事件。数据方面，表格2比较了不同视觉编码器的效果，其中Clip4Clip在多数指标上表现出色，而CAVP则在时间对齐上表现较好。
-# paper: Still-Moving: Customized Video Generation without Customized Video Data
+#   Still-Moving: Customized Video Generation without Customized Video Data
 1. **论文标题**  
    - Still-Moving: Customized Video Generation without Customized Video Data
 
@@ -145,7 +145,7 @@
 
 8. **关键图表与数据**  
    - 图7显示了定量评估图表和用户研究结果，图6提供了与领先基线的定性比较，而图8则展示了去除关键组件时的消融研究效果。这些图表揭示了Still-Moving方法在不同条件下的性能优势和局限性。
-# paper: VEnhancer: Generative Space-Time Enhancement for Video Generation
+#   VEnhancer: Generative Space-Time Enhancement for Video Generation
 1. **论文标题**  
    - VEnhancer: 生成时空增强框架用于视频生成
    
@@ -175,7 +175,7 @@
 8. **关键图表与数据**  
    - 表格显示VEnhancer在AIGC2023测试集上的量化比较，各项指标均优于LaVie-SR和RealBasicVSR。
    - 图像比较展示了VEnhancer在处理“Iron Man飞越天空”这一场景时，能够显著改善细节和纹理。
-# paper: Do Vision and Language Models Share Concepts? A Vector Space Alignment Study
+#   Do Vision and Language Models Share Concepts? A Vector Space Alignment Study
 **论文标题**
 Do Vision and Language Models Share Concepts? A Vector Space Alignment Study
 
@@ -210,7 +210,7 @@ Do Vision and Language Models Share Concepts? A Vector Space Alignment Study
 - 图4展示了随着模型规模增大，语言模型在Exclude-1K数据集上的P@K值提高，最高可达64%，显著高于基线得分。
 - 表5和表6分别比较了不同多义性水平和频率下映射性能的P@100分数，揭示了多义性低的术语比多义性高的术语更易映射。
 - 图7展示了图像分散度、语言分散度、频率和多义性对语言模型和视觉模型性能的影响，进一步确认了结构相似性的持久性。
-# paper: On Leakage of Code Generation Evaluation Datasets
+#   On Leakage of Code Generation Evaluation Datasets
 1. **论文标题**
    - 代码生成评估数据集泄漏的研究
    
@@ -234,7 +234,7 @@ Do Vision and Language Models Share Concepts? A Vector Space Alignment Study
    
 8. **关键图表与数据**
    - 提供了一张图，展示了HumanEval提示在公共GitHub仓库中出现次数的直方图（排除异常值），表明这些提示的广泛存在可能造成数据泄露。此外，表格列出了多个模型在LBPP数据集上pass@1率的结果，显示了模型间代码生成能力的差异。
-# paper: CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging
+#   CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging
 **论文标题**
 CosmoCLIP: 通过对比学习将大型视觉语言模型泛化至天文成像
 
@@ -258,7 +258,7 @@ CosmoCLIP证明了其作为一个简单却强大的框架，在零样本分类�
 
 **关键图表与数据**
 CosmoCLIP在t-SNE可视化中展现出清晰的聚类效果，表明模型对视觉语义有深刻理解。图3展示了CosmoCLIP在文本到图像检索和图像到图像检索任务中的定性结果，其中Cosine相似性指标用于衡量输入查询与检索结果间的嵌入向量相似度。
-# paper: This&That: Language-Gesture Controlled Video Generation for Robot Planning
+#   This&That: Language-Gesture Controlled Video Generation for Robot Planning
 **论文标题**
 This&That: 语言-手势控制的视频生成用于机器人规划
 
@@ -283,7 +283,7 @@ This&That不仅解决了视频计划的关键挑战，而且展示了视频生�
 
 **关键图表与数据**
 虽然具体数值和数据未在摘要中提及，但研究中包括了展示不同手势和文本提示下视频生成多样性的图表，这些图表对于理解方法的有效性和灵活性至关重要。例如，使用相同的初始帧和不同的“put this to there”指令，生成的视频展示了不同目标物体和位置的变化。
-# paper: An accurate detection is not all you need to combat label noise in web-noisy datasets
+#   An accurate detection is not all you need to combat label noise in web-noisy datasets
 **论文标题**
    - 准确检测并非万能：网络噪声数据集中对抗标签噪声的挑战
 
@@ -308,7 +308,7 @@ This&That不仅解决了视频计划的关键挑战，而且展示了视频生�
 
 **关键图表与数据**
    - 表明PLS-LSA方法在多个数据集上达到了最佳分类精度，如在CNWL数据集上，当噪声比分别为20%和80%时，准确率分别达到64.20±0.16和49.73±0.13。此外，通过对比实验，验证了在不同噪声水平下，结合PLS和线性分离策略（LSA）的性能优于单一使用任一方法。
-# paper: CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation
+#   CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation
 1. **论文标题**  
    - CrowdMoGen: 零样本文本驱动的集体运动生成
 
@@ -332,7 +332,7 @@ This&That不仅解决了视频计划的关键挑战，而且展示了视频生�
 
 8. **关键图表与数据**  
    - 图3展示了宏观和微观控制的效果，图4比较了CrowdMoGen与GPT-4在规划方法上的用户偏好，而图5则提供了随机生成的群体运动实例，验证了方法在宏观和微观控制方面的优越性。
-# paper: BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark
+#   BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark
 1. **论文标题**  
    - BiGym: 一种基于演示驱动的移动双臂操作基准测试
 

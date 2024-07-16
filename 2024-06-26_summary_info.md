@@ -1,5 +1,5 @@
 
-# paper: OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding
+#   OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding
 **论文标题**
    - OMG-LLaVA: 构建图像级、对象级、像素级推理与理解的桥梁
 
@@ -24,7 +24,7 @@
 
 **关键图表与数据**
    - 提供了模型架构对比图，展示了OMG-LLaVA与现有MLLM架构的区别，以及在视觉提示基描述任务上的定性比较结果，证实了OMG-LLaVA在细节描述和像素级理解方面的优越性。
-# paper: Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs
+#   Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs
 **论文标题**
    - STEP-DPO: 针对LLM长链推理的逐步偏好优化
 
@@ -53,7 +53,7 @@
 **关键图表与数据**
    - 一个示例比较了Qwen2-72B-Instruct和Qwen2-72B-Instruct-Step-DPO在解决特定数学问题时的表现差异，展示了Step-DPO改进的直观效果。
    - 表格数据展示了Step-DPO应用于不同规模模型后，在MATH和GSM8K测试集上的性能提升情况，其中Qwen2-72B-Instruct的显著提升尤为突出。
-# paper: MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data
+#   MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data
 **论文标题**
 MUMU: 从文本到图像数据引导的多模态图像生成
 
@@ -86,7 +86,7 @@ MUMU: 从文本到图像数据引导的多模态图像生成
 **关键图表与数据**
 - 提供了MUMU-Idefics2-SDXL架构图，展示模型各模块的工作流程和实际输出。
 - 展示了多模态提示和相应生成图像的例子，说明了模型如何处理和组合不同的输入类型。
-# paper: Simulating Classroom Education with LLM-Empowered Agents
+#   Simulating Classroom Education with LLM-Empowered Agents
 1. **论文标题**
    - 《利用大型语言模型赋能代理模拟课堂教育》
 
@@ -111,7 +111,7 @@ MUMU: 从文本到图像数据引导的多模态图像生成
 
 8. **关键图表与数据**
    - 图1概述了SimClass框架，展示了不同代理的功能与交互。实验结果量化分析了代理的互动行为与用户的学习成效，特别是通过Flanders互动分析系统和探究社区理论对教育体验的深度考察。
-# paper: SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation
+#   SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation
 **论文标题**
 SEAKR: 自知式知识检索以适应性增强生成
 
@@ -136,7 +136,7 @@ SEAKR通过其自知机制显著提高了RAG系统的性能，尤其是在处理
 
 **关键图表与数据**
 实验结果显示，在2WikiMultiHop、HotpotQA和IIRC数据集上，SEAKR分别达到36.0%、39.7%和23.5%的F1分数，相较于最佳基线分别高出6.0%、5.5%和0.6%。这些结果表明自知知识检索策略在解决复杂问题时具有优势。
-# paper: Aligning Teacher with Student Preferences for Tailored Training Data Generation
+#   Aligning Teacher with Student Preferences for Tailored Training Data Generation
 ### **论文标题**
 Aligning Teacher with Student Preferences for Tailored Training Data Generation
 
@@ -160,7 +160,7 @@ ARTE框架有效提高了知识蒸馏过程中学生模型的推理能力和泛�
 
 ### **关键图表与数据**
 实验结果显示，在布尔表达式理解和体育知识理解任务中，理由长度与模型一发上下文学习准确性之间的关系并不呈线性，约75-100词长的理由在布尔表达式任务中，50-75词长的理由在体育理解任务中，能取得最佳的小模型性能。这表明完整而简洁的理由比冗长细致的理由更有助于小模型学习。
-# paper: Can LLMs Learn by Teaching? A Preliminary Study
+#   Can LLMs Learn by Teaching? A Preliminary Study
 **论文标题**
 Can LLMs Learn by Teaching? A Preliminary Study
 
@@ -188,7 +188,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 **关键图表与数据**
 - 未具体提及图表，但研究中包含了教学流程的算法描述，例如迭代搜索更好示例的过程，以及基于反馈改进示例的具体步骤。此外，还展示了如何通过反思学生失败案例来生成新的教学材料实例。
-# paper: MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
+#   MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
 1. **论文标题**  
    - MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
 
@@ -214,7 +214,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 8. **关键图表与数据**  
    - 表8显示了MoA与vLLM在7B和13B模型上的吞吐量对比, MoA在所有测试长度上都表现出更好的性能。表9详细列出了MoA管道各个阶段的时间开销, 其中优化阶段是资源最密集的部分。表10对比了在不同测试集上, 使用不同校准数据集时的MoA性能, 证明了长程依赖对于提高模型表现的重要性。
-# paper: Dataset Size Recovery from LoRA Weights
+#   Dataset Size Recovery from LoRA Weights
 1. **论文标题**  
    - 从LoRA权重恢复数据集大小
 
@@ -239,7 +239,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 8. **关键图表与数据**  
    - 图1展示了DSiRe方法的工作流程，从LoRA权重中提取奇异值作为特征，用于训练分类器。表1概述了LoRA-WiSE数据集，包含了不同数据范围、源、骨干模型、LoRA秩和模型数量的信息。
-# paper: Is Programming by Example solved by LLMs?
+#   Is Programming by Example solved by LLMs?
 ### **论文标题**
 Is Programming by Example solved by LLMs?
 
@@ -264,7 +264,7 @@ Is Programming by Example solved by LLMs?
 
 ### **关键图表与数据**
 虽然具体数据未在摘要中详细列出，但论文中包含了多个实验结果对比，展示了LLMs在不同任务上的性能变化，特别是从原始状态到微调后的改进情况，以及在处理分布内与分布外数据时的不同表现。这些数据对于理解LLMs在PBE领域的潜力和局限性至关重要。
-# paper: LiveBench: A Challenging, Contamination-Free LLM Benchmark
+#   LiveBench: A Challenging, Contamination-Free LLM Benchmark
 1. **论文标题**  
    - LiveBench: 防止污染的具有挑战性的LLM基准测试
 
@@ -289,7 +289,7 @@ Is Programming by Example solved by LLMs?
 
 8. **关键图表与数据**  
    - 表格显示了多个模型在不同任务上的表现，例如IMO/USAMO数学竞赛成绩和指令遵循任务的平均得分。LiveBench的统计信息揭示了每个任务的问题数量和模型输出的平均词数，如数据分析、语言理解和推理任务。此外，提供了运行特定模型的成本估算，强调了LiveBench在实际应用中的成本效益分析。
-# paper: Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding
+#   Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding
 1. **论文标题**  
    - 《指向阅读：基于Tree-of-Lens定位的布局感知GUI屏幕阅读》
 
@@ -313,7 +313,7 @@ Is Programming by Example solved by LLMs?
 
 8. **关键图表与数据**  
    - 实验数据显示，通过使用GT区域，ToL代理在内容描述上的准确性显著提升，但布局描述的准确性仍有待提高。在验证移动导航代理行为正确性的实验中，ToL代理帮助识别了209个行动中的错误动作，从而提高了整体导航效率。
-# paper: Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation
+#   Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation
 **论文标题**
 理解大型语言模型的需求：用于增强检索生成的双偏好对齐
 
@@ -341,7 +341,7 @@ DPA-RAG提供了一种有效的方法来处理LLM的多样性偏好，为开发�
 
 **关键图表与数据**
 代码已公开发布，包含算法流程图、训练过程描述以及偏好评分机制，展示了如何构建和优化DPA-RAG框架。
-# paper: AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models
+#   AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models
 **论文标题**
    - AUTOHALLUSION: 自动生成幻觉基准测试以评估视觉语言模型
 
@@ -365,7 +365,7 @@ DPA-RAG提供了一种有效的方法来处理LLM的多样性偏好，为开发�
 
 **关键图表与数据**
    - 表格和数据分析展示了不同模型在面对不同策略时的幻觉攻击成功率，如GPT-4V、Gemini Pro Vision、Claude 3和LLaVA-1.5等模型的表现。通过对比真实世界和合成数据集上的结果，可以观察到模型在真实世界数据上更容易出现幻觉。
-# paper: T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings
+#   T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings
 1. **论文标题**  
    - T-FREE: 通过稀疏表示实现高效嵌入的无标记器生成式LLM
 
@@ -390,7 +390,7 @@ DPA-RAG提供了一种有效的方法来处理LLM的多样性偏好，为开发�
 
 8. **关键图表与数据**  
    - 论文中提供了模型在不同语言上的覆盖度比较，展示了T-FREE在减少重复令牌和优化内存占用方面的效果。此外，通过对比经典标记器和T-FREE的训练损失曲线，直观地反映了新方法在训练稳定性和效率上的优势。
-# paper: ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs
+#   ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs
 1. **论文标题**  
    - ArzEn-LLM: 使用LLMs进行埃及阿拉伯语-英语代码切换的翻译和语音识别
    
@@ -415,7 +415,7 @@ DPA-RAG提供了一种有效的方法来处理LLM的多样性偏好，为开发�
    
 8. **关键图表与数据**  
    - 训练曲线图显示不同模型的训练步骤与损失的关系，例如LLaMa3模型量化后从bfloat16到5-bit Q5，比特数减少了68.75%，性能仅下降1.2%和1%（英文和阿拉伯文版本）。量化后的模型在5.6GB内存中运行，支持每秒7.2个令牌的吞吐量，适合实时语音翻译和视频配音应用。
-# paper: Benchmarking Mental State Representations in Language Models
+#   Benchmarking Mental State Representations in Language Models
 **论文标题**
 基准测试语言模型中的心理状态表示
 
@@ -443,7 +443,7 @@ Matteo Bortoletto, Constantin Ruhdorfer, Lei Shi, Andreas Bulling
 - 图7呈现了不同提示变化对主角信念探针准确性的敏感性。
 - 图8显示了仅考虑前n个主成分时的探针准确性，用以探究潜在的记忆化现象。
 - 表1比较了ITI和CAA激活编辑方法对BigToM任务的影响，展示了不同模型和干预方法在真实信念、虚假信念等任务上的性能差异。
-# paper: ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models
+#   ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models
 1. **论文标题**  
    - ResumeAtlas: 使用大规模数据集和大型语言模型重新审视简历分类
 
@@ -468,7 +468,7 @@ Matteo Bortoletto, Constantin Ruhdorfer, Lei Shi, Andreas Bulling
 
 8. **关键图表与数据**  
    - 未具体提及，但可以推断，论文中可能包含了对比传统机器学习方法和大型语言模型在简历分类任务上的表现的关键图表，以及对数据预处理前后分类准确率变化的数据点。
-# paper: The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale
+#   The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale
 1. **论文标题**  
    - 《FineWeb 数据集：大规模提炼网络以获取最优文本数据》
 
@@ -492,7 +492,7 @@ Matteo Bortoletto, Constantin Ruhdorfer, Lei Shi, Andreas Bulling
 
 8. **关键图表与数据**  
    - 图9展示了每个数据处理步骤对模型性能的提升效果，图10比较了FineWeb和FineWeb-Edu与其他公开数据集的性能。这些图表证实了研究中的设计选择的有效性。
-# paper: YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals
+#   YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals
 **论文标题**
 YOUDREAM: 生成解剖学可控一致的文本到三维动物模型
 
@@ -516,7 +516,7 @@ YOUDREAM提供了一种创新的解决方案，可以生成解剖学上可控且
 
 **关键图表与数据**
 实验结果表明，YOUDREAM在用户偏好测试中获得了60.5%的自然度和61.6%的文本-图像对齐偏好。此外，通过消融研究验证了初始形状和姿态控制的效果，以及调度策略对结果质量的影响。
-# paper: Unlocking Continual Learning Abilities in Language Models
+#   Unlocking Continual Learning Abilities in Language Models
 1. **论文标题**
    - 解锁语言模型中的持续学习能力
 
@@ -541,7 +541,7 @@ YOUDREAM提供了一种创新的解决方案，可以生成解剖学上可控且
 
 8. **关键图表与数据**
    - 实验结果展示了MIGU在不同任务序列和LM架构上的显著性能提升，具体数值和对比在论文中有详细报告，包括平均准确率提高的具体百分比以及与其他基线方法的比较。
-# paper: Aligning Diffusion Models with Noise-Conditioned Perception
+#   Aligning Diffusion Models with Noise-Conditioned Perception
 1. **论文标题**  
    - 对齐扩散模型与基于噪声条件的感知
 
@@ -565,7 +565,7 @@ YOUDREAM提供了一种创新的解决方案，可以生成解剖学上可控且
 
 8. **关键图表与数据**  
    - 图3展示了在Pick-a-Pic验证集上使用PickScore评估训练速度的结果，图4是不同SDXL模型的并排真实人类偏好比较，表明NCPPO在多个方面显著优于其他模型。
-# paper: DiffusionPDE: Generative PDE-Solving Under Partial Observation
+#   DiffusionPDE: Generative PDE-Solving Under Partial Observation
 **论文标题**
    - DiffusionPDE: 使用生成扩散模型在部分观测下求解偏微分方程
 
@@ -590,7 +590,7 @@ YOUDREAM提供了一种创新的解决方案，可以生成解剖学上可控且
 
 **关键图表与数据**
    - 图7展示了由5个传感器连续观测恢复的另一个Burgers方程的结果；图8比较了不同PDE家族的前向和逆向问题的稀疏观测恢复结果；表4列出了在全观测条件下，所有方法在解决前向和逆向问题时的相对误差，其中DiffusionPDE表现最佳，误差小于10%，对于所有讨论的PDE类别都达到了与当前最优方法相当的水平。
-# paper: LongIns: A Challenging Long-context Instruction-based Exam for LLMs
+#   LongIns: A Challenging Long-context Instruction-based Exam for LLMs
 1. **论文标题**  
    - 长上下文指令式考试LongIns：对大型语言模型的挑战性评估
 
@@ -615,7 +615,7 @@ YOUDREAM提供了一种创新的解决方案，可以生成解剖学上可控且
 
 8. **关键图表与数据**  
    - 表5展示了局部指令&单任务（LIST）设置下的模型性能结果，表6则直接呈现了单一问题的QA准确性，其中GPT-4-turbo的准确率高达95.7%，表明LongIns能有效评估LLMs的实际上下文长度性能。
-# paper: MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning
+#   MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning
 **论文标题**
 MG-LLaVA: 多粒度视觉指令调优的探索
 
@@ -642,7 +642,7 @@ MG-LLaVA展示了在多模态理解和视觉推理方面的显著改进，尤其
 
 **关键图表与数据**
 表2和表3显示了MG-LLaVA在VQA和Video-QA基准上的比较结果，图4提供了在MMBench-Dev和SEEDBench子集上的消融研究，图5和图6则提供了模型处理图像和视频查询的具体实例，强调了其在捕捉细粒度细节方面的能力。
-# paper: APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets
+#   APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets
 1. **论文标题**  
    - **APIGen: 自动化流水线生成可验证和多样化的函数调用数据集**
 
@@ -667,7 +667,7 @@ MG-LLaVA展示了在多模态理解和视觉推理方面的显著改进，尤其
 
 8. **关键图表与数据**  
    - 表1提供了使用不同基线LLMs生成数据集的过滤统计，显示了格式检查、执行检查和语义检查各阶段的数据过滤情况。表2比较了xLAM-7B和xLAM-1B模型在BFCL排行榜上的性能，突出了APIGen框架的有效性和数据集的质量，其中xLAM-7B模型在排行榜上排名第六，整体准确率达到了85.65%，在AST评价和执行API评价两个关键指标上表现出色。
-# paper: MotionBooth: Motion-Aware Customized Text-to-Video Generation
+#   MotionBooth: Motion-Aware Customized Text-to-Video Generation
 1. **论文标题**  
    - MotionBooth: 动态感知定制文本到视频生成
 
@@ -692,7 +692,7 @@ MG-LLaVA展示了在多模态理解和视觉推理方面的显著改进，尤其
 
 8. **关键图表与数据**  
    - 图1展示了MotionBooth在不同场景下定制视频生成的结果，如怪物玩具行走、狗跳跃下楼梯等。图13提供了潜在偏移算法的伪代码，说明了如何在不改变主体区域的情况下操纵视频的潜在表示。图14展示更多定性结果，包括海滩上的狗奔跑、接近海滩的摩托车等场景。图4是关于主题标记交叉注意力图的案例研究，比较了有无STCA损失的情况，强调了STCA损失在连接主题位置和特殊标记之间的关键作用。
-# paper: Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA
+#   Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA
 1. **论文标题**  
    - 《不留文档在身后：通过扩展多文档问答基准测试长文本上下文的大规模语言模型》
 
@@ -720,7 +720,7 @@ MG-LLaVA展示了在多模态理解和视觉推理方面的显著改进，尤其
 
 8. **关键图表与数据**  
    - 表格和图示展示了Loong基准测试的数据统计，包括不同任务类型的平均令牌数量、语言种类以及测试实例的数量，这些数据对于理解研究结果至关重要。例如，聚光灯定位任务的平均令牌数为119.3K，而财务报告、法律案件和学术论文等领域的数据集分别包含700、500和400个测试实例。
-# paper: On the Transformations across Reward Model, Parameter Update, and In-Context Prompt
+#   On the Transformations across Reward Model, Parameter Update, and In-Context Prompt
 **论文标题**
 转换之路：大型语言模型中的奖励模型、参数更新与上下文提示之间的互换性
 
@@ -744,7 +744,7 @@ MG-LLaVA展示了在多模态理解和视觉推理方面的显著改进，尤其
 
 **关键图表与数据**
 图1展示了六种转换及其对应的应用场景，表1则详细列出了从参数更新到奖励模型转换的具体应用和效果对比，包括模型对齐、指令遵循、安全性等方面的评估。
-# paper: Segment Any Text: A Universal Approach for Robust, Efficient and Adaptable Sentence Segmentation
+#   Segment Any Text: A Universal Approach for Robust, Efficient and Adaptable Sentence Segmentation
 **论文标题**
 段落任意文本：一种用于鲁棒性、高效和适应性强的句子分割的通用方法
 
@@ -769,7 +769,7 @@ Markus Frohmann1,2, Igor Sterner3, Ivan Vulic´∗3, Benjamin Minixhofer∗3, Ma
 
 **关键图表与数据**
 表格显示了不同模型在多种语言上的句子分割F1分数，其中SAT+SM在大多数情况下取得了最高的得分。图7展示了模型执行时间与F1分数的关系，较高的滑动窗口值（stride）导致更快的推理速度。这些数据点强调了SAT模型在保持高精度的同时，实现了显著的效率提升。
-# paper: FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models
+#   FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models
 **论文标题**
 FreeTraj: 在视频扩散模型中实现无需调参的轨迹控制
 
@@ -805,7 +805,7 @@ FreeTraj: 在视频扩散模型中实现无需调参的轨迹控制
 **关键图表与数据**
 - 图8展示了在去噪后，视频中的物体和纹理沿着相同方向流动的现象，证实了初始噪声轨迹对生成结果运动轨迹的影响。
 - 图9比较了正常采样和部分重复采样的结果，展示了如何通过分割一部分注意力权重消除孤立帧的伪影，从而获得更自然的运动模式。
-# paper: DialSim: A Real-Time Simulator for Evaluating Long-Term Dialogue Understanding of Conversational Agents
+#   DialSim: A Real-Time Simulator for Evaluating Long-Term Dialogue Understanding of Conversational Agents
 1. **论文标题**  
    - DialSim: 一种实时模拟器，用于评估对话代理的长期对话理解能力
 
@@ -830,7 +830,7 @@ FreeTraj: 在视频扩散模型中实现无需调参的轨迹控制
 
 8. **关键图表与数据**  
    - 表9展示了模拟器中角色风格转移的结果示例，通过添加自然的对话前缀“顺便说一下”，使问题更贴近实际对话流程。此外，实验中还生成了基于剧本的场景和问题，用以测试代理的记忆和应答能力。
-# paper: Image Conductor: Precision Control for Interactive Video Synthesis
+#   Image Conductor: Precision Control for Interactive Video Synthesis
 1. **论文标题**  
    - IMAGE CONDUCTOR: PRECISION CONTROL FOR INTERACTIVE VIDEO SYNTHESIS
 
@@ -855,7 +855,7 @@ FreeTraj: 在视频扩散模型中实现无需调参的轨迹控制
 
 8. **关键图表与数据**  
    - 图1展示了Image Conductor合成的结果，彩色线条表示运动轨迹。图6和图7分别演示了不同LoRA权重的效果以及无相机引导技术如何改善物体运动控制。表1比较了Image Conductor与其他最先进方法在自动指标（如FID、FVD）和人类评估上的性能，显示Image Conductor在整体表现、样本质量和运动相似性方面有显著优势。
-# paper: Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients
+#   Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients
 **论文标题**
 GRASS: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients
 
@@ -879,7 +879,7 @@ GRASS提供了一种有效的方法来降低大型语言模型训练的内存需
 
 **关键图表与数据**
 表1总结了不同方法在内存使用、FLOPs（浮点运算次数）和分布式通信体积方面的对比，显示GRASS在所有这三个方面都有显著改进。例如，GRASS仅需O(rn)的通信成本，远低于其他方法所需的O(mn)。
-# paper: Large Language Models Assume People are More Rational than We Really are
+#   Large Language Models Assume People are More Rational than We Really are
 **论文标题**
 大型语言模型假设人们比实际更加理性
 
@@ -910,7 +910,7 @@ GRASS提供了一种有效的方法来降低大型语言模型训练的内存需
 - 实验中使用了多种模型（如Llama-3-8B, Llama-3-70B, Claude 3 Opus, GPT-4 Turbo）的对比分析，通过Spearman相关系数衡量模型预测与人类决策之间的关联度，结果显示LLMs与理性模型的相关性显著高于与人类行为的相关性。
 - 在正向建模任务中，LLMs如Llama-3-8B与绝对和相对效用的关联度分别为0.62和0.89，而GPT-4o则达到0.95和0.94。
 - 逆向建模任务中，LLMs的预测与人类决策之间的高度相关性进一步证实了它们假设人类更理性的倾向。
-# paper: Cross-Modality Safety Alignment
+#   Cross-Modality Safety Alignment
 1. **论文标题**  
    - 跨模态安全对齐：评估大型视觉语言模型的安全性
 
@@ -934,7 +934,7 @@ GRASS提供了一种有效的方法来降低大型语言模型训练的内存需
 
 8. **关键图表与数据**  
    - 论文中的图表显示了不同模型在生成任务和多项选择任务上的平均安全性和有效性评分，以及准确率，突出展示了模型在处理具体安全场景时的表现差异。
-# paper: Multi-property Steering of Large Language Models with Dynamic Activation Composition
+#   Multi-property Steering of Large Language Models with Dynamic Activation Composition
 ### **论文标题**
 多属性引导：利用动态激活组合对大型语言模型进行控制
 

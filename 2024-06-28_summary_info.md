@@ -23,7 +23,7 @@
 **关键图表与数据**
    - 通过图2展示了当前多模态语言模型架构的总结，对比了不同模型在图像级、对象级和像素级能力上的局限性，突出了OMG-LLaVA设计的简洁性和多功能性。表4和图6、图9中的定量和定性比较显示了OMG-LLaVA在多个任务上的优越性能，如图像描述和视觉提示下的描述任务。
 
-# paper: OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding
+#   OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding
 **论文标题**
    - OMG-LLaVA: 构建图像级、对象级、像素级推理与理解的桥梁
 
@@ -48,7 +48,7 @@
 
 **关键图表与数据**
    - 图2展示了当前MLLM架构的总结，比较了不同模型的能力，突出OMG-LLaVA的综合优势。图6和图9提供了OMG-LLaVA在视觉提示描述任务上的定性比较结果，显示了模型在理解和响应视觉提示方面的卓越性能。
-# paper: Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs
+#   Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs
 **论文标题**
    - STEP-DPO: 针对LLM长链推理的逐步偏好优化
 
@@ -76,7 +76,7 @@
 **关键图表与数据**
    - 一个关键的实验示例展示了Qwen2-72B-Instruct和应用了Step-DPO的Qwen2-72B-Instruct之间的比较，证明了Step-DPO在解决特定数学问题时的优势。
    - 表格数据表明，在使用不同分布的数据进行Step-DPO训练时，模型性能的差异，其中使用同分布数据的Step-DPO训练效果更佳。
-# paper: MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data
+#   MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data
 **论文标题**
 MUMU: 从文本到图像数据引导的多模态图像生成
 
@@ -104,7 +104,7 @@ MUMU展示了多模态模型作为图像生成通用控制器的潜力，它不�
 
 **关键图表与数据**
 论文中的图1展示了MUMU模型如何接收多模态条件输入并生成图像的例子。图2详细介绍了MUMU-Idefics2-SDXL架构，其中红色模块表示训练部分，蓝色表示冻结部分，黑色表示嵌入部分，直观展现了模型的工作流程。
-# paper: Simulating Classroom Education with LLM-Empowered Agents
+#   Simulating Classroom Education with LLM-Empowered Agents
 ### 论文标题
 模拟课堂教育的大模型赋能代理
 
@@ -136,7 +136,7 @@ MUMU展示了多模态模型作为图像生成通用控制器的潜力，它不�
 
 ### 关键图表与数据
 - 图1概述了SimClass框架，描绘了用户、代理以及它们之间的功能交互，包括教学、辅导、对话历史和班级状态更新等。
-# paper: SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation
+#   SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation
 **论文标题**
 SEAKR: 自知式知识检索以适应性增强生成
 
@@ -161,7 +161,7 @@ SEAKR展示了通过自知机制提升RAG性能的潜力，为解决复杂问题
 
 **关键图表与数据**
 实验结果表明，在复杂QA任务如2WikiMultiHop、HotpotQA和IIRC上，SEAKR分别取得了36.0%、39.7%和23.5%的F1分数，显著高于最佳基线。在简单QA数据集上的表现同样优秀，如NQ、TriviaQA和SQuAD，F1分数分别为35.5%、63.1%和36.5%，再次证明了SEAKR的优势。
-# paper: Aligning Teacher with Student Preferences for Tailored Training Data Generation
+#   Aligning Teacher with Student Preferences for Tailored Training Data Generation
 ### **论文标题**
 Aligning Teacher with Student Preferences for Tailored Training Data Generation
 
@@ -185,7 +185,7 @@ ARTE框架能够有效提高知识蒸馏过程中学生模型的表现，特别�
 
 ### **关键图表与数据**
 关键图表展示了理由长度与小型语言模型一次性上下文学习准确性之间的关系，揭示了理由的完整性和简洁性对于学习效果的重要性。
-# paper: Can LLMs Learn by Teaching? A Preliminary Study
+#   Can LLMs Learn by Teaching? A Preliminary Study
 **论文标题**
 Can LLMs Learn by Teaching? A Preliminary Study
 
@@ -216,7 +216,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 **关键图表与数据**
 - 提供了算法流程图，展示了如何通过教师模型迭代改进示例，以及如何根据学生模型的表现调整教学策略。
 - 举例说明了示例修订的过程，如在逻辑谬误识别任务中，教师模型如何根据学生失败案例反思并修订教学示例。
-# paper: MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
+#   MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
 1. **论文标题**  
    - MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
 
@@ -242,7 +242,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 8. **关键图表与数据**  
    - 表8展示了MoA与vLLM在不同模型尺寸下的吞吐量对比, 表明MoA在提升效率方面的显著优势。表9详细列出了MoA管道中各个阶段的时间开销, 包括校准数据集生成、建模、优化和验证。表10则比较了在不同测试集上使用不同校准集时MoA的性能差异, 强调了长程依赖性对压缩结果的重要性。
-# paper: Dataset Size Recovery from LoRA Weights
+#   Dataset Size Recovery from LoRA Weights
 1. **论文标题**  
    - 从LoRA权重恢复数据集大小
 
@@ -267,7 +267,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 8. **关键图表与数据**  
    - 图1展示了DSiRe方法的概述，图中详细说明了从LoRA权重中提取特征并进行分类的过程。此外，实验部分报告了DSiRe与基线方法Frobenius-NN在不同数据范围上的性能对比，以及通过数据增强技术对DSiRe进行防御的效果。
-# paper: Is Programming by Example solved by LLMs?
+#   Is Programming by Example solved by LLMs?
 **论文标题**
 编程示例是否已被大型语言模型解决？
 
@@ -292,7 +292,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 **关键图表与数据**
 未直接提及具体图表或数据，但研究涉及了对模型表现的量化分析，包括模型在不同任务上的成功率以及微调前后的对比。例如，有表格展示了模型在处理时间转换任务时的输入输出示例与生成程序的一致性。
-# paper: LiveBench: A Challenging, Contamination-Free LLM Benchmark
+#   LiveBench: A Challenging, Contamination-Free LLM Benchmark
 1. **论文标题**  
    - LiveBench: 防止污染的具有挑战性的LLM基准测试
 
@@ -317,7 +317,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 8. **关键图表与数据**  
    - 表格展示了不同模型在LiveBench上的表现，如zephyr-7b-alpha和vicuna-7b-v1.5在不同难度级别的IMO/USAMO问题上的得分。同时，提供了LiveBench任务的统计数据，如每项任务的问题数量、输入输出令牌的平均值和标准偏差，以及运行GPT和Claude模型的成本估计。这些数据点对理解和评估LLM在LiveBench上的性能至关重要。
-# paper: Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding
+#   Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding
 1. **论文标题**  
    - 《指向阅读：基于Tree-of-Lens定位的布局感知GUI屏幕阅读》
 
@@ -341,7 +341,7 @@ Can LLMs Learn by Teaching? A Preliminary Study
 
 8. **关键图表与数据**  
    - 实验数据显示，在使用特定任务目标引导的移动导航代理MagicWonder的20%随机样本实验中，ToL代理能有效识别不正确的动作，提高了导航的准确性和效率。
-# paper: Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation
+#   Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation
 **论文标题**
 理解大型语言模型的需求：用于增强检索生成的双偏好对齐
 
@@ -367,7 +367,7 @@ DPA-RAG提供了一种有效的方法来处理LLM与检索器之间的偏好差�
 
 **关键图表与数据**
 论文的关键图表包括算法1和算法2，它们分别展示了偏好数据集构建和LLM读取器训练过程。这些图表详细说明了从原始数据中挖掘偏好知识和利用偏好排序测试集进行预测的过程。此外，表2的结果显示，对于强大的LLM如GPT-3.5和GPT-4，使用配对比较排名可以比仅依赖概率分布获得更精确的偏好顺序。
-# paper: T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings
+#   T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings
 1. **论文标题**  
    - T-FREE: 通过稀疏表示实现高效嵌入的无标记器生成式LLM
 
@@ -392,7 +392,7 @@ DPA-RAG提供了一种有效的方法来处理LLM与检索器之间的偏好差�
 
 8. **关键图表与数据**  
    - 论文中包含了对比经典标记器和T-FREE训练损失曲线的图示，显示了T-FREE在训练过程中的稳定性优势。此外，还提供了模型在不同语言上的覆盖度比较，以及模型重叠度的分析，这些数据点和统计分析结果证明了T-FREE的有效性和优越性。
-# paper: ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs
+#   ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs
 1. **论文标题**  
    - ArzEn-LLM: 使用LLMs进行埃及阿拉伯语-英语代码切换的翻译和语音识别
    
@@ -417,7 +417,7 @@ DPA-RAG提供了一种有效的方法来处理LLM与检索器之间的偏好差�
    
 8. **关键图表与数据**  
    - 训练曲线展示了不同模型和阶段的损失变化，例如图1中的各种机器翻译模型训练曲线。表2和表3提供了具体模型的性能指标，如BLEU分数、BERT F1得分等，突出LLaMa3模型在量化后的高效性和准确性。
-# paper: Benchmarking Mental State Representations in Language Models
+#   Benchmarking Mental State Representations in Language Models
 **论文标题**
 基准测试语言模型中的心理状态表示
 
@@ -442,7 +442,7 @@ Matteo Bortoletto, Constantin Ruhdorfer, Lei Shi, Andreas Bulling
 
 **关键图表与数据**
 关键图表包括模型尺寸与最佳探针准确性之间的关系，以及不同提示变化对探针准确性的影响。数据显示，对于基础模型，最佳探针准确性随模型尺寸按对数比例增长；而对于微调模型，这一关系则呈现线性增长。此外，研究还报告了激活编辑方法对特定任务效果的比较数据。
-# paper: ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models
+#   ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models
 1. **论文标题**  
    - ResumeAtlas: 使用大规模数据集和大型语言模型重新审视简历分类
 

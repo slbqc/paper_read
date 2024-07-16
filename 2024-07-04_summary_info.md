@@ -1,5 +1,5 @@
 
-# paper: InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output
+#   InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output
 1. **论文标题**  
    - InternLM-XComposer-2.5: 一款支持长上下文输入输出的多功能大型视觉语言模型
    
@@ -23,7 +23,7 @@
 
 8. **关键图表与数据**  
    - 关键数据点包括IXC-2.5在多个基准测试上的表现，如MVBench、MLVU、MMBench-Video等视频理解任务，以及DocVQA、ChartQA、TextVQA等高分辨率结构理解任务。此外，还提到了在网页制作子任务“截图转代码”上的具体结果。这些数据证实了IXC-2.5在处理复杂视觉语言任务方面的优势。
-# paper: TabReD: A Benchmark of Tabular Machine Learning in-the-Wild
+#   TabReD: A Benchmark of Tabular Machine Learning in-the-Wild
 1. **论文标题**  
    - TabReD: 在野性环境下的表格机器学习基准测试
    
@@ -48,7 +48,7 @@
    
 8. **关键图表与数据**  
    - 表2提供了在新数据集上各种表格ML模型的性能对比，展示了不同方法在分类和回归任务上的平均性能，以及它们在所有数据集上的排名情况。例如，XGBoost、LightGBM和CatBoost在分类任务上表现优异，而MLP和GBDT在整体性能上领先，DL模型则表现相对逊色。
-# paper: TokenPacker: Efficient Visual Projector for Multimodal LLM
+#   TokenPacker: Efficient Visual Projector for Multimodal LLM
 **论文标题**  
    - TokenPacker: 高效视觉投影器用于多模态大语言模型
 
@@ -73,7 +73,7 @@
 
 **关键图表与数据**  
    - 通过对比实验，展示了TokenPacker在多个指标上的优势，如在VQAT、OCRB、DocVQA等多个任务上的表现，以及在MMB、MMMU、MME等数据集上的评测结果，证明了其在压缩标记数量的同时保持或提高模型性能的有效性。
-# paper: No Training, No Problem: Rethinking Classifier-Free Guidance for Diffusion Models
+#   No Training, No Problem: Rethinking Classifier-Free Guidance for Diffusion Models
 1. **论文标题**  
    - 无需训练，不成问题：重新思考扩散模型中的无条件指导
 
@@ -100,7 +100,7 @@
 
 8. **关键图表与数据**  
    - 图表展示了ICG与CFG在不同模型上的比较，以及TSG在无条件和条件生成任务中的效果，量化指标如FID、精度和召回率的变化，证明了方法的有效性。
-# paper: PicoAudio: Enabling Precise Timestamp and Frequency Controllability of Audio Events in Text-to-audio Generation
+#   PicoAudio: Enabling Precise Timestamp and Frequency Controllability of Audio Events in Text-to-audio Generation
 **论文标题**
    - PicoAudio: 在文本到音频生成中实现精确的时间戳和频率可控性
 
@@ -125,7 +125,7 @@
 
 **关键图表与数据**
    - 表1展示了评估结果，包括F1segment/Lfreq 1用于衡量生成音频与输入条件之间的时间戳对齐/发生频率误差，FAD用于衡量音频质量，MOS表示主观评分。在单事件和多事件任务上，PicoAudio在所有指标上都表现出色，尤其是在时间戳控制和频率控制上。
-# paper: DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents
+#   DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents
 1. **论文标题**  
    - DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents
 
@@ -149,7 +149,7 @@
 
 8. **关键图表与数据**  
    - 图10展示了训练损失随噪声水平变化的情况，以及不同模型生成分布与真实分布之间的Wasserstein-2距离。DisCo-Diff模型的W-2距离为0.118，而标准扩散模型为0.27，表明DisCo-Diff更准确地捕捉到了多模态分布。附录中的图11至图15提供了更多的实验结果和分析，包括在ImageNet-64和ImageNet-128上的扩展样本，以及使用不同采样器的效果比较。
-# paper: Investigating Decoder-only Large Language Models for Speech-to-text Translation
+#   Investigating Decoder-only Large Language Models for Speech-to-text Translation
 ### **论文标题**
 Investigating Decoder-only Large Language Models for Speech-to-text Translation
 
@@ -180,7 +180,7 @@ Investigating Decoder-only Large Language Models for Speech-to-text Translation
 
 ### **关键图表与数据**
 尽管具体数据未在摘要中详细列出，但可以预期论文中会包含关于模型性能的关键图表，如BLEU分数、WER(词错误率)以及其他评估指标，用于比较不同模型和实验条件下的表现。此外，还可能涉及训练和测试集的详细统计，以及微调过程的效果分析。
-# paper: Eliminating Position Bias of Language Models: A Mechanistic Approach
+#   Eliminating Position Bias of Language Models: A Mechanistic Approach
 **论文标题**
 消除语言模型的位置偏见：一种机制性方法
 
@@ -204,7 +204,7 @@ PINE方法有效消除了语言模型因不同输入段落顺序而产生的位�
 
 **关键图表与数据**
 图2展示了先前工作PCW中通过遮罩所有跨段注意力来消除位置偏见的方法，但这种方法导致了需要语言建模能力的任务性能大幅下降，证明了PINE方法的优越性。表2则详细列出了在RewardBench基准测试中，不同规模模型应用PINE前后在对话、难对话、安全、推理和平均得分方面的性能对比，证实了PINE在处理位置偏见严重的子集时的显著效果。
-# paper: A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses
+#   A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses
 1. **论文标题**  
    - 虚假的安全感：'安全'AI响应中的信息泄露风险
 

@@ -1,5 +1,5 @@
 
-# paper: We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
+#   We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
 1. **论文标题**  
    - WE-MATH: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
 
@@ -24,7 +24,7 @@
 
 8. **关键图表与数据**  
    - 研究提供了四维评估指标的例子，用于评价两步问题，包括严格的和宽松的设置。此外，展示了WE-MATH知识体系的节点和层次，以及收集的问题和图像的统计数据。这些数据对于理解模型的推理能力和评估其在特定知识领域的表现至关重要。
-# paper: ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning
+#   ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning
 1. **论文标题**  
    - **ROS-LLM: 一种基于ROS的框架，用于具有任务反馈和结构化推理的具身AI**
 
@@ -49,7 +49,7 @@
 
 8. **关键图表与数据**  
    - 图4和图5详细记录了机器人在实验中制作咖啡的流程，包括物体定位、动作规划、环境导航和设备交互等关键步骤，直观展示了系统的性能和能力。
-# paper: MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation
+#   MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation
 1. **论文标题**  
    - 校准多模态基准测试以实现值得信赖和高效的评估：MMEVALPRO
 
@@ -73,7 +73,7 @@
 
 8. **关键图表与数据**  
    - MMEVALPRO的实验结果展示了不同模型在MMEVALPRO基准上的准确率，以及这些准确率与人类表现和模型间差距的比较。例如，LLaVA-Next-Hermes-Yi-34B模型在零样本学习下达到47.89%的准确率，而Qwen-VL-Max模型在相同条件下准确率为46.12%，显著低于人类水平，体现了MMEVALPRO的挑战性和区分度。
-# paper: LiteSearch: Efficacious Tree Search for LLM
+#   LiteSearch: Efficacious Tree Search for LLM
 **论文标题**
    - LiteSearch: 高效树搜索策略提升大语言模型数学推理能力
 
@@ -98,7 +98,7 @@
 
 **关键图表与数据**
    - 主测试结果（表1）显示，在GSM8K和TabMWP数据集上，LiteSearch方法的准确率与基线相当，但生成的令牌数量（计算成本指标）显著减少。例如，在GSM8K上，LiteSearch（增量）的准确率为79.7%，而生成的令牌仅为0.41k，相比之下，基线方法如ToT-BFS的准确率为80.1%，但生成的令牌达到2.22k。可靠性分析（图3）证明了使用价值分数作为置信度估计的有效性。
-# paper: Wavelets Are All You Need for Autoregressive Image Generation
+#   Wavelets Are All You Need for Autoregressive Image Generation
 1. **论文标题**  
    - Wavelets Are All You Need for Autoregressive Image Generation
 
@@ -122,7 +122,7 @@
 
 8. **关键图表与数据**  
    - 提供的图表显示了生成的图像和相应的波形系数，包括不同参数设置下的数字和鞋类图像。此外，还展示了MNIST和FashionMNIST数据集上更多的生成结果，为方法的有效性提供了直观的证据。
-# paper: ColPali: Efficient Document Retrieval with Vision Language Models
+#   ColPali: Efficient Document Retrieval with Vision Language Models
 **论文标题**
    - ColPali: 高效利用视觉语言模型进行文档检索
 
@@ -151,7 +151,7 @@
 **关键图表与数据**
    - 表5展示了ColPali模型及其变体在ViDoRe上的评估结果，使用NDCG@5指标，突出了模型在处理仅含视觉元素的基准时的卓越表现。
    - 图5和图6提供了文档分析助手生成的标题示例，证明了模型对复杂视觉文档的理解能力。
-# paper: RegMix: Data Mixture as Regression for Language Model Pre-training
+#   RegMix: Data Mixture as Regression for Language Model Pre-training
 **论文标题**
 REGMIX: 将数据混合视为回归任务以进行语言模型预训练
 
@@ -182,7 +182,7 @@ REGMIX: 将数据混合视为回归任务以进行语言模型预训练
 **关键图表与数据**
 - 表7对比了不同数据选择方法的性能，REGMIX在多个任务上的平均零样本任务性能高于人工基线，且在多个任务上显著超越。
 - 论文中提到的关键实验包括模型配置细节，如层数、注意力头数量、嵌入维度等，以及对方法稳定性的评估，证明REGMIX能够克服先前方法的不稳定性问题。
-# paper: DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models
+#   DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models
 ### **论文标题**
 DiffIR2VR-Zero: 零样本视频修复与基于扩散的图像修复模型
 
@@ -212,7 +212,7 @@ DiffIR2VR-Zero为视频增强任务提供了一个强大且灵活的工具，无
 
 ### **关键图表与数据**
 论文中的关键图表和数据分析展示了在各种降质条件下的视频修复效果，验证了方法的有效性和优越性。具体的数据点和统计分析可在论文中查阅，包括项目网页上的视频结果示例。
-# paper: Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning
+#   Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning
 1. **论文标题**  
    - 步控DPO：利用逐步错误增强数学推理能力
 
@@ -243,7 +243,7 @@ DiffIR2VR-Zero为视频增强任务提供了一个强大且灵活的工具，无
 
 8. **关键图表与数据**  
    - 论文展示了通过SCDPO和DPO进行信用分配的定性分析，强调了SCDPO在识别数学解答中错误的有效性。此外，论文公开了用于数据生成和训练的相关代码，可在https://github.com/mathllm/Step-Controlled_DPO获取。
-# paper: Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP
+#   Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP
 ### **论文标题**
 Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP
 
@@ -267,7 +267,7 @@ Omer Goldman*, Alon Jacovi*, Aviv Slobodkin*, Aviya Maimon, Ido Dagan, Reut Tsar
 
 ### **关键图表与数据**
 虽然摘要中未具体提及，但文中可能包含了对各种长文本任务的对比分析图表，以及通过新分类体系定位的文献示例，这些对于理解长文本处理的复杂性和未来研究方向至关重要。
-# paper: InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation
+#   InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation
 1. **论文标题**  
    - 风格迁移中的内容保留：文本到图像生成的即时风格增强
 
@@ -292,7 +292,7 @@ Omer Goldman*, Alon Jacovi*, Aviv Slobodkin*, Aviya Maimon, Ido Dagan, Reut Tsar
 
 8. **关键图表与数据**  
    - 图4展示了子模块分析结果，包括初始内容潜噪声、Canny和Tile ControlNet以及语义和风格指导的贡献，直观显示了每个组件如何影响最终图像的空间结构、语义内容和风格增强。
-# paper: E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS
+#   E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS
 1. **论文标题**  
    - E2 TTS: 极简全非自回归零样本文本转语音系统
 
@@ -317,7 +317,7 @@ Omer Goldman*, Alon Jacovi*, Aviv Slobodkin*, Aviya Maimon, Ido Dagan, Reut Tsar
 
 8. **关键图表与数据**  
    - 论文中的关键图表包括模型训练和推理流程示意图，展示了从音频提示生成语音信号的全过程。此外，论文提供了与Voicebox和NaturalSpeech 3的性能对比数据，证明了E2 TTS 在零样本场景下的优越表现。
-# paper: RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network
+#   RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network
 1. **论文标题**  
    - RealTalk: 实时、逼真的音频驱动面部生成与基于3D面部先验指导的身份对齐网络
 
@@ -342,7 +342,7 @@ Omer Goldman*, Alon Jacovi*, Aviv Slobodkin*, Aviya Maimon, Ido Dagan, Reut Tsar
 
 8. **关键图表与数据**  
    - 实验对比了一次性方法，如StyleTalk，在官方演示中的唇同步效果，RealTalk在所有5个评估指标上均优于StyleTalk，且速度快4.27倍。此外，通过消融研究验证了改进后的面部先验的有效性，引入形状和历史表情特征显著提高了预测准确性达57.9%。
-# paper: MIRAI: Evaluating LLM Agents for Event Forecasting
+#   MIRAI: Evaluating LLM Agents for Event Forecasting
 ### **论文标题**
 MIRAI: 评估LLM代理在事件预测中的能力
 
@@ -367,7 +367,7 @@ MIRAI为评估LLM代理在国际事件预测中的能力提供了可靠框架，
 
 ### **关键图表与数据**
 文中未具体提及关键图表与数据，但提到MIRAI基准涉及的预测任务和工具使用API的具体细节，这些是理解研究结果的关键。例如，代理需要处理的事件类型包括提供援助、屈服、调查、要求、不批准、拒绝、威胁、抗议等。
-# paper: OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents
+#   OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents
 **论文标题**
 OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents
 
@@ -392,7 +392,7 @@ OmniJARVIS通过统一的视觉、语言和行动令牌化，使代理能够执�
 
 **关键图表与数据**
 论文未具体提及关键图表或数据点，但提到研究在一系列任务上的优秀表现，以及模型处理大量行为类型的能力，例如制作、掉落、使用物品等。这些细节支持了OmniJARVIS的有效性和多功能性。
-# paper: Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language
+#   Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language
 1. **论文标题**  
    - Auto Cherry-Picker: 学习由语言驱动的高质量生成数据
 
@@ -417,7 +417,7 @@ OmniJARVIS通过统一的视觉、语言和行动令牌化，使代理能够执�
 
 8. **关键图表与数据**  
    - 研究对比了CLIS与其他流行度量标准的结果，证明了CLIS在评估图像质量方面的优越性，特别是在细节属性和语义关系的评价上。例如，在特定场景下，CLIP得分忽略了多余的元素和不准确的空间排列，而YOLO得分未能评估详细的属性或语义关系。
-# paper: Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs
+#   Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs
 1. **论文标题**  
    - 链式知识：通过学习知识图谱将知识推理融入大型语言模型
 
@@ -441,7 +441,7 @@ OmniJARVIS通过统一的视觉、语言和行动令牌化，使代理能够执�
 
 8. **关键图表与数据**  
    - 关键图表展示了CoK在不同规则长度下的实例，以及CoK(T&E)在常规设置下和下游任务中的性能对比，证实了其在提高模型知识推理能力方面的作用。例如，CoK(T&E)在常识问答（CSQA）、BBH、ARC-e和ARC-c等四个推理基准上的表现优于基线模型Mistral-7b。
-# paper: Towards Robust Speech Representation Learning for Thousands of Languages
+#   Towards Robust Speech Representation Learning for Thousands of Languages
 **论文标题**
    - 向着支持数千种语言的鲁棒语音表示学习迈进
 
@@ -467,7 +467,7 @@ OmniJARVIS通过统一的视觉、语言和行动令牌化，使代理能够执�
 
 **关键图表与数据**
    - 数据集覆盖了189个语言家族,其中约2000种语言拥有每种至少1小时的数据。这些数据展示了长尾分布特征,前50种语言占用了99.5%的数据量。此外,研究者还提供了所有预训练语料库的概述,包括许可信息,并指出最长的语音片段被限制在40秒以内,以满足内存约束。
-# paper: T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge
+#   T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge
 1. **论文标题**  
    - T-MAC: 通过表查找实现低比特LLM在边缘设备上的CPU复兴
 
@@ -491,7 +491,7 @@ OmniJARVIS通过统一的视觉、语言和行动令牌化，使代理能够执�
 
 8. **关键图表与数据**  
    - 评估结果显示T-MAC在不同设备上的显著性能提升，特别是在能耗和推理速度方面。具体数值和比较结果见论文中的实验部分。
-# paper: SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix
+#   SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix
 **论文标题**
 SVG: 通过去噪帧矩阵生成3D立体视频
 
@@ -527,7 +527,7 @@ SVG: 通过去噪帧矩阵生成3D立体视频
 - 图4展示了帧矩阵在提高语义一致性方面的作用。
 - 表1总结了人类感知实验的结果，显示SVG在所有指标上都超过了基线方法。
 - 表2报告了语义一致性评分，SVG获得了最佳成绩96.44。
-# paper: Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER
+#   Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER
 **论文标题**
 Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER
 
@@ -565,7 +565,7 @@ Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for 
 **关键图表与数据**
 - 表格和图4显示了SLIMER与基线模型在不同场景下的F1分数对比，以及在BUSTER数据集上针对未见过的实体类型的表现。
 - 图5描绘了SLIMER与现有最先进模型在MIT/CrossNER和BUSTER数据集上的性能比较，圆圈大小反映了每个模型在训练中看到的示例数量。
-# paper: UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI
+#   UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI
 1. **论文标题**  
    - UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI
 
@@ -590,7 +590,7 @@ Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for 
 
 8. **关键图表与数据**  
    - 论文中并未提及具体的图表或数据，但研究的理论分析和提出的概念对理解大型语言模型在知识控制方面的局限性和未来研究方向至关重要。
-# paper: Accurate Prediction of Ligand-Protein Interaction Affinities with Fine-Tuned Small Language Models
+#   Accurate Prediction of Ligand-Protein Interaction Affinities with Fine-Tuned Small Language Models
 **论文标题**
    - 准确预测配体-蛋白质相互作用亲和力的细调小型语言模型
 
@@ -614,7 +614,7 @@ Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for 
 
 **关键图表与数据**
    - 图5展示了不同数量微调示例下的F1分数分布变化，反映了模型学习预测所有LPI序数亲和力值的过程。图7和图8分别描绘了随着微调数据量增加，模型在LPI亲和力预测上的准确率提升，以及在“近似匹配”条件下，所有序数亲和力值的准确率范围。
-# paper: DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging
+#   DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging
 1. **论文标题**  
    - DogeRM: 通过模型融合将领域知识注入奖励模型
 
@@ -644,7 +644,7 @@ Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for 
 
 8. **关键图表与数据**  
    - 论文中的关键图表包括展示DogeRM在不同数据集（如GSM8K、MBPP、Auto-J Eval）上的效果的图4至图15，这些图表详细记录了合并不同领域模型后奖励模型在最佳采样策略下的表现改进。例如，LLaMA-2 RM与MetaMath模型、Code Model以及Mistral RM与MAmmoTH-2-7B-Plus模型融合后的结果分别显示了在代码和数学任务上的显著提高。
-# paper: The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models
+#   The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models
 1. **论文标题**  
    - 《SIFo基准：探究大型语言模型的连续指令遵循能力》
 
@@ -668,7 +668,7 @@ Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for 
 
 8. **关键图表与数据**  
    - 图表显示了不同模型在文本修改、数学和安全任务上的步骤级准确性，以及在问题回答和知识修订指令上的准确性。数据分析揭示了模型性能随指令位置的变化趋势，以及模型大小和发布时间对性能的影响。
-# paper: Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs
+#   Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs
 **论文标题**
    - Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs
 
@@ -694,7 +694,7 @@ Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for 
 
 **关键图表与数据**
    - 图1展示了后期层中令牌级信息的“擦除”现象，以及这一现象与有用词汇表示构建之间的关系。表格3和4列出了Llama-2-7b和Llama-3-8B模型在维基百科数据集上的最高得分多令牌序列，其中包含序列长度、出现次数和平均ψ值，ψ值用于量化序列的有效性。此外，算法1详细介绍了文档分割的方法，图4至图7展示了具体文档片段的分割结果，突出显示了多令牌段落和它们的得分情况。
-# paper: ProgressGym: Alignment with a Millennium of Moral Progress
+#   ProgressGym: Alignment with a Millennium of Moral Progress
 1. **论文标题**  
    - ProgressGym: 与千年道德进步相一致的AI系统对齐
 
