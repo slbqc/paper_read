@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Internal Consistency and Self-Feedback in Large Language Models: A Survey",
+        "link": "/papers/2407.14507",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14507",
+        "arxiv_url": "https://arxiv.org/abs/2407.14507",
+        "arxiv_id": "2407.14507"
+    },
+    {
+        "title": "EVLM: An Efficient Vision-Language Model for Visual Understanding",
+        "link": "/papers/2407.14177",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14177",
+        "arxiv_url": "https://arxiv.org/abs/2407.14177",
+        "arxiv_id": "2407.14177"
+    },
+    {
+        "title": "LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference",
+        "link": "/papers/2407.14057",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14057",
+        "arxiv_url": "https://arxiv.org/abs/2407.14057",
+        "arxiv_id": "2407.14057"
+    },
+    {
+        "title": "ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities",
+        "link": "/papers/2407.14482",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14482",
+        "arxiv_url": "https://arxiv.org/abs/2407.14482",
+        "arxiv_id": "2407.14482"
+    },
+    {
+        "title": "Stable Audio Open",
+        "link": "/papers/2407.14358",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14358",
+        "arxiv_url": "https://arxiv.org/abs/2407.14358",
+        "arxiv_id": "2407.14358"
+    },
+    {
+        "title": "VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding",
+        "link": "/papers/2407.12594",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12594",
+        "arxiv_url": "https://arxiv.org/abs/2407.12594",
+        "arxiv_id": "2407.12594"
+    },
+    {
+        "title": "The Vision of Autonomic Computing: Can LLMs Make It a Reality?",
+        "link": "/papers/2407.14402",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14402",
+        "arxiv_url": "https://arxiv.org/abs/2407.14402",
+        "arxiv_id": "2407.14402"
+    },
+    {
+        "title": "SciCode: A Research Coding Benchmark Curated by Scientists",
+        "link": "/papers/2407.13168",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13168",
+        "arxiv_url": "https://arxiv.org/abs/2407.13168",
+        "arxiv_id": "2407.13168"
+    },
+    {
+        "title": "Phi-3 Safety Post-Training: Aligning Language Models with a \"Break-Fix\" Cycle",
+        "link": "/papers/2407.13833",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13833",
+        "arxiv_url": "https://arxiv.org/abs/2407.13833",
+        "arxiv_id": "2407.13833"
+    },
+    {
+        "title": "Fast Matrix Multiplications for Lookup Table-Quantized LLMs",
+        "link": "/papers/2407.10960",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10960",
+        "arxiv_url": "https://arxiv.org/abs/2407.10960",
+        "arxiv_id": "2407.10960"
+    },
+    {
+        "title": "Visual Text Generation in the Wild",
+        "link": "/papers/2407.14138",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14138",
+        "arxiv_url": "https://arxiv.org/abs/2407.14138",
+        "arxiv_id": "2407.14138"
+    },
+    {
+        "title": "Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders",
+        "link": "/papers/2407.14435",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14435",
+        "arxiv_url": "https://arxiv.org/abs/2407.14435",
+        "arxiv_id": "2407.14435"
+    },
+    {
+        "title": "Qalam : A Multimodal LLM for Arabic Optical Character and Handwriting Recognition",
+        "link": "/papers/2407.13559",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13559",
+        "arxiv_url": "https://arxiv.org/abs/2407.13559",
+        "arxiv_id": "2407.13559"
+    },
+    {
+        "title": "PlacidDreamer: Advancing Harmony in Text-to-3D Generation",
+        "link": "/papers/2407.13976",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13976",
+        "arxiv_url": "https://arxiv.org/abs/2407.13976",
+        "arxiv_id": "2407.13976"
+    },
+    {
+        "title": "Efficient Audio Captioning with Encoder-Level Knowledge Distillation",
+        "link": "/papers/2407.14329",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14329",
+        "arxiv_url": "https://arxiv.org/abs/2407.14329",
+        "arxiv_id": "2407.14329"
+    },
+    {
+        "title": "SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization",
+        "link": "/papers/2407.14257",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14257",
+        "arxiv_url": "https://arxiv.org/abs/2407.14257",
+        "arxiv_id": "2407.14257"
+    }
+]
