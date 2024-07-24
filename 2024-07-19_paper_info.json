@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies",
+        "link": "/papers/2407.13623",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13623",
+        "arxiv_url": "https://arxiv.org/abs/2407.13623",
+        "arxiv_id": "2407.13623"
+    },
+    {
+        "title": "Scaling Retrieval-Based Language Models with a Trillion-Token Datastore",
+        "link": "/papers/2407.12854",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12854",
+        "arxiv_url": "https://arxiv.org/abs/2407.12854",
+        "arxiv_id": "2407.12854"
+    },
+    {
+        "title": "Shape of Motion: 4D Reconstruction from a Single Video",
+        "link": "/papers/2407.13764",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13764",
+        "arxiv_url": "https://arxiv.org/abs/2407.13764",
+        "arxiv_id": "2407.13764"
+    },
+    {
+        "title": "Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion",
+        "link": "/papers/2407.13759",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13759",
+        "arxiv_url": "https://arxiv.org/abs/2407.13759",
+        "arxiv_id": "2407.13759"
+    },
+    {
+        "title": "Understanding Reference Policies in Direct Preference Optimization",
+        "link": "/papers/2407.13709",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13709",
+        "arxiv_url": "https://arxiv.org/abs/2407.13709",
+        "arxiv_id": "2407.13709"
+    },
+    {
+        "title": "Scaling Granite Code Models to 128K Context",
+        "link": "/papers/2407.13739",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13739",
+        "arxiv_url": "https://arxiv.org/abs/2407.13739",
+        "arxiv_id": "2407.13739"
+    },
+    {
+        "title": "Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study",
+        "link": "/papers/2406.07057",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.07057",
+        "arxiv_url": "https://arxiv.org/abs/2406.07057",
+        "arxiv_id": "2406.07057"
+    },
+    {
+        "title": "Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation",
+        "link": "/papers/2407.13481",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13481",
+        "arxiv_url": "https://arxiv.org/abs/2407.13481",
+        "arxiv_id": "2407.13481"
+    },
+    {
+        "title": "CodeV: Empowering LLMs for Verilog Generation through Multi-Level Summarization",
+        "link": "/papers/2407.10424",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10424",
+        "arxiv_url": "https://arxiv.org/abs/2407.10424",
+        "arxiv_id": "2407.10424"
+    },
+    {
+        "title": "CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets",
+        "link": "/papers/2406.13897",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.13897",
+        "arxiv_url": "https://arxiv.org/abs/2406.13897",
+        "arxiv_id": "2406.13897"
+    },
+    {
+        "title": "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval",
+        "link": "/papers/2407.12883",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12883",
+        "arxiv_url": "https://arxiv.org/abs/2407.12883",
+        "arxiv_id": "2407.12883"
+    },
+    {
+        "title": "Retrieval-Enhanced Machine Learning: Synthesis and Opportunities",
+        "link": "/papers/2407.12982",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12982",
+        "arxiv_url": "https://arxiv.org/abs/2407.12982",
+        "arxiv_id": "2407.12982"
+    },
+    {
+        "title": "A Comparative Study on Automatic Coding of Medical Letters with Explainability",
+        "link": "/papers/2407.13638",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13638",
+        "arxiv_url": "https://arxiv.org/abs/2407.13638",
+        "arxiv_id": "2407.13638"
+    },
+    {
+        "title": "Benchmark Agreement Testing Done Right: A Guide for LLM Benchmark Evaluation",
+        "link": "/papers/2407.13696",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13696",
+        "arxiv_url": "https://arxiv.org/abs/2407.13696",
+        "arxiv_id": "2407.13696"
+    },
+    {
+        "title": "PM-LLM-Benchmark: Evaluating Large Language Models on Process Mining Tasks",
+        "link": "/papers/2407.13244",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13244",
+        "arxiv_url": "https://arxiv.org/abs/2407.13244",
+        "arxiv_id": "2407.13244"
+    }
+]
