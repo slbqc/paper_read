@@ -1,0 +1,170 @@
+[
+    {
+        "title": "NNsight and NDIF: Democratizing Access to Foundation Model Internals",
+        "link": "/papers/2407.14561",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14561",
+        "arxiv_url": "https://arxiv.org/abs/2407.14561",
+        "arxiv_id": "2407.14561"
+    },
+    {
+        "title": "Knowledge Mechanisms in Large Language Models: A Survey and Perspective",
+        "link": "/papers/2407.15017",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15017",
+        "arxiv_url": "https://arxiv.org/abs/2407.15017",
+        "arxiv_id": "2407.15017"
+    },
+    {
+        "title": "SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models",
+        "link": "/papers/2407.15841",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15841",
+        "arxiv_url": "https://arxiv.org/abs/2407.15841",
+        "arxiv_id": "2407.15841"
+    },
+    {
+        "title": "Compact Language Models via Pruning and Knowledge Distillation",
+        "link": "/papers/2407.14679",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14679",
+        "arxiv_url": "https://arxiv.org/abs/2407.14679",
+        "arxiv_id": "2407.14679"
+    },
+    {
+        "title": "LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding",
+        "link": "/papers/2407.15754",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15754",
+        "arxiv_url": "https://arxiv.org/abs/2407.15754",
+        "arxiv_id": "2407.15754"
+    },
+    {
+        "title": "VideoGameBunny: Towards vision assistants for video games",
+        "link": "/papers/2407.15295",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15295",
+        "arxiv_url": "https://arxiv.org/abs/2407.15295",
+        "arxiv_id": "2407.15295"
+    },
+    {
+        "title": "POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation",
+        "link": "/papers/2407.14931",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14931",
+        "arxiv_url": "https://arxiv.org/abs/2407.14931",
+        "arxiv_id": "2407.14931"
+    },
+    {
+        "title": "BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes",
+        "link": "/papers/2407.15848",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15848",
+        "arxiv_url": "https://arxiv.org/abs/2407.15848",
+        "arxiv_id": "2407.15848"
+    },
+    {
+        "title": "HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions",
+        "link": "/papers/2407.15187",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15187",
+        "arxiv_url": "https://arxiv.org/abs/2407.15187",
+        "arxiv_id": "2407.15187"
+    },
+    {
+        "title": "BOND: Aligning LLMs with Best-of-N Distillation",
+        "link": "/papers/2407.14622",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14622",
+        "arxiv_url": "https://arxiv.org/abs/2407.14622",
+        "arxiv_id": "2407.14622"
+    },
+    {
+        "title": "Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models",
+        "link": "/papers/2407.15642",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15642",
+        "arxiv_url": "https://arxiv.org/abs/2407.15642",
+        "arxiv_id": "2407.15642"
+    },
+    {
+        "title": "MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music Generation",
+        "link": "/papers/2407.15060",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15060",
+        "arxiv_url": "https://arxiv.org/abs/2407.15060",
+        "arxiv_id": "2407.15060"
+    },
+    {
+        "title": "Conditioned Language Policy: A General Framework for Steerable Multi-Objective Finetuning",
+        "link": "/papers/2407.15762",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15762",
+        "arxiv_url": "https://arxiv.org/abs/2407.15762",
+        "arxiv_id": "2407.15762"
+    },
+    {
+        "title": "CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model",
+        "link": "/papers/2407.15233",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15233",
+        "arxiv_url": "https://arxiv.org/abs/2407.15233",
+        "arxiv_id": "2407.15233"
+    },
+    {
+        "title": "MIBench: Evaluating Multimodal Large Language Models over Multiple Images",
+        "link": "/papers/2407.15272",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15272",
+        "arxiv_url": "https://arxiv.org/abs/2407.15272",
+        "arxiv_id": "2407.15272"
+    },
+    {
+        "title": "Artist: Aesthetically Controllable Text-Driven Stylization without Training",
+        "link": "/papers/2407.15842",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15842",
+        "arxiv_url": "https://arxiv.org/abs/2407.15842",
+        "arxiv_id": "2407.15842"
+    },
+    {
+        "title": "Consent in Crisis: The Rapid Decline of the AI Data Commons",
+        "link": "/papers/2407.14933",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14933",
+        "arxiv_url": "https://arxiv.org/abs/2407.14933",
+        "arxiv_id": "2407.14933"
+    },
+    {
+        "title": "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?",
+        "link": "/papers/2407.15711",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15711",
+        "arxiv_url": "https://arxiv.org/abs/2407.15711",
+        "arxiv_id": "2407.15711"
+    },
+    {
+        "title": "Local All-Pair Correspondence for Point Tracking",
+        "link": "/papers/2407.15420",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15420",
+        "arxiv_url": "https://arxiv.org/abs/2407.15420",
+        "arxiv_id": "2407.15420"
+    },
+    {
+        "title": "Temporal Residual Jacobians For Rig-free Motion Transfer",
+        "link": "/papers/2407.14958",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14958",
+        "arxiv_url": "https://arxiv.org/abs/2407.14958",
+        "arxiv_id": "2407.14958"
+    },
+    {
+        "title": "ThermalNeRF: Thermal Radiance Fields",
+        "link": "/papers/2407.15337",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15337",
+        "arxiv_url": "https://arxiv.org/abs/2407.15337",
+        "arxiv_id": "2407.15337"
+    },
+    {
+        "title": "Discrete Flow Matching",
+        "link": "/papers/2407.15595",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15595",
+        "arxiv_url": "https://arxiv.org/abs/2407.15595",
+        "arxiv_id": "2407.15595"
+    },
+    {
+        "title": "GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization",
+        "link": "/papers/2407.15002",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15002",
+        "arxiv_url": "https://arxiv.org/abs/2407.15002",
+        "arxiv_id": "2407.15002"
+    },
+    {
+        "title": "Visual Haystacks: Answering Harder Questions About Sets of Images",
+        "link": "/papers/2407.13766",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13766",
+        "arxiv_url": "https://arxiv.org/abs/2407.13766",
+        "arxiv_id": "2407.13766"
+    }
+]
