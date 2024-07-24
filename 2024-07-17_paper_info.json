@@ -1,0 +1,135 @@
+[
+    {
+        "title": "NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?",
+        "link": "/papers/2407.11963",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11963",
+        "arxiv_url": "https://arxiv.org/abs/2407.11963",
+        "arxiv_id": "2407.11963"
+    },
+    {
+        "title": "Qwen2-Audio Technical Report",
+        "link": "/papers/2407.10759",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10759",
+        "arxiv_url": "https://arxiv.org/abs/2407.10759",
+        "arxiv_id": "2407.10759"
+    },
+    {
+        "title": "Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes",
+        "link": "/papers/2407.10957",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10957",
+        "arxiv_url": "https://arxiv.org/abs/2407.10957",
+        "arxiv_id": "2407.10957"
+    },
+    {
+        "title": "Scaling Diffusion Transformers to 16 Billion Parameters",
+        "link": "/papers/2407.11633",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11633",
+        "arxiv_url": "https://arxiv.org/abs/2407.11633",
+        "arxiv_id": "2407.11633"
+    },
+    {
+        "title": "Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning",
+        "link": "/papers/2407.10718",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10718",
+        "arxiv_url": "https://arxiv.org/abs/2407.10718",
+        "arxiv_id": "2407.10718"
+    },
+    {
+        "title": "VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models",
+        "link": "/papers/2407.11691",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11691",
+        "arxiv_url": "https://arxiv.org/abs/2407.11691",
+        "arxiv_id": "2407.11691"
+    },
+    {
+        "title": "DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation",
+        "link": "/papers/2407.11394",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11394",
+        "arxiv_url": "https://arxiv.org/abs/2407.11394",
+        "arxiv_id": "2407.11394"
+    },
+    {
+        "title": "FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models",
+        "link": "/papers/2407.11522",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11522",
+        "arxiv_url": "https://arxiv.org/abs/2407.11522",
+        "arxiv_id": "2407.11522"
+    },
+    {
+        "title": "OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces",
+        "link": "/papers/2407.11895",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11895",
+        "arxiv_url": "https://arxiv.org/abs/2407.11895",
+        "arxiv_id": "2407.11895"
+    },
+    {
+        "title": "Efficient Training with Denoised Neural Weights",
+        "link": "/papers/2407.11966",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11966",
+        "arxiv_url": "https://arxiv.org/abs/2407.11966",
+        "arxiv_id": "2407.11966"
+    },
+    {
+        "title": "Animate3D: Animating Any 3D Model with Multi-view Video Diffusion",
+        "link": "/papers/2407.11398",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11398",
+        "arxiv_url": "https://arxiv.org/abs/2407.11398",
+        "arxiv_id": "2407.11398"
+    },
+    {
+        "title": "YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus",
+        "link": "/papers/2407.11144",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11144",
+        "arxiv_url": "https://arxiv.org/abs/2407.11144",
+        "arxiv_id": "2407.11144"
+    },
+    {
+        "title": "From GaLore to WeLore: How Low-Rank Weights Non-uniformly Emerge from Low-Rank Gradients",
+        "link": "/papers/2407.11239",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11239",
+        "arxiv_url": "https://arxiv.org/abs/2407.11239",
+        "arxiv_id": "2407.11239"
+    },
+    {
+        "title": "Grasping Diverse Objects with Simulated Humanoids",
+        "link": "/papers/2407.11385",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11385",
+        "arxiv_url": "https://arxiv.org/abs/2407.11385",
+        "arxiv_id": "2407.11385"
+    },
+    {
+        "title": "EfficientQAT: Efficient Quantization-Aware Training for Large Language Models",
+        "link": "/papers/2407.11062",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11062",
+        "arxiv_url": "https://arxiv.org/abs/2407.11062",
+        "arxiv_id": "2407.11062"
+    },
+    {
+        "title": "Vibravox: A Dataset of French Speech Captured with Body-conduction Audio Sensors",
+        "link": "/papers/2407.11828",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11828",
+        "arxiv_url": "https://arxiv.org/abs/2407.11828",
+        "arxiv_id": "2407.11828"
+    },
+    {
+        "title": "Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-development",
+        "link": "/papers/2407.11784",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11784",
+        "arxiv_url": "https://arxiv.org/abs/2407.11784",
+        "arxiv_id": "2407.11784"
+    },
+    {
+        "title": "Click-Gaussian: Interactive Segmentation to Any 3D Gaussians",
+        "link": "/papers/2407.11793",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11793",
+        "arxiv_url": "https://arxiv.org/abs/2407.11793",
+        "arxiv_id": "2407.11793"
+    },
+    {
+        "title": "Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models",
+        "link": "/papers/2407.11282",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11282",
+        "arxiv_url": "https://arxiv.org/abs/2407.11282",
+        "arxiv_id": "2407.11282"
+    }
+]
