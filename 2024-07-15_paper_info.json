@@ -1,0 +1,121 @@
+[
+    {
+        "title": "SpreadsheetLLM: Encoding Spreadsheets for Large Language Models",
+        "link": "/papers/2407.09025",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09025",
+        "arxiv_url": "https://arxiv.org/abs/2407.09025",
+        "arxiv_id": "2407.09025"
+    },
+    {
+        "title": "Human-like Episodic Memory for Infinite Context LLMs",
+        "link": "/papers/2407.09450",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09450",
+        "arxiv_url": "https://arxiv.org/abs/2407.09450",
+        "arxiv_id": "2407.09450"
+    },
+    {
+        "title": "Toto: Time Series Optimized Transformer for Observability",
+        "link": "/papers/2407.07874",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07874",
+        "arxiv_url": "https://arxiv.org/abs/2407.07874",
+        "arxiv_id": "2407.07874"
+    },
+    {
+        "title": "MUSCLE: A Model Update Strategy for Compatible LLM Evolution",
+        "link": "/papers/2407.09435",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09435",
+        "arxiv_url": "https://arxiv.org/abs/2407.09435",
+        "arxiv_id": "2407.09435"
+    },
+    {
+        "title": "H2O-Danube3 Technical Report",
+        "link": "/papers/2407.09276",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09276",
+        "arxiv_url": "https://arxiv.org/abs/2407.09276",
+        "arxiv_id": "2407.09276"
+    },
+    {
+        "title": "Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing",
+        "link": "/papers/2407.08770",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08770",
+        "arxiv_url": "https://arxiv.org/abs/2407.08770",
+        "arxiv_id": "2407.08770"
+    },
+    {
+        "title": "GAVEL: Generating Games Via Evolution and Language Models",
+        "link": "/papers/2407.09388",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09388",
+        "arxiv_url": "https://arxiv.org/abs/2407.09388",
+        "arxiv_id": "2407.09388"
+    },
+    {
+        "title": "Transformer Layers as Painters",
+        "link": "/papers/2407.09298",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09298",
+        "arxiv_url": "https://arxiv.org/abs/2407.09298",
+        "arxiv_id": "2407.09298"
+    },
+    {
+        "title": "StyleSplat: 3D Object Style Transfer with Gaussian Splatting",
+        "link": "/papers/2407.09473",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09473",
+        "arxiv_url": "https://arxiv.org/abs/2407.09473",
+        "arxiv_id": "2407.09473"
+    },
+    {
+        "title": "SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers",
+        "link": "/papers/2407.09413",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09413",
+        "arxiv_url": "https://arxiv.org/abs/2407.09413",
+        "arxiv_id": "2407.09413"
+    },
+    {
+        "title": "Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis",
+        "link": "/papers/2407.09732",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09732",
+        "arxiv_url": "https://arxiv.org/abs/2407.09732",
+        "arxiv_id": "2407.09732"
+    },
+    {
+        "title": "TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models",
+        "link": "/papers/2407.09012",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09012",
+        "arxiv_url": "https://arxiv.org/abs/2407.09012",
+        "arxiv_id": "2407.09012"
+    },
+    {
+        "title": "New Desiderata for Direct Preference Optimization",
+        "link": "/papers/2407.09072",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09072",
+        "arxiv_url": "https://arxiv.org/abs/2407.09072",
+        "arxiv_id": "2407.09072"
+    },
+    {
+        "title": "Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training",
+        "link": "/papers/2407.09121",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09121",
+        "arxiv_url": "https://arxiv.org/abs/2407.09121",
+        "arxiv_id": "2407.09121"
+    },
+    {
+        "title": "Characterizing Prompt Compression Methods for Long Context Inference",
+        "link": "/papers/2407.08892",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.08892",
+        "arxiv_url": "https://arxiv.org/abs/2407.08892",
+        "arxiv_id": "2407.08892"
+    },
+    {
+        "title": "Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning",
+        "link": "/papers/2406.02265",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.02265",
+        "arxiv_url": "https://arxiv.org/abs/2406.02265",
+        "arxiv_id": "2406.02265"
+    },
+    {
+        "title": "RRM: Relightable assets using Radiance guided Material extraction",
+        "link": "/papers/2407.06397",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.06397",
+        "arxiv_url": "https://arxiv.org/abs/2407.06397",
+        "arxiv_id": "2407.06397"
+    }
+]
