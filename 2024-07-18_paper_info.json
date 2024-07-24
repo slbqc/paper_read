@@ -1,0 +1,135 @@
+[
+    {
+        "title": "Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models",
+        "link": "/papers/2407.12327",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12327",
+        "arxiv_url": "https://arxiv.org/abs/2407.12327",
+        "arxiv_id": "2407.12327"
+    },
+    {
+        "title": "GoldFinch: High Performance RWKV/Transformer Hybrid with Linear Pre-Fill and Extreme KV-Cache Compression",
+        "link": "/papers/2407.12077",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12077",
+        "arxiv_url": "https://arxiv.org/abs/2407.12077",
+        "arxiv_id": "2407.12077"
+    },
+    {
+        "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases",
+        "link": "/papers/2407.12784",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12784",
+        "arxiv_url": "https://arxiv.org/abs/2407.12784",
+        "arxiv_id": "2407.12784"
+    },
+    {
+        "title": "E5-V: Universal Embeddings with Multimodal Large Language Models",
+        "link": "/papers/2407.12580",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12580",
+        "arxiv_url": "https://arxiv.org/abs/2407.12580",
+        "arxiv_id": "2407.12580"
+    },
+    {
+        "title": "LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models",
+        "link": "/papers/2407.12772",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12772",
+        "arxiv_url": "https://arxiv.org/abs/2407.12772",
+        "arxiv_id": "2407.12772"
+    },
+    {
+        "title": "Patch-Level Training for Large Language Models",
+        "link": "/papers/2407.12665",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12665",
+        "arxiv_url": "https://arxiv.org/abs/2407.12665",
+        "arxiv_id": "2407.12665"
+    },
+    {
+        "title": "VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control",
+        "link": "/papers/2407.12781",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12781",
+        "arxiv_url": "https://arxiv.org/abs/2407.12781",
+        "arxiv_id": "2407.12781"
+    },
+    {
+        "title": "IMAGDressing-v1: Customizable Virtual Dressing",
+        "link": "/papers/2407.12705",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12705",
+        "arxiv_url": "https://arxiv.org/abs/2407.12705",
+        "arxiv_id": "2407.12705"
+    },
+    {
+        "title": "Case2Code: Learning Inductive Reasoning with Synthetic Data",
+        "link": "/papers/2407.12504",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12504",
+        "arxiv_url": "https://arxiv.org/abs/2407.12504",
+        "arxiv_id": "2407.12504"
+    },
+    {
+        "title": "Goldfish: Vision-Language Understanding of Arbitrarily Long Videos",
+        "link": "/papers/2407.12679",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12679",
+        "arxiv_url": "https://arxiv.org/abs/2407.12679",
+        "arxiv_id": "2407.12679"
+    },
+    {
+        "title": "AUITestAgent: Automatic Requirements Oriented GUI Function Testing",
+        "link": "/papers/2407.09018",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09018",
+        "arxiv_url": "https://arxiv.org/abs/2407.09018",
+        "arxiv_id": "2407.09018"
+    },
+    {
+        "title": "Audio Conditioning for Music Generation via Discrete Bottleneck Features",
+        "link": "/papers/2407.12563",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12563",
+        "arxiv_url": "https://arxiv.org/abs/2407.12563",
+        "arxiv_id": "2407.12563"
+    },
+    {
+        "title": "Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections",
+        "link": "/papers/2407.12306",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12306",
+        "arxiv_url": "https://arxiv.org/abs/2407.12306",
+        "arxiv_id": "2407.12306"
+    },
+    {
+        "title": "The Art of Saying No: Contextual Noncompliance in Language Models",
+        "link": "/papers/2407.12043",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12043",
+        "arxiv_url": "https://arxiv.org/abs/2407.12043",
+        "arxiv_id": "2407.12043"
+    },
+    {
+        "title": "NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models",
+        "link": "/papers/2407.12366",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12366",
+        "arxiv_url": "https://arxiv.org/abs/2407.12366",
+        "arxiv_id": "2407.12366"
+    },
+    {
+        "title": "ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter",
+        "link": "/papers/2407.11298",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11298",
+        "arxiv_url": "https://arxiv.org/abs/2407.11298",
+        "arxiv_id": "2407.11298"
+    },
+    {
+        "title": "Practical Unlearning for Large Language Models",
+        "link": "/papers/2407.10223",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10223",
+        "arxiv_url": "https://arxiv.org/abs/2407.10223",
+        "arxiv_id": "2407.10223"
+    },
+    {
+        "title": "Zero-shot Cross-Lingual Transfer for Synthetic Data Generation in Grammatical Error Detection",
+        "link": "/papers/2407.11854",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.11854",
+        "arxiv_url": "https://arxiv.org/abs/2407.11854",
+        "arxiv_id": "2407.11854"
+    },
+    {
+        "title": "Towards Understanding Unsafe Video Generation",
+        "link": "/papers/2407.12581",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12581",
+        "arxiv_url": "https://arxiv.org/abs/2407.12581",
+        "arxiv_id": "2407.12581"
+    }
+]
