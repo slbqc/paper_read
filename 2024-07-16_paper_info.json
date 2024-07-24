@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Qwen2 Technical Report",
+        "link": "/papers/2407.10671",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10671",
+        "arxiv_url": "https://arxiv.org/abs/2407.10671",
+        "arxiv_id": "2407.10671"
+    },
+    {
+        "title": "Learning to Refuse: Towards Mitigating Privacy Risks in LLMs",
+        "link": "/papers/2407.10058",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10058",
+        "arxiv_url": "https://arxiv.org/abs/2407.10058",
+        "arxiv_id": "2407.10058"
+    },
+    {
+        "title": "GRUtopia: Dream General Robots in a City at Scale",
+        "link": "/papers/2407.10943",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10943",
+        "arxiv_url": "https://arxiv.org/abs/2407.10943",
+        "arxiv_id": "2407.10943"
+    },
+    {
+        "title": "The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore Non-Determinism",
+        "link": "/papers/2407.10457",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10457",
+        "arxiv_url": "https://arxiv.org/abs/2407.10457",
+        "arxiv_id": "2407.10457"
+    },
+    {
+        "title": "Q-Sparse: All Large Language Models can be Fully Sparsely-Activated",
+        "link": "/papers/2407.10969",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10969",
+        "arxiv_url": "https://arxiv.org/abs/2407.10969",
+        "arxiv_id": "2407.10969"
+    },
+    {
+        "title": "Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation",
+        "link": "/papers/2407.10817",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10817",
+        "arxiv_url": "https://arxiv.org/abs/2407.10817",
+        "arxiv_id": "2407.10817"
+    },
+    {
+        "title": "Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion",
+        "link": "/papers/2407.10973",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10973",
+        "arxiv_url": "https://arxiv.org/abs/2407.10973",
+        "arxiv_id": "2407.10973"
+    },
+    {
+        "title": "DataDream: Few-shot Guided Dataset Generation",
+        "link": "/papers/2407.10910",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10910",
+        "arxiv_url": "https://arxiv.org/abs/2407.10910",
+        "arxiv_id": "2407.10910"
+    },
+    {
+        "title": "Video Occupancy Models",
+        "link": "/papers/2407.09533",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.09533",
+        "arxiv_url": "https://arxiv.org/abs/2407.09533",
+        "arxiv_id": "2407.09533"
+    },
+    {
+        "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+        "link": "/papers/2407.10956",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10956",
+        "arxiv_url": "https://arxiv.org/abs/2407.10956",
+        "arxiv_id": "2407.10956"
+    },
+    {
+        "title": "Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity",
+        "link": "/papers/2407.10387",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10387",
+        "arxiv_url": "https://arxiv.org/abs/2407.10387",
+        "arxiv_id": "2407.10387"
+    },
+    {
+        "title": "LLM Circuit Analyses Are Consistent Across Training and Scale",
+        "link": "/papers/2407.10827",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10827",
+        "arxiv_url": "https://arxiv.org/abs/2407.10827",
+        "arxiv_id": "2407.10827"
+    },
+    {
+        "title": "MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models",
+        "link": "/papers/2407.10953",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10953",
+        "arxiv_url": "https://arxiv.org/abs/2407.10953",
+        "arxiv_id": "2407.10953"
+    },
+    {
+        "title": "LAB-Bench: Measuring Capabilities of Language Models for Biology Research",
+        "link": "/papers/2407.10362",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10362",
+        "arxiv_url": "https://arxiv.org/abs/2407.10362",
+        "arxiv_id": "2407.10362"
+    },
+    {
+        "title": "Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models",
+        "link": "/papers/2407.10285",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.10285",
+        "arxiv_url": "https://arxiv.org/abs/2407.10285",
+        "arxiv_id": "2407.10285"
+    },
+    {
+        "title": "SHERL: Synthesizing High Accuracy and Efficient Memory for Resource-Limited Transfer Learning",
+        "link": "/papers/2407.07523",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.07523",
+        "arxiv_url": "https://arxiv.org/abs/2407.07523",
+        "arxiv_id": "2407.07523"
+    }
+]
