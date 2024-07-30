@@ -1,0 +1,79 @@
+[
+    {
+        "title": "CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis",
+        "link": "/papers/2407.13301",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.13301",
+        "arxiv_url": "https://arxiv.org/abs/2407.13301",
+        "arxiv_id": "2407.13301"
+    },
+    {
+        "title": "KAN or MLP: A Fairer Comparison",
+        "link": "/papers/2407.16674",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.16674",
+        "arxiv_url": "https://arxiv.org/abs/2407.16674",
+        "arxiv_id": "2407.16674"
+    },
+    {
+        "title": "MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence",
+        "link": "/papers/2407.16655",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.16655",
+        "arxiv_url": "https://arxiv.org/abs/2407.16655",
+        "arxiv_id": "2407.16655"
+    },
+    {
+        "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+        "link": "/papers/2407.14505",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.14505",
+        "arxiv_url": "https://arxiv.org/abs/2407.14505",
+        "arxiv_id": "2407.14505"
+    },
+    {
+        "title": "OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person",
+        "link": "/papers/2407.16224",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.16224",
+        "arxiv_url": "https://arxiv.org/abs/2407.16224",
+        "arxiv_id": "2407.16224"
+    },
+    {
+        "title": "INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model",
+        "link": "/papers/2407.16198",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.16198",
+        "arxiv_url": "https://arxiv.org/abs/2407.16198",
+        "arxiv_id": "2407.16198"
+    },
+    {
+        "title": "F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions",
+        "link": "/papers/2407.12435",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.12435",
+        "arxiv_url": "https://arxiv.org/abs/2407.12435",
+        "arxiv_id": "2407.12435"
+    },
+    {
+        "title": "A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data",
+        "link": "/papers/2407.16680",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.16680",
+        "arxiv_url": "https://arxiv.org/abs/2407.16680",
+        "arxiv_id": "2407.16680"
+    },
+    {
+        "title": "SIGMA: Sinkhorn-Guided Masked Video Modeling",
+        "link": "/papers/2407.15447",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.15447",
+        "arxiv_url": "https://arxiv.org/abs/2407.15447",
+        "arxiv_id": "2407.15447"
+    },
+    {
+        "title": "PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing",
+        "link": "/papers/2407.16318",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.16318",
+        "arxiv_url": "https://arxiv.org/abs/2407.16318",
+        "arxiv_id": "2407.16318"
+    },
+    {
+        "title": "Cross Anything: General Quadruped Robot Navigation through Complex Terrains",
+        "link": "/papers/2407.16412",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.16412",
+        "arxiv_url": "https://arxiv.org/abs/2407.16412",
+        "arxiv_id": "2407.16412"
+    }
+]
